@@ -1,5 +1,9 @@
 - pkg:nuget/FmgLib.MauiMarkup.Template@1.0.0
 - pkg:nuget/FmgLib.MauiMarkup.Template@1.1.0
+- pkg:nuget/FmgLib.MauiMarkup.Template@10.0.0
+- pkg:nuget/FmgLib.MauiMarkup.Template@10.0.0-preview.4.0
+- pkg:nuget/FmgLib.MauiMarkup.Template@10.0.0-preview.5.0
+- pkg:nuget/FmgLib.MauiMarkup.Template@10.0.1
 - pkg:nuget/FmgLib.MauiMarkup.Template@2.0.0
 - pkg:nuget/FmgLib.MauiMarkup.Template@3.0.0
 - pkg:nuget/FmgLib.MauiMarkup.Template@3.1.0
