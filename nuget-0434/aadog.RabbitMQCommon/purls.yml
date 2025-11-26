@@ -1,0 +1,3 @@
+- pkg:nuget/aadog.RabbitMQCommon@10.0.5
+- pkg:nuget/aadog.RabbitMQCommon@2.0.0
+- pkg:nuget/aadog.RabbitMQCommon@7.0.0
