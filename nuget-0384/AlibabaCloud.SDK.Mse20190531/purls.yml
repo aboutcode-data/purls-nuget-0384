@@ -95,6 +95,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.2.0
 - pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.20.0
 - pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.20.1
+- pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.21.0
 - pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.3.0
 - pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.3.1
 - pkg:nuget/AlibabaCloud.SDK.Mse20190531@6.3.2
