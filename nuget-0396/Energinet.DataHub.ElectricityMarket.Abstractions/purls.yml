@@ -1,0 +1,4 @@
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@0.5.1
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.12.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.17.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.24.0
