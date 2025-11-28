@@ -24,6 +24,7 @@
 - pkg:nuget/UMT360.Client@5.27.2024.725
 - pkg:nuget/UMT360.Client@5.27.2024.830
 - pkg:nuget/UMT360.Client@5.27.2024.926
+- pkg:nuget/UMT360.Client@5.27.2025.1128
 - pkg:nuget/UMT360.Client@5.27.2025.220
 - pkg:nuget/UMT360.Client@5.27.2025.328
 - pkg:nuget/UMT360.Client@5.27.2025.530

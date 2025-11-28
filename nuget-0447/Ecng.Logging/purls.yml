@@ -58,4 +58,5 @@
 - pkg:nuget/Ecng.Logging@1.0.7
 - pkg:nuget/Ecng.Logging@1.0.73
 - pkg:nuget/Ecng.Logging@1.0.8
+- pkg:nuget/Ecng.Logging@1.0.84
 - pkg:nuget/Ecng.Logging@1.0.9
