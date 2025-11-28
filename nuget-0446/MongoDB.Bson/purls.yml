@@ -105,3 +105,4 @@
 - pkg:nuget/MongoDB.Bson@3.4.2
 - pkg:nuget/MongoDB.Bson@3.4.3
 - pkg:nuget/MongoDB.Bson@3.5.0
+- pkg:nuget/MongoDB.Bson@3.5.2
