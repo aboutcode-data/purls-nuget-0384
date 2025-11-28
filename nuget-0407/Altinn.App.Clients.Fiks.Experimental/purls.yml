@@ -3,3 +3,4 @@
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.6.0-pr.944.fiks-io-client.691f1df9
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.6.4-pr.1313.fiks-io-client.0ebeb4e9
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.9.0-pr.3076.fiks-io-client.189206c6
+- pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.9.0-pr.3409.subform-service-task.5eeacd80

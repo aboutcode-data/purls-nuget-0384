@@ -7,6 +7,7 @@
 - pkg:nuget/CK.DB.Workspace.Tests@13.0.0
 - pkg:nuget/CK.DB.Workspace.Tests@13.0.1
 - pkg:nuget/CK.DB.Workspace.Tests@13.0.2
+- pkg:nuget/CK.DB.Workspace.Tests@14.1.1
 - pkg:nuget/CK.DB.Workspace.Tests@7.0.2
 - pkg:nuget/CK.DB.Workspace.Tests@8.0.0
 - pkg:nuget/CK.DB.Workspace.Tests@8.0.1
