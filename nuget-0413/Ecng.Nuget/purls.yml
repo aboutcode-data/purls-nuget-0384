@@ -75,6 +75,7 @@
 - pkg:nuget/Ecng.Nuget@1.0.18
 - pkg:nuget/Ecng.Nuget@1.0.188
 - pkg:nuget/Ecng.Nuget@1.0.19
+- pkg:nuget/Ecng.Nuget@1.0.192
 - pkg:nuget/Ecng.Nuget@1.0.2
 - pkg:nuget/Ecng.Nuget@1.0.20
 - pkg:nuget/Ecng.Nuget@1.0.21
