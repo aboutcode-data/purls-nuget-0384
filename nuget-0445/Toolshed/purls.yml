@@ -68,6 +68,7 @@
 - pkg:nuget/Toolshed@9.2.7
 - pkg:nuget/Toolshed@9.2.8
 - pkg:nuget/Toolshed@9.3.1
+- pkg:nuget/Toolshed@9.3.10
 - pkg:nuget/Toolshed@9.3.2
 - pkg:nuget/Toolshed@9.3.3
 - pkg:nuget/Toolshed@9.3.4
