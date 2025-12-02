@@ -1,3 +1,4 @@
+- pkg:nuget/ServiceStack.OrmLite.Oracle@10.0.0
 - pkg:nuget/ServiceStack.OrmLite.Oracle@3.9.14
 - pkg:nuget/ServiceStack.OrmLite.Oracle@3.9.24
 - pkg:nuget/ServiceStack.OrmLite.Oracle@3.9.25
