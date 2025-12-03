@@ -20,6 +20,7 @@
 - pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.1-alpha
 - pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.15
 - pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.2-alpha
+- pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.21
 - pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.3-beta
 - pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.4-beta
 - pkg:nuget/Dibk.Ftpb.ModelToPdf.Common@1.0.5-beta
