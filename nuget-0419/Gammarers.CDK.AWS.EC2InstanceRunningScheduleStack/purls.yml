@@ -38,6 +38,7 @@
 - pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.1
 - pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.10
 - pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.13
+- pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.15
 - pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.2
 - pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.3
 - pkg:nuget/Gammarers.CDK.AWS.EC2InstanceRunningScheduleStack@2.3.4
