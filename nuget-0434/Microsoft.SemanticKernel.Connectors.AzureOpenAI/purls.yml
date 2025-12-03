@@ -54,3 +54,4 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureOpenAI@1.63.0
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureOpenAI@1.64.0
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureOpenAI@1.65.0
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureOpenAI@1.68.0
