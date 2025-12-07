@@ -2,6 +2,7 @@
 - pkg:nuget/Signum.TSGenerator@1.0.1
 - pkg:nuget/Signum.TSGenerator@1.0.2
 - pkg:nuget/Signum.TSGenerator@1.0.3
+- pkg:nuget/Signum.TSGenerator@10.0.3
 - pkg:nuget/Signum.TSGenerator@2.0.0
 - pkg:nuget/Signum.TSGenerator@2.0.0-beta
 - pkg:nuget/Signum.TSGenerator@2.0.0-beta2
