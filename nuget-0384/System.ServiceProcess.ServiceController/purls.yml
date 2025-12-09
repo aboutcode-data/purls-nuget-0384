@@ -6,6 +6,7 @@
 - pkg:nuget/System.ServiceProcess.ServiceController@10.0.0-preview.6.25358.103
 - pkg:nuget/System.ServiceProcess.ServiceController@10.0.0-preview.7.25380.108
 - pkg:nuget/System.ServiceProcess.ServiceController@10.0.0-rc.1.25451.107
+- pkg:nuget/System.ServiceProcess.ServiceController@10.0.1
 - pkg:nuget/System.ServiceProcess.ServiceController@4.0.0-beta-22416
 - pkg:nuget/System.ServiceProcess.ServiceController@4.0.0-beta-22605
 - pkg:nuget/System.ServiceProcess.ServiceController@4.0.0-beta-22816
