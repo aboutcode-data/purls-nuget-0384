@@ -91,3 +91,4 @@
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Windows@1.298.2
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Windows@1.300.1
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Windows@1.302.1
+- pkg:nuget/Instana.Tracing.Core.Rewriter.Windows@1.309.2

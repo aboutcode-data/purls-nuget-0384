@@ -44,6 +44,7 @@
 - pkg:nuget/Squadron.RavenDB@0.26.0-preview.5
 - pkg:nuget/Squadron.RavenDB@0.26.0-preview.6
 - pkg:nuget/Squadron.RavenDB@0.26.0-preview.9
+- pkg:nuget/Squadron.RavenDB@0.27.1
 - pkg:nuget/Squadron.RavenDB@0.6.0
 - pkg:nuget/Squadron.RavenDB@0.6.0-preview2
 - pkg:nuget/Squadron.RavenDB@0.6.0-preview3
