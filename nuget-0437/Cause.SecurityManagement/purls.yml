@@ -333,3 +333,5 @@
 - pkg:nuget/Cause.SecurityManagement@9.1.8
 - pkg:nuget/Cause.SecurityManagement@9.1.9
 - pkg:nuget/Cause.SecurityManagement@9.2.0
+- pkg:nuget/Cause.SecurityManagement@9.5.1
+- pkg:nuget/Cause.SecurityManagement@9.5.2
