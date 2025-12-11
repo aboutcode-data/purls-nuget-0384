@@ -153,6 +153,7 @@
 - pkg:nuget/Speckle.Sdk@3.1.7
 - pkg:nuget/Speckle.Sdk@3.1.8
 - pkg:nuget/Speckle.Sdk@3.10.0-alpha.2
+- pkg:nuget/Speckle.Sdk@3.11.1
 - pkg:nuget/Speckle.Sdk@3.2.0
 - pkg:nuget/Speckle.Sdk@3.2.0-alpha.26
 - pkg:nuget/Speckle.Sdk@3.2.0-alpha.36
