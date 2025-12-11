@@ -39,3 +39,4 @@
 - pkg:nuget/ZhileTime.Hope.Quartz.InstallScript.SqlServer@5.5.9
 - pkg:nuget/ZhileTime.Hope.Quartz.InstallScript.SqlServer@5.7.1
 - pkg:nuget/ZhileTime.Hope.Quartz.InstallScript.SqlServer@5.7.2
+- pkg:nuget/ZhileTime.Hope.Quartz.InstallScript.SqlServer@6.1.10
