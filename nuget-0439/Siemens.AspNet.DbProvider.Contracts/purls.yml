@@ -92,3 +92,4 @@
 - pkg:nuget/Siemens.AspNet.DbProvider.Contracts@0.1.0-alpha.280
 - pkg:nuget/Siemens.AspNet.DbProvider.Contracts@0.1.0-alpha.281
 - pkg:nuget/Siemens.AspNet.DbProvider.Contracts@0.1.0-alpha.331
+- pkg:nuget/Siemens.AspNet.DbProvider.Contracts@0.1.0-alpha.359
