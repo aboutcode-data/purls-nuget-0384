@@ -1,4 +1,5 @@
 - pkg:nuget/Aiursoft.CommandFramework@1.0.0
+- pkg:nuget/Aiursoft.CommandFramework@10.0.2
 - pkg:nuget/Aiursoft.CommandFramework@6.0.0
 - pkg:nuget/Aiursoft.CommandFramework@7.0.0
 - pkg:nuget/Aiursoft.CommandFramework@7.0.1
