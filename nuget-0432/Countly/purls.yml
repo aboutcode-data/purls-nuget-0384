@@ -50,3 +50,4 @@
 - pkg:nuget/Countly@24.1.1
 - pkg:nuget/Countly@25.4.0
 - pkg:nuget/Countly@25.4.1
+- pkg:nuget/Countly@25.4.3
