@@ -1,3 +1,4 @@
+- pkg:nuget/MitMediator.AutoApi.Abstractions@10.0.0-alfa-3
 - pkg:nuget/MitMediator.AutoApi.Abstractions@7.0.0-alfa
 - pkg:nuget/MitMediator.AutoApi.Abstractions@7.0.0-alfa-3
 - pkg:nuget/MitMediator.AutoApi.Abstractions@7.0.0-alfa-4
