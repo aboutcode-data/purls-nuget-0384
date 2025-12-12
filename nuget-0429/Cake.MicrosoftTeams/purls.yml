@@ -13,3 +13,4 @@
 - pkg:nuget/Cake.MicrosoftTeams@1.0.1
 - pkg:nuget/Cake.MicrosoftTeams@1.3.0
 - pkg:nuget/Cake.MicrosoftTeams@2.0.0
+- pkg:nuget/Cake.MicrosoftTeams@6.0.0
