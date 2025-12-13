@@ -892,6 +892,7 @@
 - pkg:nuget/AWSSDK.Imagebuilder@3.7.504.5
 - pkg:nuget/AWSSDK.Imagebuilder@3.7.505.2
 - pkg:nuget/AWSSDK.Imagebuilder@3.7.506.1
+- pkg:nuget/AWSSDK.Imagebuilder@3.7.506.7
 - pkg:nuget/AWSSDK.Imagebuilder@3.7.6
 - pkg:nuget/AWSSDK.Imagebuilder@3.7.6.1
 - pkg:nuget/AWSSDK.Imagebuilder@3.7.6.10

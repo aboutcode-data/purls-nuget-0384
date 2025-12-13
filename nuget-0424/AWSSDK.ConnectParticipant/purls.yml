@@ -990,6 +990,7 @@
 - pkg:nuget/AWSSDK.ConnectParticipant@3.7.503.11
 - pkg:nuget/AWSSDK.ConnectParticipant@3.7.503.13
 - pkg:nuget/AWSSDK.ConnectParticipant@3.7.504
+- pkg:nuget/AWSSDK.ConnectParticipant@3.7.504.5
 - pkg:nuget/AWSSDK.ConnectParticipant@4.0.0
 - pkg:nuget/AWSSDK.ConnectParticipant@4.0.0-preview
 - pkg:nuget/AWSSDK.ConnectParticipant@4.0.0-preview.10
