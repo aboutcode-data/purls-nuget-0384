@@ -36,3 +36,4 @@
 - pkg:nuget/PulseRPC.Client@0.6.2
 - pkg:nuget/PulseRPC.Client@0.6.4
 - pkg:nuget/PulseRPC.Client@1.0.0
+- pkg:nuget/PulseRPC.Client@1.0.16
