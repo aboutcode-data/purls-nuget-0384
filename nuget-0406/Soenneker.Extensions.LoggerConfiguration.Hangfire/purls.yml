@@ -1230,3 +1230,4 @@
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration.Hangfire@3.0.999
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration.Hangfire@4.0.1240
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration.Hangfire@4.0.1254
+- pkg:nuget/Soenneker.Extensions.LoggerConfiguration.Hangfire@4.0.1256
