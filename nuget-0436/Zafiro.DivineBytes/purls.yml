@@ -67,4 +67,6 @@
 - pkg:nuget/Zafiro.DivineBytes@41.1.0
 - pkg:nuget/Zafiro.DivineBytes@42.0.0
 - pkg:nuget/Zafiro.DivineBytes@42.0.3
+- pkg:nuget/Zafiro.DivineBytes@45.0.1
+- pkg:nuget/Zafiro.DivineBytes@45.0.2
 - pkg:nuget/Zafiro.DivineBytes@7.0.0
