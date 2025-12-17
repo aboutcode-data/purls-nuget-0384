@@ -1,5 +1,6 @@
 - pkg:nuget/xmisc.core.io@1.0.6
 - pkg:nuget/xmisc.core.io@1.1.2
+- pkg:nuget/xmisc.core.io@10.0.0
 - pkg:nuget/xmisc.core.io@2.0.10-alpha
 - pkg:nuget/xmisc.core.io@2.0.26-alpha
 - pkg:nuget/xmisc.core.io@2.0.5-alpha
