@@ -214,3 +214,5 @@
 - pkg:nuget/H.Necessaire.Runtime@2.8.5
 - pkg:nuget/H.Necessaire.Runtime@2.8.6
 - pkg:nuget/H.Necessaire.Runtime@2.9.0
+- pkg:nuget/H.Necessaire.Runtime@3.0.3
+- pkg:nuget/H.Necessaire.Runtime@3.0.4
