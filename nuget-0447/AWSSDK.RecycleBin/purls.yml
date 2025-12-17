@@ -683,6 +683,7 @@
 - pkg:nuget/AWSSDK.RecycleBin@3.7.502.8
 - pkg:nuget/AWSSDK.RecycleBin@3.7.503.1
 - pkg:nuget/AWSSDK.RecycleBin@3.7.503.3
+- pkg:nuget/AWSSDK.RecycleBin@3.7.503.8
 - pkg:nuget/AWSSDK.RecycleBin@4.0.0
 - pkg:nuget/AWSSDK.RecycleBin@4.0.0-preview
 - pkg:nuget/AWSSDK.RecycleBin@4.0.0-preview.10
