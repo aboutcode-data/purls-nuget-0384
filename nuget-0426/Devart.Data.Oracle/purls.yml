@@ -11,6 +11,7 @@
 - pkg:nuget/Devart.Data.Oracle@10.4.193
 - pkg:nuget/Devart.Data.Oracle@10.4.235
 - pkg:nuget/Devart.Data.Oracle@10.4.290
+- pkg:nuget/Devart.Data.Oracle@11.0.0
 - pkg:nuget/Devart.Data.Oracle@9.10.909
 - pkg:nuget/Devart.Data.Oracle@9.11.1034
 - pkg:nuget/Devart.Data.Oracle@9.11.951
