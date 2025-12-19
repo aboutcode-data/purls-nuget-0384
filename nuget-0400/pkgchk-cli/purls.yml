@@ -280,3 +280,6 @@
 - pkg:nuget/pkgchk-cli@0.3.535-preview
 - pkg:nuget/pkgchk-cli@0.3.536
 - pkg:nuget/pkgchk-cli@0.3.540
+- pkg:nuget/pkgchk-cli@0.3.604-preview
+- pkg:nuget/pkgchk-cli@0.3.605-preview
+- pkg:nuget/pkgchk-cli@0.3.606-preview
