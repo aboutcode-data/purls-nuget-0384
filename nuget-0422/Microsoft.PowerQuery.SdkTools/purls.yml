@@ -16,3 +16,4 @@
 - pkg:nuget/Microsoft.PowerQuery.SdkTools@2.145.5
 - pkg:nuget/Microsoft.PowerQuery.SdkTools@2.146.1
 - pkg:nuget/Microsoft.PowerQuery.SdkTools@2.147.1
+- pkg:nuget/Microsoft.PowerQuery.SdkTools@2.150.3
