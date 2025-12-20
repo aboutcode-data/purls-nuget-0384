@@ -1249,3 +1249,4 @@
 - pkg:nuget/Soenneker.SignalR.Web.Clients@3.0.998
 - pkg:nuget/Soenneker.SignalR.Web.Clients@3.0.999
 - pkg:nuget/Soenneker.SignalR.Web.Clients@4.0.1280
+- pkg:nuget/Soenneker.SignalR.Web.Clients@4.0.1299
