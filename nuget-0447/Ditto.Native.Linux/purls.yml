@@ -65,4 +65,5 @@
 - pkg:nuget/Ditto.Native.Linux@4.9.3-rc.1
 - pkg:nuget/Ditto.Native.Linux@4.9.4
 - pkg:nuget/Ditto.Native.Linux@4.9.4-rc.1
+- pkg:nuget/Ditto.Native.Linux@5.0.0-dev-weekly.20251222.151
 - pkg:nuget/Ditto.Native.Linux@5.0.0-experimental-kmp-publishing.3
