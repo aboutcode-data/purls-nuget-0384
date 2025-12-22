@@ -1,1 +1,2 @@
 - pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@0.3.23-alpha-371
+- pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@1.0.5
