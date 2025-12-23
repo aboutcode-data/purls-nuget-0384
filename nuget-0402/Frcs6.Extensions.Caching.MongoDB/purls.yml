@@ -75,3 +75,4 @@
 - pkg:nuget/Frcs6.Extensions.Caching.MongoDB@5.0.8
 - pkg:nuget/Frcs6.Extensions.Caching.MongoDB@5.0.9
 - pkg:nuget/Frcs6.Extensions.Caching.MongoDB@6.0.3
+- pkg:nuget/Frcs6.Extensions.Caching.MongoDB@6.0.5
