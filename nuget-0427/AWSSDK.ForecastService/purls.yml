@@ -962,6 +962,7 @@
 - pkg:nuget/AWSSDK.ForecastService@3.7.501.10
 - pkg:nuget/AWSSDK.ForecastService@3.7.501.14
 - pkg:nuget/AWSSDK.ForecastService@3.7.501.17
+- pkg:nuget/AWSSDK.ForecastService@3.7.501.21
 - pkg:nuget/AWSSDK.ForecastService@3.7.6
 - pkg:nuget/AWSSDK.ForecastService@3.7.6.1
 - pkg:nuget/AWSSDK.ForecastService@3.7.6.2

@@ -167,6 +167,7 @@
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.503.9
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.504
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.504.1
+- pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.506.7
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.0
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.0-preview.10
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.0-preview.11

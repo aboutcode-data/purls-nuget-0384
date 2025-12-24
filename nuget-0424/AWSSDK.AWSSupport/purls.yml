@@ -1200,6 +1200,7 @@
 - pkg:nuget/AWSSDK.AWSSupport@3.7.500.50
 - pkg:nuget/AWSSDK.AWSSupport@3.7.500.52
 - pkg:nuget/AWSSDK.AWSSupport@3.7.500.55
+- pkg:nuget/AWSSDK.AWSSupport@3.7.500.59
 - pkg:nuget/AWSSDK.AWSSupport@3.7.500.6
 - pkg:nuget/AWSSDK.AWSSupport@3.7.500.7
 - pkg:nuget/AWSSDK.AWSSupport@3.7.500.8
