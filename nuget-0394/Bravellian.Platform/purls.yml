@@ -1,4 +1,6 @@
 - pkg:nuget/Bravellian.Platform@2025.12.20.1229
+- pkg:nuget/Bravellian.Platform@2025.12.23.1304
+- pkg:nuget/Bravellian.Platform@2025.12.23.1321
 - pkg:nuget/Bravellian.Platform@2025.9.29.1213
 - pkg:nuget/Bravellian.Platform@2025.9.29.1227
 - pkg:nuget/Bravellian.Platform@2025.9.29.1265
