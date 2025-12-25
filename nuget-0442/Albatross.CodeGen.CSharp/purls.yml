@@ -1,3 +1,5 @@
 - pkg:nuget/Albatross.CodeGen.CSharp@1.1.6
 - pkg:nuget/Albatross.CodeGen.CSharp@8.0.1%2Bd4d8556
 - pkg:nuget/Albatross.CodeGen.CSharp@8.0.2%2Bd22a9fa
+- pkg:nuget/Albatross.CodeGen.CSharp@9.0.1-162.main%2B73b7675
+- pkg:nuget/Albatross.CodeGen.CSharp@9.0.1-163.main%2B75beb7a
