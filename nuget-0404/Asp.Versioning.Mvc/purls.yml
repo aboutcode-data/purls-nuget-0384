@@ -18,3 +18,4 @@
 - pkg:nuget/Asp.Versioning.Mvc@7.1.1
 - pkg:nuget/Asp.Versioning.Mvc@8.0.0
 - pkg:nuget/Asp.Versioning.Mvc@8.1.0
+- pkg:nuget/Asp.Versioning.Mvc@8.1.1

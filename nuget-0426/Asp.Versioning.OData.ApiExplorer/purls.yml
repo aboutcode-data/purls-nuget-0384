@@ -21,3 +21,4 @@
 - pkg:nuget/Asp.Versioning.OData.ApiExplorer@8.0.0
 - pkg:nuget/Asp.Versioning.OData.ApiExplorer@8.1.0
 - pkg:nuget/Asp.Versioning.OData.ApiExplorer@8.2.0
+- pkg:nuget/Asp.Versioning.OData.ApiExplorer@8.2.1
