@@ -1136,3 +1136,6 @@
 - pkg:nuget/MassTransit.WebJobs.EventHubs@8.5.7-develop.2404
 - pkg:nuget/MassTransit.WebJobs.EventHubs@9.0.0-develop.23
 - pkg:nuget/MassTransit.WebJobs.EventHubs@9.0.0-develop.25
+- pkg:nuget/MassTransit.WebJobs.EventHubs@9.0.0-develop.31
+- pkg:nuget/MassTransit.WebJobs.EventHubs@9.0.0-develop.33
+- pkg:nuget/MassTransit.WebJobs.EventHubs@9.0.0-develop.34

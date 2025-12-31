@@ -138,6 +138,7 @@
 - pkg:nuget/Pulumi.Meraki@0.4.2-alpha.1748901528
 - pkg:nuget/Pulumi.Meraki@0.4.3
 - pkg:nuget/Pulumi.Meraki@0.4.3-alpha.1755712304
+- pkg:nuget/Pulumi.Meraki@0.4.5-alpha.1767139984
 - pkg:nuget/Pulumi.Meraki@0.5.0-alpha.1737525740
 - pkg:nuget/Pulumi.Meraki@0.5.0-alpha.1737779317
 - pkg:nuget/Pulumi.Meraki@0.5.0-alpha.1737784871
