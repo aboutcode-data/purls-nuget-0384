@@ -46,6 +46,7 @@
 - pkg:nuget/SunamoArgs@24.7.3.5
 - pkg:nuget/SunamoArgs@24.7.6.1
 - pkg:nuget/SunamoArgs@24.9.20.1
+- pkg:nuget/SunamoArgs@25.12.31.1
 - pkg:nuget/SunamoArgs@25.3.29.1
 - pkg:nuget/SunamoArgs@25.7.24.1
 - pkg:nuget/SunamoArgs@25.7.24.2
