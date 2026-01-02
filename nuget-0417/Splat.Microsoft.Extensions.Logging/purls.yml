@@ -40,6 +40,7 @@
 - pkg:nuget/Splat.Microsoft.Extensions.Logging@16.1.1
 - pkg:nuget/Splat.Microsoft.Extensions.Logging@16.2.1
 - pkg:nuget/Splat.Microsoft.Extensions.Logging@17.0.1
+- pkg:nuget/Splat.Microsoft.Extensions.Logging@19.1.1
 - pkg:nuget/Splat.Microsoft.Extensions.Logging@7.0.1
 - pkg:nuget/Splat.Microsoft.Extensions.Logging@7.0.8
 - pkg:nuget/Splat.Microsoft.Extensions.Logging@7.1.1
