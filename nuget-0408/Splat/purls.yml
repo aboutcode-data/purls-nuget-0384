@@ -67,6 +67,7 @@
 - pkg:nuget/Splat@16.1.1
 - pkg:nuget/Splat@16.2.1
 - pkg:nuget/Splat@17.0.1
+- pkg:nuget/Splat@19.1.1
 - pkg:nuget/Splat@2.0.0
 - pkg:nuget/Splat@3.0.0
 - pkg:nuget/Splat@4.0.0
