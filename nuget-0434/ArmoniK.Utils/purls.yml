@@ -339,5 +339,6 @@
 - pkg:nuget/ArmoniK.Utils@0.6.2-renovatemajornuget.1.sha.b1a7630
 - pkg:nuget/ArmoniK.Utils@0.6.2-renovatemajornuget.17.sha.a84fecc
 - pkg:nuget/ArmoniK.Utils@0.6.3-SNAPSHOT.4.sha.f969bd3
+- pkg:nuget/ArmoniK.Utils@0.7.1-renovategithubactions.1.sha.447ff0e
 - pkg:nuget/ArmoniK.Utils@1.0.1-iaaddmakerelease.16.ceadefb
 - pkg:nuget/ArmoniK.Utils@1.0.1-iaaddmakerelease.2.8aa642a
