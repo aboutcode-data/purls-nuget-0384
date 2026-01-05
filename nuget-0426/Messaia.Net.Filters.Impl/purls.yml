@@ -1,4 +1,5 @@
 - pkg:nuget/Messaia.Net.Filters.Impl@10.0.0-RC06
+- pkg:nuget/Messaia.Net.Filters.Impl@10.0.0-RC08
 - pkg:nuget/Messaia.Net.Filters.Impl@2.2.21
 - pkg:nuget/Messaia.Net.Filters.Impl@2.2.22
 - pkg:nuget/Messaia.Net.Filters.Impl@2.2.23
