@@ -279,6 +279,7 @@
 - pkg:nuget/MSFramework@0.15.4-beta58
 - pkg:nuget/MSFramework@0.15.4-beta59
 - pkg:nuget/MSFramework@0.15.4-beta60
+- pkg:nuget/MSFramework@0.15.4-beta73
 - pkg:nuget/MSFramework@0.9.1
 - pkg:nuget/MSFramework@0.9.2
 - pkg:nuget/MSFramework@0.9.3
