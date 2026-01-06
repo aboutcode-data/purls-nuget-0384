@@ -15,6 +15,7 @@
 - pkg:nuget/Kentico.Xperience.Lucene@12.5.0
 - pkg:nuget/Kentico.Xperience.Lucene@13.0.0
 - pkg:nuget/Kentico.Xperience.Lucene@13.0.1
+- pkg:nuget/Kentico.Xperience.Lucene@14.0.0-prerelease-1
 - pkg:nuget/Kentico.Xperience.Lucene@2.0.0
 - pkg:nuget/Kentico.Xperience.Lucene@2.0.1
 - pkg:nuget/Kentico.Xperience.Lucene@3.0.0
