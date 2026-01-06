@@ -30,3 +30,4 @@
 - pkg:nuget/AtmaFileSystem@7.4.0
 - pkg:nuget/AtmaFileSystem@7.5.0
 - pkg:nuget/AtmaFileSystem@7.6.0
+- pkg:nuget/AtmaFileSystem@8.1.1

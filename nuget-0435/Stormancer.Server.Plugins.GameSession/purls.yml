@@ -245,6 +245,7 @@
 - pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.1.91-pre
 - pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.1.92-pre
 - pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.1.93-pre
+- pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.1.94-pre
 - pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.2-pre
 - pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.2.1-pre
 - pkg:nuget/Stormancer.Server.Plugins.GameSession@6.2.2.2-pre
