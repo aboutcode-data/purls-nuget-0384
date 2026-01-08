@@ -1,3 +1,4 @@
+- pkg:nuget/AzRUtil.Web.Api@10.2.0
 - pkg:nuget/AzRUtil.Web.Api@6.1.0
 - pkg:nuget/AzRUtil.Web.Api@6.1.1
 - pkg:nuget/AzRUtil.Web.Api@6.1.2
