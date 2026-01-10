@@ -9,3 +9,4 @@
 - pkg:nuget/Zonit.Services.EventMessage.Abstractions@0.1.7
 - pkg:nuget/Zonit.Services.EventMessage.Abstractions@0.1.8
 - pkg:nuget/Zonit.Services.EventMessage.Abstractions@0.1.9
+- pkg:nuget/Zonit.Services.EventMessage.Abstractions@1.0.2
