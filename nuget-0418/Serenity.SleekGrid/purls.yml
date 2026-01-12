@@ -20,5 +20,6 @@
 - pkg:nuget/Serenity.SleekGrid@1.9.6
 - pkg:nuget/Serenity.SleekGrid@1.9.7
 - pkg:nuget/Serenity.SleekGrid@1.9.8
+- pkg:nuget/Serenity.SleekGrid@10.1.0
 - pkg:nuget/Serenity.SleekGrid@2.0.0-rc.2
 - pkg:nuget/Serenity.SleekGrid@2.0.0-rc.3
