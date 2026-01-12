@@ -1,4 +1,5 @@
 - pkg:nuget/MintPlayer.Mapper@10.2.0
+- pkg:nuget/MintPlayer.Mapper@10.9.0
 - pkg:nuget/MintPlayer.Mapper@6.1.0
 - pkg:nuget/MintPlayer.Mapper@6.2.0
 - pkg:nuget/MintPlayer.Mapper@6.3.0
