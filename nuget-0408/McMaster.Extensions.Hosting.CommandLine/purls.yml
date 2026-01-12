@@ -31,3 +31,4 @@
 - pkg:nuget/McMaster.Extensions.Hosting.CommandLine@4.0.2
 - pkg:nuget/McMaster.Extensions.Hosting.CommandLine@4.1.0
 - pkg:nuget/McMaster.Extensions.Hosting.CommandLine@4.1.1
+- pkg:nuget/McMaster.Extensions.Hosting.CommandLine@5.0.0-beta.348
