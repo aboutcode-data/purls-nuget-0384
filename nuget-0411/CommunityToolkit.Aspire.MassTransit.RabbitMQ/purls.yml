@@ -1,3 +1,4 @@
+- pkg:nuget/CommunityToolkit.Aspire.MassTransit.RabbitMQ@13.0.1-beta.486
 - pkg:nuget/CommunityToolkit.Aspire.MassTransit.RabbitMQ@9.0.1-beta.104
 - pkg:nuget/CommunityToolkit.Aspire.MassTransit.RabbitMQ@9.0.1-beta.106
 - pkg:nuget/CommunityToolkit.Aspire.MassTransit.RabbitMQ@9.0.1-beta.107
