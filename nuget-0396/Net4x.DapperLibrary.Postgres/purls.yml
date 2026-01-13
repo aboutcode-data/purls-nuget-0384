@@ -1,1 +1,2 @@
 - pkg:nuget/Net4x.DapperLibrary.Postgres@1.5.0.1
+- pkg:nuget/Net4x.DapperLibrary.Postgres@1.9.9.7
