@@ -57,3 +57,4 @@
 - pkg:nuget/Casa.Messaging.Events@1.7.7
 - pkg:nuget/Casa.Messaging.Events@1.7.9
 - pkg:nuget/Casa.Messaging.Events@1.8.0
+- pkg:nuget/Casa.Messaging.Events@1.8.8
