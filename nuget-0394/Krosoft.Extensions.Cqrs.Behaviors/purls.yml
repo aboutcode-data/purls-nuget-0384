@@ -81,3 +81,6 @@
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors@2025.9.9.2879
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors@2025.9.9.2881
 - pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors@2025.9.9.2882
+- pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors@2026.1.14.5080
+- pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors@2026.1.14.5082
+- pkg:nuget/Krosoft.Extensions.Cqrs.Behaviors@2026.1.14.5083
