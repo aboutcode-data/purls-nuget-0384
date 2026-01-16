@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.MultiTenancy@1.0.0
+- pkg:nuget/Milvasoft.MultiTenancy@10.0.0
 - pkg:nuget/Milvasoft.MultiTenancy@7.0.0
 - pkg:nuget/Milvasoft.MultiTenancy@8.0.0
 - pkg:nuget/Milvasoft.MultiTenancy@8.1.0

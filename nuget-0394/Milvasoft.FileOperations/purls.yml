@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.FileOperations@1.0.0
+- pkg:nuget/Milvasoft.FileOperations@10.0.0
 - pkg:nuget/Milvasoft.FileOperations@7.0.0
 - pkg:nuget/Milvasoft.FileOperations@8.0.0
 - pkg:nuget/Milvasoft.FileOperations@8.1.0

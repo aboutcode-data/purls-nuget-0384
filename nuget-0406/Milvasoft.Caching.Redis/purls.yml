@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.Caching.Redis@1.0.0
+- pkg:nuget/Milvasoft.Caching.Redis@10.0.0
 - pkg:nuget/Milvasoft.Caching.Redis@7.0.0
 - pkg:nuget/Milvasoft.Caching.Redis@8.0.0
 - pkg:nuget/Milvasoft.Caching.Redis@8.1.0
