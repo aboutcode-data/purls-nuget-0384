@@ -76,3 +76,4 @@
 - pkg:nuget/GnossApiWrapper.NetCore@8.0.1
 - pkg:nuget/GnossApiWrapper.NetCore@8.0.2
 - pkg:nuget/GnossApiWrapper.NetCore@8.0.3
+- pkg:nuget/GnossApiWrapper.NetCore@8.0.4
