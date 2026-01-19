@@ -5,6 +5,7 @@
 - pkg:nuget/Toolshed.Audit@1.4.0.4
 - pkg:nuget/Toolshed.Audit@1.5.0
 - pkg:nuget/Toolshed.Audit@1.6.0
+- pkg:nuget/Toolshed.Audit@10.0.38
 - pkg:nuget/Toolshed.Audit@2.0.1
 - pkg:nuget/Toolshed.Audit@2.0.4
 - pkg:nuget/Toolshed.Audit@7.2.0
