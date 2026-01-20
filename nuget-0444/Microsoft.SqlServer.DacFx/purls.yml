@@ -179,3 +179,4 @@
 - pkg:nuget/Microsoft.SqlServer.DacFx@170.2.41-preview
 - pkg:nuget/Microsoft.SqlServer.DacFx@170.2.55-preview
 - pkg:nuget/Microsoft.SqlServer.DacFx@170.2.70
+- pkg:nuget/Microsoft.SqlServer.DacFx@170.3.79-preview
