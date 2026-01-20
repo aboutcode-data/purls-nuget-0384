@@ -1,1 +1,2 @@
 - pkg:nuget/Dynamics365.BusinessCentral@0.1.9
+- pkg:nuget/Dynamics365.BusinessCentral@1.0.0-beta3
