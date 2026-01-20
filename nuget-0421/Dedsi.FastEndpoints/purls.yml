@@ -1,3 +1,4 @@
+- pkg:nuget/Dedsi.FastEndpoints@10.0.5
 - pkg:nuget/Dedsi.FastEndpoints@9.2.3
 - pkg:nuget/Dedsi.FastEndpoints@9.2.3.100
 - pkg:nuget/Dedsi.FastEndpoints@9.2.3.101
