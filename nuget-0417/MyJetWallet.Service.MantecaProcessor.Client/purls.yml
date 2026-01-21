@@ -1,1 +1,3 @@
 - pkg:nuget/MyJetWallet.Service.MantecaProcessor.Client@2.0.15
+- pkg:nuget/MyJetWallet.Service.MantecaProcessor.Client@2.0.21
+- pkg:nuget/MyJetWallet.Service.MantecaProcessor.Client@2.0.22
