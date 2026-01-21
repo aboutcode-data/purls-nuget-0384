@@ -1,2 +1,3 @@
 - pkg:nuget/Cirreum.Runtime.Client.Msal@1.0.1
 - pkg:nuget/Cirreum.Runtime.Client.Msal@1.0.16
+- pkg:nuget/Cirreum.Runtime.Client.Msal@1.0.25
