@@ -1069,6 +1069,7 @@
 - pkg:nuget/AWSSDK.GroundStation@3.7.502.12
 - pkg:nuget/AWSSDK.GroundStation@3.7.502.13
 - pkg:nuget/AWSSDK.GroundStation@3.7.502.17
+- pkg:nuget/AWSSDK.GroundStation@3.7.502.27
 - pkg:nuget/AWSSDK.GroundStation@3.7.502.4
 - pkg:nuget/AWSSDK.GroundStation@3.7.502.8
 - pkg:nuget/AWSSDK.GroundStation@4.0.0
