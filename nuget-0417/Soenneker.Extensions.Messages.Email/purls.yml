@@ -226,3 +226,4 @@
 - pkg:nuget/Soenneker.Extensions.Messages.Email@4.0.263
 - pkg:nuget/Soenneker.Extensions.Messages.Email@4.0.275
 - pkg:nuget/Soenneker.Extensions.Messages.Email@4.0.292
+- pkg:nuget/Soenneker.Extensions.Messages.Email@4.0.323
