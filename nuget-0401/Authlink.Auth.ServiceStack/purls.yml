@@ -1,3 +1,5 @@
 - pkg:nuget/Authlink.Auth.ServiceStack@1.0.2
 - pkg:nuget/Authlink.Auth.ServiceStack@1.0.3
 - pkg:nuget/Authlink.Auth.ServiceStack@1.1.0
+- pkg:nuget/Authlink.Auth.ServiceStack@1.2.2
+- pkg:nuget/Authlink.Auth.ServiceStack@1.2.3
