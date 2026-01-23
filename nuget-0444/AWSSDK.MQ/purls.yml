@@ -1161,6 +1161,7 @@
 - pkg:nuget/AWSSDK.MQ@3.7.503.2
 - pkg:nuget/AWSSDK.MQ@3.7.503.22
 - pkg:nuget/AWSSDK.MQ@3.7.503.25
+- pkg:nuget/AWSSDK.MQ@3.7.503.34
 - pkg:nuget/AWSSDK.MQ@3.7.503.9
 - pkg:nuget/AWSSDK.MQ@4.0.0
 - pkg:nuget/AWSSDK.MQ@4.0.0-preview
