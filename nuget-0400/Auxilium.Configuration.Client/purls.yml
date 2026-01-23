@@ -1,3 +1,4 @@
 - pkg:nuget/Auxilium.Configuration.Client@0.0.1-beta.202507281657
 - pkg:nuget/Auxilium.Configuration.Client@0.0.1-beta.202508051225
 - pkg:nuget/Auxilium.Configuration.Client@0.0.1-beta.202508081031
+- pkg:nuget/Auxilium.Configuration.Client@0.0.6
