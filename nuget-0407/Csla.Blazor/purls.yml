@@ -1,3 +1,4 @@
+- pkg:nuget/Csla.Blazor@10.0.0
 - pkg:nuget/Csla.Blazor@5.0.0
 - pkg:nuget/Csla.Blazor@5.0.0-R19090201
 - pkg:nuget/Csla.Blazor@5.0.0-R19091001
