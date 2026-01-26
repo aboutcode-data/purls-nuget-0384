@@ -127,3 +127,4 @@
 - pkg:nuget/EasyExtensions.EntityFrameworkCore.Npgsql@3.0.11
 - pkg:nuget/EasyExtensions.EntityFrameworkCore.Npgsql@3.0.12
 - pkg:nuget/EasyExtensions.EntityFrameworkCore.Npgsql@3.0.33
+- pkg:nuget/EasyExtensions.EntityFrameworkCore.Npgsql@3.0.39
