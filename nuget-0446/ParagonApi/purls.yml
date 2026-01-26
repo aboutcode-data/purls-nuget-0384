@@ -31,6 +31,7 @@
 - pkg:nuget/ParagonApi@12.2.0
 - pkg:nuget/ParagonApi@13.0.0
 - pkg:nuget/ParagonApi@13.2.0
+- pkg:nuget/ParagonApi@14.1.0
 - pkg:nuget/ParagonApi@2.0.0
 - pkg:nuget/ParagonApi@2.0.1
 - pkg:nuget/ParagonApi@2.1.0
