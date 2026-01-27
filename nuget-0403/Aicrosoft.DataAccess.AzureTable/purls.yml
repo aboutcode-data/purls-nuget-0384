@@ -1,2 +1,3 @@
+- pkg:nuget/Aicrosoft.DataAccess.AzureTable@8.0.0-beta.260127.1
 - pkg:nuget/Aicrosoft.DataAccess.AzureTable@8.5.0
 - pkg:nuget/Aicrosoft.DataAccess.AzureTable@8.6.0
