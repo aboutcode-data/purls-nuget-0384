@@ -1459,3 +1459,4 @@
 - pkg:nuget/RavenDB.Client@7.1.3-rc-71014
 - pkg:nuget/RavenDB.Client@7.1.4
 - pkg:nuget/RavenDB.Client@7.1.6-rc-71029
+- pkg:nuget/RavenDB.Client@7.2.0-rc-72002
