@@ -72,4 +72,5 @@
 - pkg:nuget/AgentHub.Module.Client.TableStore@0.0.78
 - pkg:nuget/AgentHub.Module.Client.TableStore@0.0.8
 - pkg:nuget/AgentHub.Module.Client.TableStore@0.0.9
+- pkg:nuget/AgentHub.Module.Client.TableStore@0.0.91
 - pkg:nuget/AgentHub.Module.Client.TableStore@6.0.1
