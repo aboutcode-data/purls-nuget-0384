@@ -1,5 +1,6 @@
 - pkg:nuget/NPoco.Data@5.59.46
 - pkg:nuget/NPoco.Data@5.59.49
+- pkg:nuget/NPoco.Data@5.59.58
 - pkg:nuget/NPoco.Data@6.2.1
 - pkg:nuget/NPoco.Data@6.2.3
 - pkg:nuget/NPoco.Data@6.2.3-r.14
