@@ -42,3 +42,4 @@
 - pkg:nuget/Deploy.LaunchPad.Util@10.20.1
 - pkg:nuget/Deploy.LaunchPad.Util@10.22.16
 - pkg:nuget/Deploy.LaunchPad.Util@10.22.4
+- pkg:nuget/Deploy.LaunchPad.Util@10.22.41
