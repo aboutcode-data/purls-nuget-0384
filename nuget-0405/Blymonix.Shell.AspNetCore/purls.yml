@@ -1,2 +1,3 @@
 - pkg:nuget/Blymonix.Shell.AspNetCore@0.0.2
 - pkg:nuget/Blymonix.Shell.AspNetCore@1.2.5
+- pkg:nuget/Blymonix.Shell.AspNetCore@1.2.9
