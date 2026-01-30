@@ -75,3 +75,4 @@
 - pkg:nuget/SqlHydra.Query@3.0.0-beta.1
 - pkg:nuget/SqlHydra.Query@3.0.0-beta.2
 - pkg:nuget/SqlHydra.Query@3.0.1
+- pkg:nuget/SqlHydra.Query@3.3.0-beta.3
