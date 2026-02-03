@@ -23,3 +23,5 @@
 - pkg:nuget/XMPro.Integration.Framework@4.5.3
 - pkg:nuget/XMPro.Integration.Framework@4.5.3-g1e0bdff62c
 - pkg:nuget/XMPro.Integration.Framework@5.0.0-alpha-g684cb1643d
+- pkg:nuget/XMPro.Integration.Framework@5.0.0-dev-stream-host-resilience-gc6e9d9fe89
+- pkg:nuget/XMPro.Integration.Framework@5.0.0-dev-stream-host-resilience-ge3b6762f05
