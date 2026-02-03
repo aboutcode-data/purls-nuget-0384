@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Waf@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Waf@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Waf@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Waf@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Waf@27.1.0
 - pkg:nuget/OCI.DotNetSDK.Waf@27.2.0
 - pkg:nuget/OCI.DotNetSDK.Waf@28.0.0

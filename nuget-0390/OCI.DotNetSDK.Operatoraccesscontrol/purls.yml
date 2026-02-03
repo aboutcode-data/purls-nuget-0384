@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@18.3.0
 - pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@18.4.0
 - pkg:nuget/OCI.DotNetSDK.Operatoraccesscontrol@18.5.0

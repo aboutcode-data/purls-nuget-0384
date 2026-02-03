@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Lockbox@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Lockbox@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Lockbox@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Lockbox@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Lockbox@40.1.0
 - pkg:nuget/OCI.DotNetSDK.Lockbox@41.0.0
 - pkg:nuget/OCI.DotNetSDK.Lockbox@41.1.0
