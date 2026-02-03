@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Loadbalancer@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Loadbalancer@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Loadbalancer@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Loadbalancer@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Loadbalancer@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Loadbalancer@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Loadbalancer@14.1.0
