@@ -1113,6 +1113,7 @@
 - pkg:nuget/AWSSDK.EKS@3.7.507.1
 - pkg:nuget/AWSSDK.EKS@3.7.507.10
 - pkg:nuget/AWSSDK.EKS@3.7.507.5
+- pkg:nuget/AWSSDK.EKS@3.7.508.11
 - pkg:nuget/AWSSDK.EKS@3.7.508.3
 - pkg:nuget/AWSSDK.EKS@3.7.6
 - pkg:nuget/AWSSDK.EKS@3.7.6.1

@@ -568,4 +568,6 @@
 - pkg:nuget/HoBO.WebSite.Client@6.1.3.21
 - pkg:nuget/HoBO.WebSite.Client@6.1.3.26
 - pkg:nuget/HoBO.WebSite.Client@6.1.3.28
+- pkg:nuget/HoBO.WebSite.Client@6.1.3.41
+- pkg:nuget/HoBO.WebSite.Client@6.1.3.42
 - pkg:nuget/HoBO.WebSite.Client@6.1.3.6

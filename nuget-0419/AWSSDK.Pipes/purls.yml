@@ -536,6 +536,7 @@
 - pkg:nuget/AWSSDK.Pipes@3.7.502.16
 - pkg:nuget/AWSSDK.Pipes@3.7.502.20
 - pkg:nuget/AWSSDK.Pipes@3.7.502.30
+- pkg:nuget/AWSSDK.Pipes@3.7.502.37
 - pkg:nuget/AWSSDK.Pipes@3.7.502.7
 - pkg:nuget/AWSSDK.Pipes@3.7.502.9
 - pkg:nuget/AWSSDK.Pipes@4.0.0
