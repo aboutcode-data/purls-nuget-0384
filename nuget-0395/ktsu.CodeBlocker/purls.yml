@@ -69,6 +69,7 @@
 - pkg:nuget/ktsu.CodeBlocker@1.1.1
 - pkg:nuget/ktsu.CodeBlocker@1.1.1-pre.1
 - pkg:nuget/ktsu.CodeBlocker@1.1.1-pre.2
+- pkg:nuget/ktsu.CodeBlocker@1.1.10-pre.6
 - pkg:nuget/ktsu.CodeBlocker@1.1.2
 - pkg:nuget/ktsu.CodeBlocker@1.1.2-pre.1
 - pkg:nuget/ktsu.CodeBlocker@1.1.2-pre.10
