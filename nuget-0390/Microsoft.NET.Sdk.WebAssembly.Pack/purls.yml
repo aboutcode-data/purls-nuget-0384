@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@10.0.1
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@10.0.2
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@10.0.3
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@8.0.0
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@8.0.0-preview.4.23259.5
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@8.0.0-preview.5.23280.8
@@ -46,6 +47,7 @@
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.1
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.13
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.2
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.3
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack@9.0.4

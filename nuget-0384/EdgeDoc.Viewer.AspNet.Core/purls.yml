@@ -32,3 +32,4 @@
 - pkg:nuget/EdgeDoc.Viewer.AspNet.Core@12.3.7.3
 - pkg:nuget/EdgeDoc.Viewer.AspNet.Core@12.3.8
 - pkg:nuget/EdgeDoc.Viewer.AspNet.Core@12.3.8.1
+- pkg:nuget/EdgeDoc.Viewer.AspNet.Core@12.5.1.1

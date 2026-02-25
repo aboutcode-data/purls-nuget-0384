@@ -16,4 +16,5 @@
 - pkg:nuget/SunamoEmbeddedResources@24.9.20.1
 - pkg:nuget/SunamoEmbeddedResources@25.12.31.1
 - pkg:nuget/SunamoEmbeddedResources@25.3.29.1
+- pkg:nuget/SunamoEmbeddedResources@26.2.23.3
 - pkg:nuget/SunamoEmbeddedResources@26.2.4.1
