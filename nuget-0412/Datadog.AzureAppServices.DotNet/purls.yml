@@ -120,6 +120,7 @@
 - pkg:nuget/Datadog.AzureAppServices.DotNet@3.26.300
 - pkg:nuget/Datadog.AzureAppServices.DotNet@3.3.0
 - pkg:nuget/Datadog.AzureAppServices.DotNet@3.3.100
+- pkg:nuget/Datadog.AzureAppServices.DotNet@3.38.0
 - pkg:nuget/Datadog.AzureAppServices.DotNet@3.4.0
 - pkg:nuget/Datadog.AzureAppServices.DotNet@3.4.100
 - pkg:nuget/Datadog.AzureAppServices.DotNet@3.5.0

@@ -1,3 +1,4 @@
+- pkg:nuget/DotNetCore.CAP.AmazonSQS@10.0.2-preview-287480508
 - pkg:nuget/DotNetCore.CAP.AmazonSQS@3.1.0
 - pkg:nuget/DotNetCore.CAP.AmazonSQS@3.1.0-preview-111117527
 - pkg:nuget/DotNetCore.CAP.AmazonSQS@3.1.0-preview-112250362

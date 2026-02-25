@@ -730,3 +730,6 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Issues@4.0.833
 - pkg:nuget/Soenneker.GitHub.Repositories.Issues@4.0.843
 - pkg:nuget/Soenneker.GitHub.Repositories.Issues@4.0.844
+- pkg:nuget/Soenneker.GitHub.Repositories.Issues@4.0.874
+- pkg:nuget/Soenneker.GitHub.Repositories.Issues@4.0.877
+- pkg:nuget/Soenneker.GitHub.Repositories.Issues@4.0.881

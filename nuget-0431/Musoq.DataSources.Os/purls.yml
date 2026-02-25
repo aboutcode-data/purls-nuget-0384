@@ -44,3 +44,4 @@
 - pkg:nuget/Musoq.DataSources.Os@7.0.8
 - pkg:nuget/Musoq.DataSources.Os@7.0.9
 - pkg:nuget/Musoq.DataSources.Os@7.1.0
+- pkg:nuget/Musoq.DataSources.Os@8.5.0

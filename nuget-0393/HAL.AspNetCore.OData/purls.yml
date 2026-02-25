@@ -42,6 +42,7 @@
 - pkg:nuget/HAL.AspNetCore.OData@2.1.1
 - pkg:nuget/HAL.AspNetCore.OData@2.1.2
 - pkg:nuget/HAL.AspNetCore.OData@20.0.0
+- pkg:nuget/HAL.AspNetCore.OData@20.0.3
 - pkg:nuget/HAL.AspNetCore.OData@3.0.0
 - pkg:nuget/HAL.AspNetCore.OData@4.0.0
 - pkg:nuget/HAL.AspNetCore.OData@5.0.0

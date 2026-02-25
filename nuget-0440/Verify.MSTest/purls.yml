@@ -603,6 +603,7 @@
 - pkg:nuget/Verify.MSTest@30.8.0
 - pkg:nuget/Verify.MSTest@30.9.0
 - pkg:nuget/Verify.MSTest@31.0.0-beta.1
+- pkg:nuget/Verify.MSTest@31.12.1
 - pkg:nuget/Verify.MSTest@4.0.0
 - pkg:nuget/Verify.MSTest@4.0.1
 - pkg:nuget/Verify.MSTest@4.0.2

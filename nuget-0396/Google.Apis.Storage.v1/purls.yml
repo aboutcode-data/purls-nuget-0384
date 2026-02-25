@@ -242,6 +242,7 @@
 - pkg:nuget/Google.Apis.Storage.v1@1.70.0.3832
 - pkg:nuget/Google.Apis.Storage.v1@1.70.0.3851
 - pkg:nuget/Google.Apis.Storage.v1@1.70.0.3878
+- pkg:nuget/Google.Apis.Storage.v1@1.73.0.4052
 - pkg:nuget/Google.Apis.Storage.v1@1.8.1.10
 - pkg:nuget/Google.Apis.Storage.v1@1.8.1.110
 - pkg:nuget/Google.Apis.Storage.v1@1.8.1.120

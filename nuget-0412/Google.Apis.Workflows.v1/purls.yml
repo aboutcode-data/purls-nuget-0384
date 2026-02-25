@@ -45,3 +45,4 @@
 - pkg:nuget/Google.Apis.Workflows.v1@1.70.0.3878
 - pkg:nuget/Google.Apis.Workflows.v1@1.71.0.3911
 - pkg:nuget/Google.Apis.Workflows.v1@1.72.0.3938
+- pkg:nuget/Google.Apis.Workflows.v1@1.73.0.4045

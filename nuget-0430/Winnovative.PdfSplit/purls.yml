@@ -1,4 +1,5 @@
 - pkg:nuget/Winnovative.PdfSplit@10.0.0
+- pkg:nuget/Winnovative.PdfSplit@14.0.2
 - pkg:nuget/Winnovative.PdfSplit@7.0.0
 - pkg:nuget/Winnovative.PdfSplit@7.0.1
 - pkg:nuget/Winnovative.PdfSplit@7.0.2

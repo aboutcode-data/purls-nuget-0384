@@ -39,3 +39,4 @@
 - pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.FileProviders.AliyunOss@20.6.5
 - pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.FileProviders.AliyunOss@20.6.6
 - pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.FileProviders.AliyunOss@20.6.7
+- pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.FileProviders.AliyunOss@21.1.0

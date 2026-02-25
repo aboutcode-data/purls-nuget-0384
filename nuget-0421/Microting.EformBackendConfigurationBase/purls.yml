@@ -182,6 +182,7 @@
 - pkg:nuget/Microting.EformBackendConfigurationBase@1.1.89
 - pkg:nuget/Microting.EformBackendConfigurationBase@1.1.9
 - pkg:nuget/Microting.EformBackendConfigurationBase@10.0.1
+- pkg:nuget/Microting.EformBackendConfigurationBase@10.0.11
 - pkg:nuget/Microting.EformBackendConfigurationBase@7.0.0
 - pkg:nuget/Microting.EformBackendConfigurationBase@7.0.1
 - pkg:nuget/Microting.EformBackendConfigurationBase@7.0.10
