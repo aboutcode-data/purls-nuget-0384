@@ -30,6 +30,7 @@
 - pkg:nuget/JasperFx@1.0.4
 - pkg:nuget/JasperFx@1.0.5
 - pkg:nuget/JasperFx@1.1.0
+- pkg:nuget/JasperFx@1.17.2
 - pkg:nuget/JasperFx@1.2.0
 - pkg:nuget/JasperFx@1.2.1
 - pkg:nuget/JasperFx@1.2.2

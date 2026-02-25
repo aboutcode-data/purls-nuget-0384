@@ -1,6 +1,10 @@
+- pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.101
+- pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.109
+- pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.124
 - pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.21
 - pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.22
 - pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.67
 - pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.72
 - pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.73
 - pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.82
+- pkg:nuget/T.Molodoy.UnityCompose.CodeGen@0.0.90

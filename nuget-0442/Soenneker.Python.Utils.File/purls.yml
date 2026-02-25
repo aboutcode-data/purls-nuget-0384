@@ -446,3 +446,5 @@
 - pkg:nuget/Soenneker.Python.Utils.File@4.0.475
 - pkg:nuget/Soenneker.Python.Utils.File@4.0.505
 - pkg:nuget/Soenneker.Python.Utils.File@4.0.507
+- pkg:nuget/Soenneker.Python.Utils.File@4.0.517
+- pkg:nuget/Soenneker.Python.Utils.File@4.0.519

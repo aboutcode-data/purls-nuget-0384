@@ -50,3 +50,4 @@
 - pkg:nuget/SunamoArgs@25.3.29.1
 - pkg:nuget/SunamoArgs@25.7.24.1
 - pkg:nuget/SunamoArgs@25.7.24.2
+- pkg:nuget/SunamoArgs@26.2.23.3

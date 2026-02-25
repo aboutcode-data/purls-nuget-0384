@@ -27,3 +27,4 @@
 - pkg:nuget/Dex.Cap.OnceExecutor.ClickHouse@8.0.0
 - pkg:nuget/Dex.Cap.OnceExecutor.ClickHouse@8.0.1
 - pkg:nuget/Dex.Cap.OnceExecutor.ClickHouse@8.0.2
+- pkg:nuget/Dex.Cap.OnceExecutor.ClickHouse@8.2.6

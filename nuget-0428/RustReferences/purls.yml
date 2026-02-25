@@ -58,3 +58,5 @@
 - pkg:nuget/RustReferences@2.0.6975-staging
 - pkg:nuget/RustReferences@2.0.6976-staging
 - pkg:nuget/RustReferences@2.0.7000-staging
+- pkg:nuget/RustReferences@2.0.7042
+- pkg:nuget/RustReferences@2.0.7062-staging

@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@10.0.2
+- pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@5.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@5.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@5.0.10
@@ -142,6 +143,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm@9.0.4

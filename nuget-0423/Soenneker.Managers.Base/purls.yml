@@ -214,3 +214,5 @@
 - pkg:nuget/Soenneker.Managers.Base@4.0.280
 - pkg:nuget/Soenneker.Managers.Base@4.0.289
 - pkg:nuget/Soenneker.Managers.Base@4.0.320
+- pkg:nuget/Soenneker.Managers.Base@4.0.334
+- pkg:nuget/Soenneker.Managers.Base@4.0.336

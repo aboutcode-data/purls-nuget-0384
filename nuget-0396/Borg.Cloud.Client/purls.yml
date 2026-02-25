@@ -25,6 +25,7 @@
 - pkg:nuget/Borg.Cloud.Client@0.122.0
 - pkg:nuget/Borg.Cloud.Client@0.123.0
 - pkg:nuget/Borg.Cloud.Client@0.124.0
+- pkg:nuget/Borg.Cloud.Client@0.127.0
 - pkg:nuget/Borg.Cloud.Client@0.14.0
 - pkg:nuget/Borg.Cloud.Client@0.14.1
 - pkg:nuget/Borg.Cloud.Client@0.15.0

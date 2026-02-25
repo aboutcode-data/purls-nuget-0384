@@ -1,4 +1,5 @@
 - pkg:nuget/Noise.EntityFrameworkCore@1.0.0
+- pkg:nuget/Noise.EntityFrameworkCore@10.0.0
 - pkg:nuget/Noise.EntityFrameworkCore@8.0.0
 - pkg:nuget/Noise.EntityFrameworkCore@8.0.1
 - pkg:nuget/Noise.EntityFrameworkCore@8.9.9
