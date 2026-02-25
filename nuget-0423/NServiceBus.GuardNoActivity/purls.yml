@@ -1,3 +1,4 @@
 - pkg:nuget/NServiceBus.GuardNoActivity@1.0.0
 - pkg:nuget/NServiceBus.GuardNoActivity@2.0.0
 - pkg:nuget/NServiceBus.GuardNoActivity@3.0.0
+- pkg:nuget/NServiceBus.GuardNoActivity@4.0.1
