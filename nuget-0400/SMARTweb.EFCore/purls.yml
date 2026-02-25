@@ -5,3 +5,4 @@
 - pkg:nuget/SMARTweb.EFCore@1.2.0
 - pkg:nuget/SMARTweb.EFCore@1.3.0
 - pkg:nuget/SMARTweb.EFCore@2.0.0-CI-20240909-034903
+- pkg:nuget/SMARTweb.EFCore@3.0.2
