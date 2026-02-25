@@ -2,3 +2,4 @@
 - pkg:nuget/Hybridizer.Runtime.CUDAImports@2.2.4
 - pkg:nuget/Hybridizer.Runtime.CUDAImports@2.2.5
 - pkg:nuget/Hybridizer.Runtime.CUDAImports@2.3.0
+- pkg:nuget/Hybridizer.Runtime.CUDAImports@3.1.0
