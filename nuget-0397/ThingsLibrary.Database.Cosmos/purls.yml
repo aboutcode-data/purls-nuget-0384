@@ -1,1 +1,2 @@
 - pkg:nuget/ThingsLibrary.Database.Cosmos@0.5.2
+- pkg:nuget/ThingsLibrary.Database.Cosmos@0.5.8
