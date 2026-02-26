@@ -1,4 +1,5 @@
 - pkg:nuget/Oqtane.Application.Template@10.0.3
+- pkg:nuget/Oqtane.Application.Template@10.1.0
 - pkg:nuget/Oqtane.Application.Template@6.1.5
 - pkg:nuget/Oqtane.Application.Template@6.2.0
 - pkg:nuget/Oqtane.Application.Template@6.2.1
