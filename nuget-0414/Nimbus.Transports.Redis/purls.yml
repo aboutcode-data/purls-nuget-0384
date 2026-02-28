@@ -1,3 +1,5 @@
 - pkg:nuget/Nimbus.Transports.Redis@3.0.0.1200
+- pkg:nuget/Nimbus.Transports.Redis@4.2.0
 - pkg:nuget/Nimbus.Transports.Redis@4.2.1
 - pkg:nuget/Nimbus.Transports.Redis@4.3.0-unstable0011
+- pkg:nuget/Nimbus.Transports.Redis@4.3.2
