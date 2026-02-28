@@ -926,6 +926,7 @@
 - pkg:nuget/Soenneker.Twilio.Client@4.0.1000
 - pkg:nuget/Soenneker.Twilio.Client@4.0.1001
 - pkg:nuget/Soenneker.Twilio.Client@4.0.1014
+- pkg:nuget/Soenneker.Twilio.Client@4.0.1020
 - pkg:nuget/Soenneker.Twilio.Client@4.0.943
 - pkg:nuget/Soenneker.Twilio.Client@4.0.944
 - pkg:nuget/Soenneker.Twilio.Client@4.0.945
