@@ -44,3 +44,4 @@
 - pkg:nuget/OneWare.ProjectSystem@0.31.7
 - pkg:nuget/OneWare.ProjectSystem@0.31.8
 - pkg:nuget/OneWare.ProjectSystem@0.99.7
+- pkg:nuget/OneWare.ProjectSystem@1.0.8
