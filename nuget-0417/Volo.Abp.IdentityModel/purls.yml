@@ -16,6 +16,7 @@
 - pkg:nuget/Volo.Abp.IdentityModel@1.1.0
 - pkg:nuget/Volo.Abp.IdentityModel@1.1.1
 - pkg:nuget/Volo.Abp.IdentityModel@1.1.2
+- pkg:nuget/Volo.Abp.IdentityModel@10.1.1
 - pkg:nuget/Volo.Abp.IdentityModel@2.0.0
 - pkg:nuget/Volo.Abp.IdentityModel@2.0.1
 - pkg:nuget/Volo.Abp.IdentityModel@2.1.0
