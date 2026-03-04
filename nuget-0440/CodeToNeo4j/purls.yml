@@ -1,3 +1,5 @@
 - pkg:nuget/CodeToNeo4j@1.0.34
 - pkg:nuget/CodeToNeo4j@1.0.35
 - pkg:nuget/CodeToNeo4j@1.0.36
+- pkg:nuget/CodeToNeo4j@1.0.39
+- pkg:nuget/CodeToNeo4j@1.0.40
