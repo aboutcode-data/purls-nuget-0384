@@ -49,3 +49,4 @@
 - pkg:nuget/Soenneker.Generators.Generator@3.0.9
 - pkg:nuget/Soenneker.Generators.Generator@4.0.52
 - pkg:nuget/Soenneker.Generators.Generator@4.0.53
+- pkg:nuget/Soenneker.Generators.Generator@4.0.60
