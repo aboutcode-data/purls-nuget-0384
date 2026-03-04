@@ -352,6 +352,7 @@
 - pkg:nuget/StockportGovUK.NetStandard.Gateways@15.9.0-prerelease-406
 - pkg:nuget/StockportGovUK.NetStandard.Gateways@15.9.1-prerelease-407
 - pkg:nuget/StockportGovUK.NetStandard.Gateways@15.9.2-prerelease-408
+- pkg:nuget/StockportGovUK.NetStandard.Gateways@16.7.0-prerelease-432
 - pkg:nuget/StockportGovUK.NetStandard.Gateways@2.0.0
 - pkg:nuget/StockportGovUK.NetStandard.Gateways@2.0.0-prerelease168
 - pkg:nuget/StockportGovUK.NetStandard.Gateways@3.0.0
