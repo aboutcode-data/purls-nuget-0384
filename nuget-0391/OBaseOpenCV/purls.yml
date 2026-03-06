@@ -1,2 +1,3 @@
 - pkg:nuget/OBaseOpenCV@25.12.1
 - pkg:nuget/OBaseOpenCV@26.1.10
+- pkg:nuget/OBaseOpenCV@26.3.7
