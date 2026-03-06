@@ -144,3 +144,4 @@
 - pkg:nuget/OneIdentity.SafeguardDotNet.GuiLogin@8.1.1
 - pkg:nuget/OneIdentity.SafeguardDotNet.GuiLogin@8.2.0
 - pkg:nuget/OneIdentity.SafeguardDotNet.GuiLogin@8.2.1-dev-22051
+- pkg:nuget/OneIdentity.SafeguardDotNet.GuiLogin@8.2.2
