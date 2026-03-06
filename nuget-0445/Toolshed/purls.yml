@@ -1,3 +1,5 @@
+- pkg:nuget/Toolshed@10.0.169
+- pkg:nuget/Toolshed@10.0.170
 - pkg:nuget/Toolshed@5.0.0
 - pkg:nuget/Toolshed@7.0.0.10
 - pkg:nuget/Toolshed@7.0.0.14
