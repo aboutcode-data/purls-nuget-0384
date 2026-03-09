@@ -12,3 +12,5 @@
 - pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore@1.0.9
 - pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore@1.1.13
 - pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore@1.1.16
+- pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore@1.2.0
+- pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore@1.2.1
