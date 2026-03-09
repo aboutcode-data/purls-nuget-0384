@@ -254,6 +254,7 @@
 - pkg:nuget/TencentCloudSDK.Wav@3.0.1254
 - pkg:nuget/TencentCloudSDK.Wav@3.0.1271
 - pkg:nuget/TencentCloudSDK.Wav@3.0.1273
+- pkg:nuget/TencentCloudSDK.Wav@3.0.1381
 - pkg:nuget/TencentCloudSDK.Wav@3.0.298
 - pkg:nuget/TencentCloudSDK.Wav@3.0.299
 - pkg:nuget/TencentCloudSDK.Wav@3.0.300
