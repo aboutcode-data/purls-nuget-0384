@@ -98,4 +98,5 @@
 - pkg:nuget/Soenneker.Controllers.Health@4.0.101
 - pkg:nuget/Soenneker.Controllers.Health@4.0.106
 - pkg:nuget/Soenneker.Controllers.Health@4.0.125
+- pkg:nuget/Soenneker.Controllers.Health@4.0.129
 - pkg:nuget/Soenneker.Controllers.Health@4.0.99
