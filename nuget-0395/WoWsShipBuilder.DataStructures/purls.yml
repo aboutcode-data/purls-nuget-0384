@@ -71,3 +71,4 @@
 - pkg:nuget/WoWsShipBuilder.DataStructures@5.2.1
 - pkg:nuget/WoWsShipBuilder.DataStructures@6.0.0
 - pkg:nuget/WoWsShipBuilder.DataStructures@6.0.2
+- pkg:nuget/WoWsShipBuilder.DataStructures@6.2.0
