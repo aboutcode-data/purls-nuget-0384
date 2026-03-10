@@ -1,3 +1,4 @@
 - pkg:nuget/SharpDetect@2.0.0-prerelease-01
 - pkg:nuget/SharpDetect@2.0.0-prerelease-02
 - pkg:nuget/SharpDetect@2.0.0-prerelease-03
+- pkg:nuget/SharpDetect@2.1.0-prerelease-04
