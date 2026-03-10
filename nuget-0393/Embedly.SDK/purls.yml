@@ -1,2 +1,3 @@
 - pkg:nuget/Embedly.SDK@1.0.6
 - pkg:nuget/Embedly.SDK@1.0.7
+- pkg:nuget/Embedly.SDK@2.1.1
