@@ -50,6 +50,7 @@
 - pkg:nuget/Eventuous.Subscriptions@0.15.0-rc.2
 - pkg:nuget/Eventuous.Subscriptions@0.15.0-rc.3
 - pkg:nuget/Eventuous.Subscriptions@0.15.1
+- pkg:nuget/Eventuous.Subscriptions@0.16.2
 - pkg:nuget/Eventuous.Subscriptions@0.2.0
 - pkg:nuget/Eventuous.Subscriptions@0.3.0
 - pkg:nuget/Eventuous.Subscriptions@0.3.1

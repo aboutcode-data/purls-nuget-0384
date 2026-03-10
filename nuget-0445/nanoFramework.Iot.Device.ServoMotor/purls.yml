@@ -29,3 +29,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.ServoMotor@1.2.822
 - pkg:nuget/nanoFramework.Iot.Device.ServoMotor@1.2.852
 - pkg:nuget/nanoFramework.Iot.Device.ServoMotor@1.2.864
+- pkg:nuget/nanoFramework.Iot.Device.ServoMotor@2.0.0-preview.16
