@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@10.0.2
+- pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@2.0.0
 - pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@2.0.0-preview1-final
 - pkg:nuget/Microsoft.AspNetCore.SpaServices.Extensions@2.0.0-rc1-final

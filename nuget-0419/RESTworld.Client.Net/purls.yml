@@ -9,6 +9,7 @@
 - pkg:nuget/RESTworld.Client.Net@10.1.0
 - pkg:nuget/RESTworld.Client.Net@10.2.0
 - pkg:nuget/RESTworld.Client.Net@10.3.0
+- pkg:nuget/RESTworld.Client.Net@11.2.1
 - pkg:nuget/RESTworld.Client.Net@2.0.0
 - pkg:nuget/RESTworld.Client.Net@3.0.0
 - pkg:nuget/RESTworld.Client.Net@4.0.0
