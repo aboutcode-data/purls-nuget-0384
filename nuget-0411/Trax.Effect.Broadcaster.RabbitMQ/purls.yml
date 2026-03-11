@@ -1,0 +1,3 @@
+- pkg:nuget/Trax.Effect.Broadcaster.RabbitMQ@1.12.0
+- pkg:nuget/Trax.Effect.Broadcaster.RabbitMQ@1.13.0
+- pkg:nuget/Trax.Effect.Broadcaster.RabbitMQ@1.13.1
