@@ -54,6 +54,7 @@
 - pkg:nuget/RossWright.MetalCore@1.0.0-alpha9.7
 - pkg:nuget/RossWright.MetalCore@1.0.0-alpha9.8
 - pkg:nuget/RossWright.MetalCore@1.0.0-alpha9.9
+- pkg:nuget/RossWright.MetalCore@10.0.12
 - pkg:nuget/RossWright.MetalCore@8.0.0
 - pkg:nuget/RossWright.MetalCore@8.0.0-beta001
 - pkg:nuget/RossWright.MetalCore@8.0.0-beta002

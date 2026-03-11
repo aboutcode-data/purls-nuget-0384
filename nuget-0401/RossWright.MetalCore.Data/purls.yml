@@ -48,6 +48,7 @@
 - pkg:nuget/RossWright.MetalCore.Data@1.0.0-alpha9.7
 - pkg:nuget/RossWright.MetalCore.Data@1.0.0-alpha9.8
 - pkg:nuget/RossWright.MetalCore.Data@1.0.0-alpha9.9
+- pkg:nuget/RossWright.MetalCore.Data@10.0.12
 - pkg:nuget/RossWright.MetalCore.Data@8.0.0
 - pkg:nuget/RossWright.MetalCore.Data@8.0.0-beta001
 - pkg:nuget/RossWright.MetalCore.Data@8.0.0-beta002
