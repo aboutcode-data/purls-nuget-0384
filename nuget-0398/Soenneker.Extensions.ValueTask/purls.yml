@@ -90,4 +90,5 @@
 - pkg:nuget/Soenneker.Extensions.ValueTask@4.0.100
 - pkg:nuget/Soenneker.Extensions.ValueTask@4.0.101
 - pkg:nuget/Soenneker.Extensions.ValueTask@4.0.106
+- pkg:nuget/Soenneker.Extensions.ValueTask@4.0.110
 - pkg:nuget/Soenneker.Extensions.ValueTask@4.0.96
