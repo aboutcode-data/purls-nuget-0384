@@ -25,5 +25,6 @@
 - pkg:nuget/VirtoCommerce.MarketplaceQuoteModule.Data.PostgreSql@3.800.0-alpha.45
 - pkg:nuget/VirtoCommerce.MarketplaceQuoteModule.Data.PostgreSql@3.800.0-alpha.5
 - pkg:nuget/VirtoCommerce.MarketplaceQuoteModule.Data.PostgreSql@3.800.0-alpha.50
+- pkg:nuget/VirtoCommerce.MarketplaceQuoteModule.Data.PostgreSql@3.800.0-alpha.51
 - pkg:nuget/VirtoCommerce.MarketplaceQuoteModule.Data.PostgreSql@3.800.0-alpha.6
 - pkg:nuget/VirtoCommerce.MarketplaceQuoteModule.Data.PostgreSql@3.800.0-alpha.9
