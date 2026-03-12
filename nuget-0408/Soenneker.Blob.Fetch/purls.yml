@@ -2287,3 +2287,6 @@
 - pkg:nuget/Soenneker.Blob.Fetch@4.0.2204
 - pkg:nuget/Soenneker.Blob.Fetch@4.0.2207
 - pkg:nuget/Soenneker.Blob.Fetch@4.0.2214
+- pkg:nuget/Soenneker.Blob.Fetch@4.0.2217
+- pkg:nuget/Soenneker.Blob.Fetch@4.0.2218
+- pkg:nuget/Soenneker.Blob.Fetch@4.0.2220

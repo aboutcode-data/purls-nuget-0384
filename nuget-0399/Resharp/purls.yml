@@ -26,3 +26,4 @@
 - pkg:nuget/Resharp@0.2.1
 - pkg:nuget/Resharp@0.2.1-library
 - pkg:nuget/Resharp@0.2.2-library
+- pkg:nuget/Resharp@1.0.3

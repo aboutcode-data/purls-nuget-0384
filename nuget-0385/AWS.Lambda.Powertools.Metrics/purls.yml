@@ -29,3 +29,4 @@
 - pkg:nuget/AWS.Lambda.Powertools.Metrics@2.1.1
 - pkg:nuget/AWS.Lambda.Powertools.Metrics@2.2.0-alpha2
 - pkg:nuget/AWS.Lambda.Powertools.Metrics@2.2.0-alpha3
+- pkg:nuget/AWS.Lambda.Powertools.Metrics@3.2.0

@@ -3416,3 +3416,5 @@
 - pkg:nuget/Soenneker.Extensions.HttpClient@4.0.3694
 - pkg:nuget/Soenneker.Extensions.HttpClient@4.0.3700
 - pkg:nuget/Soenneker.Extensions.HttpClient@4.0.3710
+- pkg:nuget/Soenneker.Extensions.HttpClient@4.0.3712
+- pkg:nuget/Soenneker.Extensions.HttpClient@4.0.3714
