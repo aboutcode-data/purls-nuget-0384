@@ -1,3 +1,4 @@
+- pkg:nuget/Testcontainers.Weaviate@4.11.0
 - pkg:nuget/Testcontainers.Weaviate@4.2.0
 - pkg:nuget/Testcontainers.Weaviate@4.3.0
 - pkg:nuget/Testcontainers.Weaviate@4.4.0
