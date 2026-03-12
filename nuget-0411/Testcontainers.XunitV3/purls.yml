@@ -1,4 +1,5 @@
 - pkg:nuget/Testcontainers.XunitV3@4.1.0-beta.12035377103
+- pkg:nuget/Testcontainers.XunitV3@4.11.0
 - pkg:nuget/Testcontainers.XunitV3@4.2.0
 - pkg:nuget/Testcontainers.XunitV3@4.3.0
 - pkg:nuget/Testcontainers.XunitV3@4.4.0
