@@ -1,4 +1,5 @@
 - pkg:nuget/CoreForms.Web.NetFrameworkBridge@10.0.0-alpha.1
+- pkg:nuget/CoreForms.Web.NetFrameworkBridge@10.0.1
 - pkg:nuget/CoreForms.Web.NetFrameworkBridge@4.8.4075-alpha-001
 - pkg:nuget/CoreForms.Web.NetFrameworkBridge@4.8.4075.1
 - pkg:nuget/CoreForms.Web.NetFrameworkBridge@6.0.0
