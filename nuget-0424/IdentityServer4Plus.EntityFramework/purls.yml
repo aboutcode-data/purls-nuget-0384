@@ -11,3 +11,4 @@
 - pkg:nuget/IdentityServer4Plus.EntityFramework@8.0.20
 - pkg:nuget/IdentityServer4Plus.EntityFramework@8.0.7
 - pkg:nuget/IdentityServer4Plus.EntityFramework@8.0.8
+- pkg:nuget/IdentityServer4Plus.EntityFramework@9.0.14
