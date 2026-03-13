@@ -779,6 +779,7 @@
 - pkg:nuget/AWSSDK.Appflow@3.7.501.36
 - pkg:nuget/AWSSDK.Appflow@3.7.501.41
 - pkg:nuget/AWSSDK.Appflow@3.7.501.47
+- pkg:nuget/AWSSDK.Appflow@3.7.501.48
 - pkg:nuget/AWSSDK.Appflow@3.7.501.6
 - pkg:nuget/AWSSDK.Appflow@3.7.501.8
 - pkg:nuget/AWSSDK.Appflow@3.7.6
@@ -917,4 +918,5 @@
 - pkg:nuget/AWSSDK.Appflow@4.0.0.7
 - pkg:nuget/AWSSDK.Appflow@4.0.0.8
 - pkg:nuget/AWSSDK.Appflow@4.0.0.9
+- pkg:nuget/AWSSDK.Appflow@4.0.1.16
 - pkg:nuget/AWSSDK.Appflow@4.0.1.9

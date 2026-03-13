@@ -1206,6 +1206,7 @@
 - pkg:nuget/AWSSDK.MachineLearning@3.7.502.26
 - pkg:nuget/AWSSDK.MachineLearning@3.7.502.36
 - pkg:nuget/AWSSDK.MachineLearning@3.7.502.43
+- pkg:nuget/AWSSDK.MachineLearning@3.7.502.55
 - pkg:nuget/AWSSDK.MachineLearning@4.0.0
 - pkg:nuget/AWSSDK.MachineLearning@4.0.0-preview
 - pkg:nuget/AWSSDK.MachineLearning@4.0.0-preview.10
@@ -1244,3 +1245,4 @@
 - pkg:nuget/AWSSDK.MachineLearning@4.0.1.1
 - pkg:nuget/AWSSDK.MachineLearning@4.0.1.2
 - pkg:nuget/AWSSDK.MachineLearning@4.0.1.4
+- pkg:nuget/AWSSDK.MachineLearning@4.0.2.18

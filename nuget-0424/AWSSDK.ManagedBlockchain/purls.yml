@@ -1084,6 +1084,7 @@
 - pkg:nuget/AWSSDK.ManagedBlockchain@3.7.502.38
 - pkg:nuget/AWSSDK.ManagedBlockchain@3.7.502.42
 - pkg:nuget/AWSSDK.ManagedBlockchain@3.7.502.43
+- pkg:nuget/AWSSDK.ManagedBlockchain@3.7.502.50
 - pkg:nuget/AWSSDK.ManagedBlockchain@3.7.502.8
 - pkg:nuget/AWSSDK.ManagedBlockchain@4.0.0
 - pkg:nuget/AWSSDK.ManagedBlockchain@4.0.0-preview

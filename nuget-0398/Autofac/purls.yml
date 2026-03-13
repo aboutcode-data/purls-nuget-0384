@@ -84,3 +84,4 @@
 - pkg:nuget/Autofac@8.2.1
 - pkg:nuget/Autofac@8.3.0
 - pkg:nuget/Autofac@8.4.0
+- pkg:nuget/Autofac@9.1.0

@@ -1212,6 +1212,7 @@
 - pkg:nuget/AWSSDK.CertificateManager@3.7.501.18
 - pkg:nuget/AWSSDK.CertificateManager@3.7.501.22
 - pkg:nuget/AWSSDK.CertificateManager@3.7.501.39
+- pkg:nuget/AWSSDK.CertificateManager@3.7.501.51
 - pkg:nuget/AWSSDK.CertificateManager@3.7.501.9
 - pkg:nuget/AWSSDK.CertificateManager@4.0.0
 - pkg:nuget/AWSSDK.CertificateManager@4.0.0-preview
@@ -1252,3 +1253,4 @@
 - pkg:nuget/AWSSDK.CertificateManager@4.0.1.7
 - pkg:nuget/AWSSDK.CertificateManager@4.0.1.8
 - pkg:nuget/AWSSDK.CertificateManager@4.0.1.9
+- pkg:nuget/AWSSDK.CertificateManager@4.0.2.17
