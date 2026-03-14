@@ -165,4 +165,5 @@
 - pkg:nuget/WolverineFx.AmazonSqs@4.9.2
 - pkg:nuget/WolverineFx.AmazonSqs@4.9.3
 - pkg:nuget/WolverineFx.AmazonSqs@5.18.2
+- pkg:nuget/WolverineFx.AmazonSqs@5.19.1
 - pkg:nuget/WolverineFx.AmazonSqs@5.4.3

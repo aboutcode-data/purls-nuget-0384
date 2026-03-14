@@ -17,6 +17,7 @@
 - pkg:nuget/EncryptedConfigValue.Net.Module@1.1.17
 - pkg:nuget/EncryptedConfigValue.Net.Module@1.1.18
 - pkg:nuget/EncryptedConfigValue.Net.Module@1.1.19
+- pkg:nuget/EncryptedConfigValue.Net.Module@1.1.25
 - pkg:nuget/EncryptedConfigValue.Net.Module@1.1.6
 - pkg:nuget/EncryptedConfigValue.Net.Module@1.1.7
 - pkg:nuget/EncryptedConfigValue.Net.Module@1.1.8
