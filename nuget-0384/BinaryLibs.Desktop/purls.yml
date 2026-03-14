@@ -10,6 +10,7 @@
 - pkg:nuget/BinaryLibs.Desktop@0.109.0
 - pkg:nuget/BinaryLibs.Desktop@0.114.0
 - pkg:nuget/BinaryLibs.Desktop@0.124.0
+- pkg:nuget/BinaryLibs.Desktop@0.125.0
 - pkg:nuget/BinaryLibs.Desktop@0.74.0
 - pkg:nuget/BinaryLibs.Desktop@0.75.0
 - pkg:nuget/BinaryLibs.Desktop@0.76.0
