@@ -38,6 +38,7 @@
 - pkg:nuget/Omnia@1.8.1
 - pkg:nuget/Omnia@1.8.2
 - pkg:nuget/Omnia@1.9.0
+- pkg:nuget/Omnia@10.0.3
 - pkg:nuget/Omnia@2.0.0
 - pkg:nuget/Omnia@2.0.1
 - pkg:nuget/Omnia@2.0.2
