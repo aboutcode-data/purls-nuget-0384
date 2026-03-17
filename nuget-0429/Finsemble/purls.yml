@@ -44,6 +44,7 @@
 - pkg:nuget/Finsemble@10.0.3-beta.3
 - pkg:nuget/Finsemble@10.0.3-beta.5
 - pkg:nuget/Finsemble@10.0.3-beta.8
+- pkg:nuget/Finsemble@10.0.4-beta.27
 - pkg:nuget/Finsemble@3.10.0
 - pkg:nuget/Finsemble@3.11.0
 - pkg:nuget/Finsemble@3.12.0
