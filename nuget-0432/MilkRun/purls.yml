@@ -1,4 +1,5 @@
 - pkg:nuget/MilkRun@1.0.1
+- pkg:nuget/MilkRun@10.0.5
 - pkg:nuget/MilkRun@2.0.1
 - pkg:nuget/MilkRun@2.0.2
 - pkg:nuget/MilkRun@7.0.1

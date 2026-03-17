@@ -1,4 +1,5 @@
 - pkg:nuget/ClockSolitaire@1.0.1
+- pkg:nuget/ClockSolitaire@10.0.5
 - pkg:nuget/ClockSolitaire@2.0.1
 - pkg:nuget/ClockSolitaire@2.0.2
 - pkg:nuget/ClockSolitaire@7.0.1

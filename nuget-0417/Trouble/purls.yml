@@ -1,4 +1,5 @@
 - pkg:nuget/Trouble@1.0.1
+- pkg:nuget/Trouble@10.0.5
 - pkg:nuget/Trouble@2.0.1
 - pkg:nuget/Trouble@2.0.2
 - pkg:nuget/Trouble@7.0.1

@@ -1,4 +1,5 @@
 - pkg:nuget/Fluxx@1.0.1
+- pkg:nuget/Fluxx@10.0.5
 - pkg:nuget/Fluxx@2.0.1
 - pkg:nuget/Fluxx@2.0.2
 - pkg:nuget/Fluxx@7.0.1

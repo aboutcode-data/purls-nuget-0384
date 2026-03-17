@@ -1,4 +1,5 @@
 - pkg:nuget/AgnesSolitaire@1.0.1
+- pkg:nuget/AgnesSolitaire@10.0.5
 - pkg:nuget/AgnesSolitaire@2.0.1
 - pkg:nuget/AgnesSolitaire@2.0.2
 - pkg:nuget/AgnesSolitaire@7.0.1
