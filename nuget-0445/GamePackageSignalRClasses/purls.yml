@@ -1,6 +1,7 @@
 - pkg:nuget/GamePackageSignalRClasses@1.0.1
 - pkg:nuget/GamePackageSignalRClasses@1.0.2
 - pkg:nuget/GamePackageSignalRClasses@1.0.3
+- pkg:nuget/GamePackageSignalRClasses@10.0.12
 - pkg:nuget/GamePackageSignalRClasses@7.0.1
 - pkg:nuget/GamePackageSignalRClasses@8.0.1
 - pkg:nuget/GamePackageSignalRClasses@8.0.2
