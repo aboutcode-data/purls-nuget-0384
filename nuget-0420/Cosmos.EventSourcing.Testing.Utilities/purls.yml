@@ -3,3 +3,5 @@
 - pkg:nuget/Cosmos.EventSourcing.Testing.Utilities@0.0.6
 - pkg:nuget/Cosmos.EventSourcing.Testing.Utilities@0.1.3
 - pkg:nuget/Cosmos.EventSourcing.Testing.Utilities@0.1.5
+- pkg:nuget/Cosmos.EventSourcing.Testing.Utilities@0.1.8
+- pkg:nuget/Cosmos.EventSourcing.Testing.Utilities@0.1.9
