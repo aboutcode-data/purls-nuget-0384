@@ -1,2 +1,5 @@
+- pkg:nuget/Pandatech.MassTransit.SQLiteOutbox@5.0.0
 - pkg:nuget/Pandatech.MassTransit.SQLiteOutbox@5.0.1
 - pkg:nuget/Pandatech.MassTransit.SQLiteOutbox@5.1.0
+- pkg:nuget/Pandatech.MassTransit.SQLiteOutbox@5.1.1
+- pkg:nuget/Pandatech.MassTransit.SQLiteOutbox@5.2.0
