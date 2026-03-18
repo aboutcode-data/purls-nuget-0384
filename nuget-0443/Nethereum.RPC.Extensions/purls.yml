@@ -18,3 +18,4 @@
 - pkg:nuget/Nethereum.RPC.Extensions@4.28.0
 - pkg:nuget/Nethereum.RPC.Extensions@4.29.0
 - pkg:nuget/Nethereum.RPC.Extensions@5.0.0
+- pkg:nuget/Nethereum.RPC.Extensions@6.0.4
