@@ -88,3 +88,4 @@
 - pkg:nuget/Nethereum.Web3@4.8.0
 - pkg:nuget/Nethereum.Web3@4.9.0
 - pkg:nuget/Nethereum.Web3@5.0.0
+- pkg:nuget/Nethereum.Web3@6.0.4
