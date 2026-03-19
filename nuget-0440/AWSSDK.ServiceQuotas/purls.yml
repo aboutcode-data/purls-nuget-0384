@@ -1100,3 +1100,4 @@
 - pkg:nuget/AWSSDK.ServiceQuotas@4.0.2.4
 - pkg:nuget/AWSSDK.ServiceQuotas@4.0.3.2
 - pkg:nuget/AWSSDK.ServiceQuotas@4.0.4.8
+- pkg:nuget/AWSSDK.ServiceQuotas@4.0.4.9
