@@ -20,3 +20,4 @@
 - pkg:nuget/Picovoice.Cheetah@2.1.8
 - pkg:nuget/Picovoice.Cheetah@2.2.0
 - pkg:nuget/Picovoice.Cheetah@2.3.0
+- pkg:nuget/Picovoice.Cheetah@4.0.0
