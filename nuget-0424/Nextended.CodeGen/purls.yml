@@ -6,6 +6,7 @@
 - pkg:nuget/Nextended.CodeGen@10.0.0-prev-1
 - pkg:nuget/Nextended.CodeGen@10.0.4-prev-3
 - pkg:nuget/Nextended.CodeGen@10.0.4-prev-4
+- pkg:nuget/Nextended.CodeGen@10.0.9
 - pkg:nuget/Nextended.CodeGen@9.0.14
 - pkg:nuget/Nextended.CodeGen@9.0.15
 - pkg:nuget/Nextended.CodeGen@9.0.16
