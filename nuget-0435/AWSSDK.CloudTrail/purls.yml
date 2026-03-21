@@ -1203,6 +1203,7 @@
 - pkg:nuget/AWSSDK.CloudTrail@3.7.504.34
 - pkg:nuget/AWSSDK.CloudTrail@3.7.504.41
 - pkg:nuget/AWSSDK.CloudTrail@3.7.504.44
+- pkg:nuget/AWSSDK.CloudTrail@3.7.504.45
 - pkg:nuget/AWSSDK.CloudTrail@3.7.504.8
 - pkg:nuget/AWSSDK.CloudTrail@3.7.6
 - pkg:nuget/AWSSDK.CloudTrail@3.7.6.1

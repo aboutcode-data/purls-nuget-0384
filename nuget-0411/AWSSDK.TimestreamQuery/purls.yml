@@ -853,6 +853,7 @@
 - pkg:nuget/AWSSDK.TimestreamQuery@3.7.502.48
 - pkg:nuget/AWSSDK.TimestreamQuery@3.7.502.55
 - pkg:nuget/AWSSDK.TimestreamQuery@3.7.502.58
+- pkg:nuget/AWSSDK.TimestreamQuery@3.7.502.59
 - pkg:nuget/AWSSDK.TimestreamQuery@4.0.0
 - pkg:nuget/AWSSDK.TimestreamQuery@4.0.0-preview
 - pkg:nuget/AWSSDK.TimestreamQuery@4.0.0-preview.10

@@ -1186,6 +1186,7 @@
 - pkg:nuget/AWSSDK.Shield@3.7.501.38
 - pkg:nuget/AWSSDK.Shield@3.7.501.50
 - pkg:nuget/AWSSDK.Shield@3.7.501.53
+- pkg:nuget/AWSSDK.Shield@3.7.501.54
 - pkg:nuget/AWSSDK.Shield@3.7.501.8
 - pkg:nuget/AWSSDK.Shield@4.0.0
 - pkg:nuget/AWSSDK.Shield@4.0.0-preview

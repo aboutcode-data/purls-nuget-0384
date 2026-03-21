@@ -1059,6 +1059,7 @@
 - pkg:nuget/AWSSDK.ServiceQuotas@3.7.503.27
 - pkg:nuget/AWSSDK.ServiceQuotas@3.7.503.34
 - pkg:nuget/AWSSDK.ServiceQuotas@3.7.503.37
+- pkg:nuget/AWSSDK.ServiceQuotas@3.7.503.38
 - pkg:nuget/AWSSDK.ServiceQuotas@3.7.503.5
 - pkg:nuget/AWSSDK.ServiceQuotas@3.7.503.6
 - pkg:nuget/AWSSDK.ServiceQuotas@4.0.0

@@ -933,6 +933,7 @@
 - pkg:nuget/AWSSDK.WAFV2@3.7.504.9
 - pkg:nuget/AWSSDK.WAFV2@3.7.505.5
 - pkg:nuget/AWSSDK.WAFV2@3.7.505.8
+- pkg:nuget/AWSSDK.WAFV2@3.7.505.9
 - pkg:nuget/AWSSDK.WAFV2@3.7.6
 - pkg:nuget/AWSSDK.WAFV2@3.7.6.1
 - pkg:nuget/AWSSDK.WAFV2@3.7.6.10

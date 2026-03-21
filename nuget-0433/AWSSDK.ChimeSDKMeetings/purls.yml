@@ -669,6 +669,7 @@
 - pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.503.53
 - pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.503.54
 - pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.503.57
+- pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.503.58
 - pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.6
 - pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.6.1
 - pkg:nuget/AWSSDK.ChimeSDKMeetings@3.7.6.10

@@ -810,6 +810,7 @@
 - pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.503.34
 - pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.503.41
 - pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.503.44
+- pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.503.45
 - pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.503.8
 - pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.6
 - pkg:nuget/AWSSDK.RedshiftDataAPIService@3.7.6.1
