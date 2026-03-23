@@ -1,2 +1,3 @@
 - pkg:nuget/Dignus.ActorServer@1.1.4
 - pkg:nuget/Dignus.ActorServer@1.1.9
+- pkg:nuget/Dignus.ActorServer@3.0.0-preview.3
