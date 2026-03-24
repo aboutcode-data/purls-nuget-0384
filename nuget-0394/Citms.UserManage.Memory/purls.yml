@@ -9,6 +9,7 @@
 - pkg:nuget/Citms.UserManage.Memory@1.0.8
 - pkg:nuget/Citms.UserManage.Memory@1.0.9
 - pkg:nuget/Citms.UserManage.Memory@1.0.9-preview
+- pkg:nuget/Citms.UserManage.Memory@1.1.0
 - pkg:nuget/Citms.UserManage.Memory@11.0.0
 - pkg:nuget/Citms.UserManage.Memory@11.0.0-preview1
 - pkg:nuget/Citms.UserManage.Memory@11.0.0-preview2
