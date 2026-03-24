@@ -19,3 +19,4 @@
 - pkg:nuget/FunFair.BuildVersion.linux-arm64@6.2.18.1817-main
 - pkg:nuget/FunFair.BuildVersion.linux-arm64@6.2.19.1840-main
 - pkg:nuget/FunFair.BuildVersion.linux-arm64@6.2.19.1842-main
+- pkg:nuget/FunFair.BuildVersion.linux-arm64@6.2.19.1860-main
