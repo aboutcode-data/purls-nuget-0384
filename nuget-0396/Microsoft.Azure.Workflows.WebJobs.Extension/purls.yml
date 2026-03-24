@@ -31,6 +31,7 @@
 - pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.131.9
 - pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.138.54
 - pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.15.24
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.160.21
 - pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.19.5
 - pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.2.0
 - pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Extension@1.2.1
