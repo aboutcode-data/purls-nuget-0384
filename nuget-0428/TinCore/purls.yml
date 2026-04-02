@@ -19,6 +19,7 @@
 - pkg:nuget/TinCore@1.0.7
 - pkg:nuget/TinCore@1.0.8
 - pkg:nuget/TinCore@1.0.9
+- pkg:nuget/TinCore@10.0.8
 - pkg:nuget/TinCore@6.0.0
 - pkg:nuget/TinCore@6.0.1
 - pkg:nuget/TinCore@6.0.2

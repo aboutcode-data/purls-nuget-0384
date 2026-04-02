@@ -7,4 +7,8 @@
 - pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.18
 - pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.2
 - pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.26
+- pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.27
+- pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.28
+- pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.29
+- pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.30
 - pkg:nuget/AWSSDK.Extensions.Logging.Log4NetAdaptor@4.0.0.6

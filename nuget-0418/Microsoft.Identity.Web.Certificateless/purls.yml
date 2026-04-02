@@ -94,3 +94,4 @@
 - pkg:nuget/Microsoft.Identity.Web.Certificateless@3.9.3
 - pkg:nuget/Microsoft.Identity.Web.Certificateless@3.9.4
 - pkg:nuget/Microsoft.Identity.Web.Certificateless@4.6.0
+- pkg:nuget/Microsoft.Identity.Web.Certificateless@4.7.0

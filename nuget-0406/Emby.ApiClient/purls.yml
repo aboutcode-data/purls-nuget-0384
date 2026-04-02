@@ -1,3 +1,5 @@
+- pkg:nuget/Emby.ApiClient@4.10.0.7-beta
+- pkg:nuget/Emby.ApiClient@4.10.0.8-beta
 - pkg:nuget/Emby.ApiClient@4.8.10
 - pkg:nuget/Emby.ApiClient@4.9.0.33-beta
 - pkg:nuget/Emby.ApiClient@4.9.0.34-beta

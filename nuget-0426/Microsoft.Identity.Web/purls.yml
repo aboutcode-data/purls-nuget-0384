@@ -148,3 +148,4 @@
 - pkg:nuget/Microsoft.Identity.Web@3.9.2
 - pkg:nuget/Microsoft.Identity.Web@3.9.3
 - pkg:nuget/Microsoft.Identity.Web@3.9.4
+- pkg:nuget/Microsoft.Identity.Web@4.7.0

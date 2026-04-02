@@ -9,3 +9,5 @@
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.GoogleCloud@0.14.0
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.GoogleCloud@0.17.0
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.GoogleCloud@0.18.0-dev.7
+- pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.GoogleCloud@0.18.0-dev.8.bigtable-and-hierarchy.37
+- pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.GoogleCloud@0.18.0-dev.8.bigtable-and-hierarchy.38

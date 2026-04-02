@@ -54,3 +54,4 @@
 - pkg:nuget/Adliance.AspNetCore.Buddy.Template.Razor@8.0.0.7
 - pkg:nuget/Adliance.AspNetCore.Buddy.Template.Razor@8.0.0.8
 - pkg:nuget/Adliance.AspNetCore.Buddy.Template.Razor@8.0.0.9
+- pkg:nuget/Adliance.AspNetCore.Buddy.Template.Razor@8.2.0.7

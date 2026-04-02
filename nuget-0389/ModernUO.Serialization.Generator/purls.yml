@@ -28,6 +28,7 @@
 - pkg:nuget/ModernUO.Serialization.Generator@2.12.19
 - pkg:nuget/ModernUO.Serialization.Generator@2.12.20
 - pkg:nuget/ModernUO.Serialization.Generator@2.12.9
+- pkg:nuget/ModernUO.Serialization.Generator@2.14.3
 - pkg:nuget/ModernUO.Serialization.Generator@2.2.0
 - pkg:nuget/ModernUO.Serialization.Generator@2.2.1
 - pkg:nuget/ModernUO.Serialization.Generator@2.2.2

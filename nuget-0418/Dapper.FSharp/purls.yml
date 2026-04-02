@@ -38,6 +38,7 @@
 - pkg:nuget/Dapper.FSharp@4.0.0
 - pkg:nuget/Dapper.FSharp@4.1.0
 - pkg:nuget/Dapper.FSharp@4.1.1
+- pkg:nuget/Dapper.FSharp@4.10.0
 - pkg:nuget/Dapper.FSharp@4.2.0
 - pkg:nuget/Dapper.FSharp@4.3.0
 - pkg:nuget/Dapper.FSharp@4.4.0

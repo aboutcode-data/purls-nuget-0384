@@ -47,6 +47,7 @@
 - pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.28.0
 - pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.29.0
 - pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.3.0
+- pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.32.0
 - pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.4.0
 - pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.5.0
 - pkg:nuget/Google.Cloud.Bigtable.Admin.V2@3.6.0

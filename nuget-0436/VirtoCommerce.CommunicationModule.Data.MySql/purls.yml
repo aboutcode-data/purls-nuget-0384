@@ -1,3 +1,6 @@
+- pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.1000.0
+- pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.1000.0-alpha.55
+- pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.1001.0-alpha.56
 - pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.800.0
 - pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.800.0-alpha.10
 - pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.800.0-alpha.11
@@ -41,3 +44,4 @@
 - pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.804.0-alpha.43
 - pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.804.0-alpha.44
 - pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.805.0-alpha.48
+- pkg:nuget/VirtoCommerce.CommunicationModule.Data.MySql@3.806.0-alpha.54

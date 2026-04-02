@@ -64,6 +64,7 @@
 - pkg:nuget/CyberSource.Rest.Client@0.0.1.55
 - pkg:nuget/CyberSource.Rest.Client@0.0.1.56
 - pkg:nuget/CyberSource.Rest.Client@0.0.1.6
+- pkg:nuget/CyberSource.Rest.Client@0.0.1.62
 - pkg:nuget/CyberSource.Rest.Client@0.0.1.7
 - pkg:nuget/CyberSource.Rest.Client@0.0.1.8
 - pkg:nuget/CyberSource.Rest.Client@0.0.1.9

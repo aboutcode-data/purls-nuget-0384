@@ -1,4 +1,6 @@
 - pkg:nuget/Volo.Abp.Json.SystemTextJson@10.1.1
+- pkg:nuget/Volo.Abp.Json.SystemTextJson@10.2.0
+- pkg:nuget/Volo.Abp.Json.SystemTextJson@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.Json.SystemTextJson@7.0.0
 - pkg:nuget/Volo.Abp.Json.SystemTextJson@7.0.0-rc.1
 - pkg:nuget/Volo.Abp.Json.SystemTextJson@7.0.0-rc.2
