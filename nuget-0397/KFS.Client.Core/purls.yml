@@ -2,3 +2,4 @@
 - pkg:nuget/KFS.Client.Core@2025.1.4.5
 - pkg:nuget/KFS.Client.Core@2025.1.4.50
 - pkg:nuget/KFS.Client.Core@2025.1.4.51-t01
+- pkg:nuget/KFS.Client.Core@2026.1.0.3
