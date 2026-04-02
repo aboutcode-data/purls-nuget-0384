@@ -1,6 +1,7 @@
 - pkg:nuget/Our.Umbraco.PostgreSql@17.2.0--rc.preview.192.g5944ee0
 - pkg:nuget/Our.Umbraco.PostgreSql@17.2.0--rc.preview.211.g627014c
 - pkg:nuget/Our.Umbraco.PostgreSql@17.2.0--rc.preview.221.g3a65263
+- pkg:nuget/Our.Umbraco.PostgreSql@17.3.0
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0--rc.preview.113.g2479045
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0--rc.preview.181.gdeb1a06
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0--rc.preview.193.g3df7573
@@ -9,3 +10,6 @@
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0--rc.preview.97.g89eee04
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0-rc
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0-rc1
+- pkg:nuget/Our.Umbraco.PostgreSql@17.3.0-rc2
+- pkg:nuget/Our.Umbraco.PostgreSql@17.3.0-rc3
+- pkg:nuget/Our.Umbraco.PostgreSql@17.3.0.1

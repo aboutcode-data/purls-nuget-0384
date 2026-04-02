@@ -74,3 +74,5 @@
 - pkg:nuget/Ascon.Pilot.Bim.Search.SDK@25.7.52-alpha
 - pkg:nuget/Ascon.Pilot.Bim.Search.SDK@25.8.0
 - pkg:nuget/Ascon.Pilot.Bim.Search.SDK@25.9.0
+- pkg:nuget/Ascon.Pilot.Bim.Search.SDK@26.4.0
+- pkg:nuget/Ascon.Pilot.Bim.Search.SDK@26.4.67-alpha

@@ -1,4 +1,11 @@
 - pkg:nuget/Trax.Scheduler@1.1.0
 - pkg:nuget/Trax.Scheduler@1.14.0
 - pkg:nuget/Trax.Scheduler@1.16.1
+- pkg:nuget/Trax.Scheduler@1.21.0
+- pkg:nuget/Trax.Scheduler@1.22.0
+- pkg:nuget/Trax.Scheduler@1.22.1
+- pkg:nuget/Trax.Scheduler@1.23.0
+- pkg:nuget/Trax.Scheduler@1.24.0
+- pkg:nuget/Trax.Scheduler@1.24.1
+- pkg:nuget/Trax.Scheduler@1.24.2
 - pkg:nuget/Trax.Scheduler@1.6.0

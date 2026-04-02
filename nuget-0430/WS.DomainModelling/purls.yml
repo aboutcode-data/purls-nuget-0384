@@ -1,4 +1,5 @@
 - pkg:nuget/WS.DomainModelling@1.0.11
+- pkg:nuget/WS.DomainModelling@1.0.15
 - pkg:nuget/WS.DomainModelling@1.0.2
 - pkg:nuget/WS.DomainModelling@1.0.3
 - pkg:nuget/WS.DomainModelling@1.0.4
