@@ -9,3 +9,6 @@
 - pkg:nuget/N2.Core.Abstractions@1.4.0
 - pkg:nuget/N2.Core.Abstractions@1.4.3
 - pkg:nuget/N2.Core.Abstractions@1.5.0
+- pkg:nuget/N2.Core.Abstractions@1.5.2
+- pkg:nuget/N2.Core.Abstractions@1.6.0
+- pkg:nuget/N2.Core.Abstractions@1.6.1

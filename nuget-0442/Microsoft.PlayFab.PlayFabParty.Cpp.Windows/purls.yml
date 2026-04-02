@@ -3,6 +3,7 @@
 - pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.0.1
 - pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.0.2
 - pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.10.0
+- pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.10.18
 - pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.10.2
 - pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.10.3
 - pkg:nuget/Microsoft.PlayFab.PlayFabParty.Cpp.Windows@1.10.5

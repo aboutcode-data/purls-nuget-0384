@@ -1,2 +1,4 @@
 - pkg:nuget/Locus@0.3.0
 - pkg:nuget/Locus@1.2.0
+- pkg:nuget/Locus@1.2.4
+- pkg:nuget/Locus@1.2.5
