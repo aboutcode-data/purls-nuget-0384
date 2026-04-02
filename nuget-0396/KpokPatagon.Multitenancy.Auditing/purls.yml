@@ -2,3 +2,6 @@
 - pkg:nuget/KpokPatagon.Multitenancy.Auditing@10.0.25248.2
 - pkg:nuget/KpokPatagon.Multitenancy.Auditing@10.0.25249.1
 - pkg:nuget/KpokPatagon.Multitenancy.Auditing@10.0.25317.1
+- pkg:nuget/KpokPatagon.Multitenancy.Auditing@10.1.26091.1
+- pkg:nuget/KpokPatagon.Multitenancy.Auditing@10.1.26091.2
+- pkg:nuget/KpokPatagon.Multitenancy.Auditing@10.2.26091.3
