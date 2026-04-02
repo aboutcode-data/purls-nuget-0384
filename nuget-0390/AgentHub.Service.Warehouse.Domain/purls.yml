@@ -261,6 +261,7 @@
 - pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.34
 - pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.342
 - pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.35
+- pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.350
 - pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.36
 - pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.37
 - pkg:nuget/AgentHub.Service.Warehouse.Domain@1.0.38

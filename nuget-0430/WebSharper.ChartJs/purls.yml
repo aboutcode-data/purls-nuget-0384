@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.ChartJs@10.0.0.604-beta1
+- pkg:nuget/WebSharper.ChartJs@10.1.0.667
 - pkg:nuget/WebSharper.ChartJs@3.4.8.46
 - pkg:nuget/WebSharper.ChartJs@3.5.1.47
 - pkg:nuget/WebSharper.ChartJs@3.5.3.49

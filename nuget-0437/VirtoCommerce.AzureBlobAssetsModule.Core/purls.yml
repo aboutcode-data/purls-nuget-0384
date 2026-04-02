@@ -10,6 +10,7 @@
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@1.4.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@1.4.0-alpha.10
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@1.5.0-alpha.11
+- pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.1002.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.200.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.200.0-alpha.22
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.200.1
@@ -95,3 +96,4 @@
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.810.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.811.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.811.0-alpha.143-virtual-convert-to-blob
+- pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.813.1

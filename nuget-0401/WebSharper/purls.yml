@@ -5,6 +5,7 @@
 - pkg:nuget/WebSharper@0.0.5
 - pkg:nuget/WebSharper@0.0.6
 - pkg:nuget/WebSharper@10.0.0.604-beta1
+- pkg:nuget/WebSharper@10.1.0.667
 - pkg:nuget/WebSharper@2.4.83.233
 - pkg:nuget/WebSharper@2.4.85.235
 - pkg:nuget/WebSharper@2.5.0-alpha

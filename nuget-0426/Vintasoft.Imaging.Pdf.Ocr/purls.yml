@@ -25,6 +25,7 @@
 - pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@11.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@11.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@11.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@12.0.8.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@3.4.11.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@3.4.12.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Ocr@3.4.13.1

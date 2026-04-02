@@ -50,3 +50,4 @@
 - pkg:nuget/dSPACE.Runtime.InteropServices.BuildTasks@2.1.1
 - pkg:nuget/dSPACE.Runtime.InteropServices.BuildTasks@2.2.0
 - pkg:nuget/dSPACE.Runtime.InteropServices.BuildTasks@2.3.0
+- pkg:nuget/dSPACE.Runtime.InteropServices.BuildTasks@2.5.2

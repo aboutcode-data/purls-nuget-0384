@@ -421,3 +421,5 @@
 - pkg:nuget/Uno.Extensions.Validation.Fluent@7.1.0-dev.65
 - pkg:nuget/Uno.Extensions.Validation.Fluent@7.2.0-dev.36
 - pkg:nuget/Uno.Extensions.Validation.Fluent@7.2.0-dev.5
+- pkg:nuget/Uno.Extensions.Validation.Fluent@7.2.0-dev.52
+- pkg:nuget/Uno.Extensions.Validation.Fluent@7.2.0-dev.58

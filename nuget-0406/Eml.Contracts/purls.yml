@@ -42,6 +42,7 @@
 - pkg:nuget/Eml.Contracts@1.0.0.7
 - pkg:nuget/Eml.Contracts@1.0.0.8
 - pkg:nuget/Eml.Contracts@1.0.0.9
+- pkg:nuget/Eml.Contracts@10.0.0
 - pkg:nuget/Eml.Contracts@2.0.0
 - pkg:nuget/Eml.Contracts@2.0.1.1
 - pkg:nuget/Eml.Contracts@2.0.1.10

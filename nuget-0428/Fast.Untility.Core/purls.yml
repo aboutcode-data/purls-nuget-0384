@@ -120,3 +120,5 @@
 - pkg:nuget/Fast.Untility.Core@18.6.0
 - pkg:nuget/Fast.Untility.Core@18.7.0
 - pkg:nuget/Fast.Untility.Core@18.8.0
+- pkg:nuget/Fast.Untility.Core@18.9.0
+- pkg:nuget/Fast.Untility.Core@19.0.0

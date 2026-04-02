@@ -173,6 +173,7 @@
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.506.7
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.506.9
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.508.10
+- pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.508.11
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.508.6
 - pkg:nuget/AWSSDK.PartnerCentralSelling@3.7.508.9
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.0
@@ -203,6 +204,9 @@
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.1.7
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.1.8
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.1.9
+- pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.10
+- pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.10.1
+- pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.10.2
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.2
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.3
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.3.1
@@ -213,3 +217,5 @@
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.3.6
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.6
 - pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.9.3
+- pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.9.4
+- pkg:nuget/AWSSDK.PartnerCentralSelling@4.0.9.5

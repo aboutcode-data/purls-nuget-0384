@@ -61,3 +61,6 @@
 - pkg:nuget/NETool.Generator@4.2.2
 - pkg:nuget/NETool.Generator@4.4.6
 - pkg:nuget/NETool.Generator@4.5.8
+- pkg:nuget/NETool.Generator@4.6.2
+- pkg:nuget/NETool.Generator@4.6.3
+- pkg:nuget/NETool.Generator@4.6.4

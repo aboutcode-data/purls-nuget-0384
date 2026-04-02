@@ -5,3 +5,4 @@
 - pkg:nuget/Namotion.Interceptor.Dynamic@0.0.35
 - pkg:nuget/Namotion.Interceptor.Dynamic@0.0.43
 - pkg:nuget/Namotion.Interceptor.Dynamic@0.0.49
+- pkg:nuget/Namotion.Interceptor.Dynamic@0.5.0

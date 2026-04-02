@@ -7,6 +7,7 @@
 - pkg:nuget/ValueLink@0.102.1
 - pkg:nuget/ValueLink@0.102.2
 - pkg:nuget/ValueLink@0.103.0
+- pkg:nuget/ValueLink@0.109.2
 - pkg:nuget/ValueLink@0.18.0
 - pkg:nuget/ValueLink@0.18.1
 - pkg:nuget/ValueLink@0.18.2

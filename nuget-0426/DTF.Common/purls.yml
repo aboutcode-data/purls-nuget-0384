@@ -350,3 +350,6 @@
 - pkg:nuget/DTF.Common@2.7.3.5
 - pkg:nuget/DTF.Common@2.7.3.6
 - pkg:nuget/DTF.Common@2.7.3.7
+- pkg:nuget/DTF.Common@2.7.3.9
+- pkg:nuget/DTF.Common@2.7.4
+- pkg:nuget/DTF.Common@2.7.4.1

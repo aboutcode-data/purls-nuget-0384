@@ -1707,6 +1707,8 @@
 - pkg:nuget/Org.Cdk8s@2.70.4
 - pkg:nuget/Org.Cdk8s@2.70.42
 - pkg:nuget/Org.Cdk8s@2.70.5
+- pkg:nuget/Org.Cdk8s@2.70.53
+- pkg:nuget/Org.Cdk8s@2.70.54
 - pkg:nuget/Org.Cdk8s@2.70.6
 - pkg:nuget/Org.Cdk8s@2.70.7
 - pkg:nuget/Org.Cdk8s@2.70.8

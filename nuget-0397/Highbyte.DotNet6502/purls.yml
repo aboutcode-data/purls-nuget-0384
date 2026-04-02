@@ -28,6 +28,16 @@
 - pkg:nuget/Highbyte.DotNet6502@0.25.0-alpha
 - pkg:nuget/Highbyte.DotNet6502@0.25.1-alpha
 - pkg:nuget/Highbyte.DotNet6502@0.28.3-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.0-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.1-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.2-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.3-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.4-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.5-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.6-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.7-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.8-alpha
+- pkg:nuget/Highbyte.DotNet6502@0.29.9-alpha
 - pkg:nuget/Highbyte.DotNet6502@0.3.16-alpha
 - pkg:nuget/Highbyte.DotNet6502@0.3.17-alpha
 - pkg:nuget/Highbyte.DotNet6502@0.4.0.19-alpha

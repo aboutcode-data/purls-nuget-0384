@@ -1,2 +1,4 @@
 - pkg:nuget/Ecng.Data.PostgreSql@1.0.12
 - pkg:nuget/Ecng.Data.PostgreSql@1.0.14
+- pkg:nuget/Ecng.Data.PostgreSql@1.0.15
+- pkg:nuget/Ecng.Data.PostgreSql@1.0.16

@@ -88,3 +88,4 @@
 - pkg:nuget/LM-Kit.NET.Backend.Cuda12.Linux@2025.9.1
 - pkg:nuget/LM-Kit.NET.Backend.Cuda12.Linux@2025.9.2
 - pkg:nuget/LM-Kit.NET.Backend.Cuda12.Linux@2025.9.3
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Linux@2026.3.4

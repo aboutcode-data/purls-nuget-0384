@@ -7,5 +7,6 @@
 - pkg:nuget/ServiceModel.Grpc.Core@1.15.0
 - pkg:nuget/ServiceModel.Grpc.Core@1.16.0
 - pkg:nuget/ServiceModel.Grpc.Core@1.17.0
+- pkg:nuget/ServiceModel.Grpc.Core@1.22.0
 - pkg:nuget/ServiceModel.Grpc.Core@1.9.0
 - pkg:nuget/ServiceModel.Grpc.Core@1.9.1

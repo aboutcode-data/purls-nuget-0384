@@ -152,4 +152,5 @@
 - pkg:nuget/Scandit.DataCapture.Barcode.Xamarin.Forms@7.5.1
 - pkg:nuget/Scandit.DataCapture.Barcode.Xamarin.Forms@7.6.0
 - pkg:nuget/Scandit.DataCapture.Barcode.Xamarin.Forms@7.6.0-beta.1
+- pkg:nuget/Scandit.DataCapture.Barcode.Xamarin.Forms@7.6.10
 - pkg:nuget/Scandit.DataCapture.Barcode.Xamarin.Forms@7.6.4

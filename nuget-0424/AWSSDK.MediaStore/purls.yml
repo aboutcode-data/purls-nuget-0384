@@ -1157,6 +1157,7 @@
 - pkg:nuget/AWSSDK.MediaStore@3.7.501.51
 - pkg:nuget/AWSSDK.MediaStore@3.7.501.54
 - pkg:nuget/AWSSDK.MediaStore@3.7.501.55
+- pkg:nuget/AWSSDK.MediaStore@3.7.501.56
 - pkg:nuget/AWSSDK.MediaStore@3.7.501.9
 - pkg:nuget/AWSSDK.MediaStore@4.0.0
 - pkg:nuget/AWSSDK.MediaStore@4.0.0-preview
@@ -1196,3 +1197,7 @@
 - pkg:nuget/AWSSDK.MediaStore@4.0.0.7
 - pkg:nuget/AWSSDK.MediaStore@4.0.0.8
 - pkg:nuget/AWSSDK.MediaStore@4.0.0.9
+- pkg:nuget/AWSSDK.MediaStore@4.0.1.19
+- pkg:nuget/AWSSDK.MediaStore@4.0.1.20
+- pkg:nuget/AWSSDK.MediaStore@4.0.1.21
+- pkg:nuget/AWSSDK.MediaStore@4.0.1.22

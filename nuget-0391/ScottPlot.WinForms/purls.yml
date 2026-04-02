@@ -176,3 +176,4 @@
 - pkg:nuget/ScottPlot.WinForms@5.0.7-beta
 - pkg:nuget/ScottPlot.WinForms@5.0.8-beta
 - pkg:nuget/ScottPlot.WinForms@5.0.9-beta
+- pkg:nuget/ScottPlot.WinForms@5.1.58

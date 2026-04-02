@@ -3,4 +3,6 @@
 - pkg:nuget/com.IvanMurzak.McpPlugin.Common@0.2.5
 - pkg:nuget/com.IvanMurzak.McpPlugin.Common@1.1.0
 - pkg:nuget/com.IvanMurzak.McpPlugin.Common@4.3.1
+- pkg:nuget/com.IvanMurzak.McpPlugin.Common@5.10.0
+- pkg:nuget/com.IvanMurzak.McpPlugin.Common@5.10.2
 - pkg:nuget/com.IvanMurzak.McpPlugin.Common@5.5.3

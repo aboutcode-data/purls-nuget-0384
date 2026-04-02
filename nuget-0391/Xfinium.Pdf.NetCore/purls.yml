@@ -45,6 +45,7 @@
 - pkg:nuget/Xfinium.Pdf.NetCore@14.0.5
 - pkg:nuget/Xfinium.Pdf.NetCore@14.0.6
 - pkg:nuget/Xfinium.Pdf.NetCore@14.1.0
+- pkg:nuget/Xfinium.Pdf.NetCore@15.2.1
 - pkg:nuget/Xfinium.Pdf.NetCore@6.3.0
 - pkg:nuget/Xfinium.Pdf.NetCore@6.3.1
 - pkg:nuget/Xfinium.Pdf.NetCore@6.3.1.2
