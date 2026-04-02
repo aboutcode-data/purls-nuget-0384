@@ -4,3 +4,4 @@
 - pkg:nuget/Kyameru.Component.Ftp@0.0.29-beta
 - pkg:nuget/Kyameru.Component.Ftp@0.2.0-beta
 - pkg:nuget/Kyameru.Component.Ftp@0.2.1-beta
+- pkg:nuget/Kyameru.Component.Ftp@1.0.1

@@ -1,2 +1,4 @@
 - pkg:nuget/Xians.Lib@3.10.3
 - pkg:nuget/Xians.Lib@3.19.0
+- pkg:nuget/Xians.Lib@3.20.0
+- pkg:nuget/Xians.Lib@3.21.0

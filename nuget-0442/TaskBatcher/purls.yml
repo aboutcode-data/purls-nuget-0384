@@ -1,2 +1,4 @@
 - pkg:nuget/TaskBatcher@1.0.0
 - pkg:nuget/TaskBatcher@1.0.1
+- pkg:nuget/TaskBatcher@4.0.15
+- pkg:nuget/TaskBatcher@4.0.9

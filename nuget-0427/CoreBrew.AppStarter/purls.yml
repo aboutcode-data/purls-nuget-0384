@@ -3,6 +3,8 @@
 - pkg:nuget/CoreBrew.AppStarter@0.0.10-alpha
 - pkg:nuget/CoreBrew.AppStarter@0.0.11
 - pkg:nuget/CoreBrew.AppStarter@0.0.12
+- pkg:nuget/CoreBrew.AppStarter@0.0.13
+- pkg:nuget/CoreBrew.AppStarter@0.0.14
 - pkg:nuget/CoreBrew.AppStarter@0.0.2
 - pkg:nuget/CoreBrew.AppStarter@0.0.3
 - pkg:nuget/CoreBrew.AppStarter@0.0.3-alpha.1

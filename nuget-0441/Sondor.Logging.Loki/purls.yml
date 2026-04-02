@@ -1,3 +1,7 @@
 - pkg:nuget/Sondor.Logging.Loki@1.0.0
+- pkg:nuget/Sondor.Logging.Loki@1.0.0-1-add-exclude-filters.1
 - pkg:nuget/Sondor.Logging.Loki@1.0.1
 - pkg:nuget/Sondor.Logging.Loki@1.0.2
+- pkg:nuget/Sondor.Logging.Loki@1.0.3-1-add-exclude-filters.1
+- pkg:nuget/Sondor.Logging.Loki@1.0.3-1-add-exclude-filters.2
+- pkg:nuget/Sondor.Logging.Loki@1.0.4
