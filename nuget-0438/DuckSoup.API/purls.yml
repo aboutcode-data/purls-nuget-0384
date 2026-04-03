@@ -31,3 +31,4 @@
 - pkg:nuget/DuckSoup.API@2.1.0-ALPHA
 - pkg:nuget/DuckSoup.API@2.1.1-ALPHA
 - pkg:nuget/DuckSoup.API@2.2.0-RELEASE
+- pkg:nuget/DuckSoup.API@2.4.1-RELEASE
