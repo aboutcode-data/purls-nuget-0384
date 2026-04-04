@@ -8,4 +8,5 @@
 - pkg:nuget/Trax.Scheduler@1.24.0
 - pkg:nuget/Trax.Scheduler@1.24.1
 - pkg:nuget/Trax.Scheduler@1.24.2
+- pkg:nuget/Trax.Scheduler@1.26.0
 - pkg:nuget/Trax.Scheduler@1.6.0
