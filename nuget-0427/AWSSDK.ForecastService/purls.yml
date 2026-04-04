@@ -1080,4 +1080,5 @@
 - pkg:nuget/AWSSDK.ForecastService@4.0.1.19
 - pkg:nuget/AWSSDK.ForecastService@4.0.1.20
 - pkg:nuget/AWSSDK.ForecastService@4.0.1.21
+- pkg:nuget/AWSSDK.ForecastService@4.0.1.22
 - pkg:nuget/AWSSDK.ForecastService@4.0.1.9

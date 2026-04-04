@@ -1284,3 +1284,4 @@
 - pkg:nuget/AWSSDK.ElastiCache@4.0.2.19
 - pkg:nuget/AWSSDK.ElastiCache@4.0.2.20
 - pkg:nuget/AWSSDK.ElastiCache@4.0.3
+- pkg:nuget/AWSSDK.ElastiCache@4.0.3.1
