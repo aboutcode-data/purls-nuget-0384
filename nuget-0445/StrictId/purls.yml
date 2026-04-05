@@ -6,3 +6,6 @@
 - pkg:nuget/StrictId@1.0.5
 - pkg:nuget/StrictId@1.1.0
 - pkg:nuget/StrictId@1.2.0
+- pkg:nuget/StrictId@2.0.0
+- pkg:nuget/StrictId@2.0.1
+- pkg:nuget/StrictId@2.0.2
