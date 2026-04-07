@@ -19,3 +19,4 @@
 - pkg:nuget/datatables.net-searchbuilder-dt@1.8.2
 - pkg:nuget/datatables.net-searchbuilder-dt@1.8.3
 - pkg:nuget/datatables.net-searchbuilder-dt@1.8.4
+- pkg:nuget/datatables.net-searchbuilder-dt@2.0.0-beta.1
