@@ -1,4 +1,5 @@
 - pkg:nuget/TunnelForge.WinTun@1.0.0
+- pkg:nuget/TunnelForge.WinTun@10.1.1
 - pkg:nuget/TunnelForge.WinTun@2.1.0
 - pkg:nuget/TunnelForge.WinTun@2.1.1
 - pkg:nuget/TunnelForge.WinTun@2.1.10
