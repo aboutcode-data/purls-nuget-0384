@@ -9,6 +9,7 @@
 - pkg:nuget/TIA.Core.WebApiBase@3.0.10.7
 - pkg:nuget/TIA.Core.WebApiBase@3.0.11.1
 - pkg:nuget/TIA.Core.WebApiBase@3.0.11.3
+- pkg:nuget/TIA.Core.WebApiBase@3.0.11.4
 - pkg:nuget/TIA.Core.WebApiBase@3.0.2
 - pkg:nuget/TIA.Core.WebApiBase@3.0.3
 - pkg:nuget/TIA.Core.WebApiBase@3.0.4
