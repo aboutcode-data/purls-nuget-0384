@@ -11,5 +11,6 @@
 - pkg:nuget/NF.Common.GaoDe@3.0.0-beta9
 - pkg:nuget/NF.Common.GaoDe@3.0.1
 - pkg:nuget/NF.Common.GaoDe@3.0.2
+- pkg:nuget/NF.Common.GaoDe@3.2.0
 - pkg:nuget/NF.Common.GaoDe@3.2.0-beta01
 - pkg:nuget/NF.Common.GaoDe@3.2.0-beta02
