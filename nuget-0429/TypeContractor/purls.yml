@@ -29,6 +29,7 @@
 - pkg:nuget/TypeContractor@0.18.0-pre.1
 - pkg:nuget/TypeContractor@0.18.0-pre.6
 - pkg:nuget/TypeContractor@0.20.0-rc.1
+- pkg:nuget/TypeContractor@0.20.0-rc.2
 - pkg:nuget/TypeContractor@0.6.0
 - pkg:nuget/TypeContractor@0.7.0
 - pkg:nuget/TypeContractor@0.8.0
