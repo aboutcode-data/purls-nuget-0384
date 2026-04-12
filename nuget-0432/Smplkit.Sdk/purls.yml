@@ -14,4 +14,6 @@
 - pkg:nuget/Smplkit.Sdk@2.2.7
 - pkg:nuget/Smplkit.Sdk@2.2.8
 - pkg:nuget/Smplkit.Sdk@2.2.9
+- pkg:nuget/Smplkit.Sdk@3.0.27
+- pkg:nuget/Smplkit.Sdk@3.0.28
 - pkg:nuget/Smplkit.Sdk@3.0.8
