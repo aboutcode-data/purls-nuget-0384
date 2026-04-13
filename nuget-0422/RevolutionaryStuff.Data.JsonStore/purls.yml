@@ -8,6 +8,7 @@
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.11.80
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.111.90
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.12.80
+- pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.146.100
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.15.80
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.16.80
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore@4.17.80
