@@ -1,1 +1,2 @@
 - pkg:nuget/Soenneker.Grafana.OpenApiClient@4.0.5
+- pkg:nuget/Soenneker.Grafana.OpenApiClient@4.0.7
