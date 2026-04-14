@@ -17,3 +17,5 @@
 - pkg:nuget/ModPlus.Revit.Module.2024@31.0.0
 - pkg:nuget/ModPlus.Revit.Module.2024@32.0.0
 - pkg:nuget/ModPlus.Revit.Module.2024@33.0.0
+- pkg:nuget/ModPlus.Revit.Module.2024@36.0.0
+- pkg:nuget/ModPlus.Revit.Module.2024@37.0.0
