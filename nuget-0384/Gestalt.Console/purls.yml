@@ -70,3 +70,4 @@
 - pkg:nuget/Gestalt.Console@2.3.5
 - pkg:nuget/Gestalt.Console@2.4.0
 - pkg:nuget/Gestalt.Console@2.4.1
+- pkg:nuget/Gestalt.Console@2.4.2

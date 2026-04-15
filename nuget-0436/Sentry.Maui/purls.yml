@@ -117,3 +117,4 @@
 - pkg:nuget/Sentry.Maui@5.9.0
 - pkg:nuget/Sentry.Maui@6.2.0-alpha.0
 - pkg:nuget/Sentry.Maui@6.3.0
+- pkg:nuget/Sentry.Maui@6.3.2
