@@ -65,6 +65,7 @@
 - pkg:nuget/Momento.Protos@0.127.1
 - pkg:nuget/Momento.Protos@0.127.2
 - pkg:nuget/Momento.Protos@0.127.3
+- pkg:nuget/Momento.Protos@0.129.0
 - pkg:nuget/Momento.Protos@0.23.1
 - pkg:nuget/Momento.Protos@0.23.2
 - pkg:nuget/Momento.Protos@0.24.0
