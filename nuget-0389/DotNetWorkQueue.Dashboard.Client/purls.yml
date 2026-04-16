@@ -1,5 +1,6 @@
 - pkg:nuget/DotNetWorkQueue.Dashboard.Client@0.9.11
 - pkg:nuget/DotNetWorkQueue.Dashboard.Client@0.9.12
 - pkg:nuget/DotNetWorkQueue.Dashboard.Client@0.9.13
+- pkg:nuget/DotNetWorkQueue.Dashboard.Client@0.9.32
 - pkg:nuget/DotNetWorkQueue.Dashboard.Client@0.9.5
 - pkg:nuget/DotNetWorkQueue.Dashboard.Client@0.9.8
