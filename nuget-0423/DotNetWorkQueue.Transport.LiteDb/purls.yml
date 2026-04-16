@@ -22,4 +22,5 @@
 - pkg:nuget/DotNetWorkQueue.Transport.LiteDb@0.9.11
 - pkg:nuget/DotNetWorkQueue.Transport.LiteDb@0.9.12
 - pkg:nuget/DotNetWorkQueue.Transport.LiteDb@0.9.13
+- pkg:nuget/DotNetWorkQueue.Transport.LiteDb@0.9.32
 - pkg:nuget/DotNetWorkQueue.Transport.LiteDb@0.9.5
