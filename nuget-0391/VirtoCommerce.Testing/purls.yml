@@ -19,6 +19,7 @@
 - pkg:nuget/VirtoCommerce.Testing@3.1001.0
 - pkg:nuget/VirtoCommerce.Testing@3.1007.1
 - pkg:nuget/VirtoCommerce.Testing@3.1007.5
+- pkg:nuget/VirtoCommerce.Testing@3.1007.6
 - pkg:nuget/VirtoCommerce.Testing@3.101.0-alpha.12190
 - pkg:nuget/VirtoCommerce.Testing@3.101.0-alpha.12192
 - pkg:nuget/VirtoCommerce.Testing@3.101.0-alpha.12195
@@ -1433,6 +1434,7 @@
 - pkg:nuget/VirtoCommerce.Testing@3.91.0
 - pkg:nuget/VirtoCommerce.Testing@3.915.0
 - pkg:nuget/VirtoCommerce.Testing@3.917.0
+- pkg:nuget/VirtoCommerce.Testing@3.917.7
 - pkg:nuget/VirtoCommerce.Testing@3.92.0
 - pkg:nuget/VirtoCommerce.Testing@3.92.0-alpha.12162
 - pkg:nuget/VirtoCommerce.Testing@3.93.0
