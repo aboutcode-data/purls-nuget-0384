@@ -3,6 +3,7 @@
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.11.0-pr.4957.secret-provider.82039bbd
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.11.0-pr.5029.secret-provider.ad78d4c7
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.11.0-pr.5106.nets-callback.8668c3ec
+- pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.11.0-pr.5211.nets-callback.1938188d
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.6.0-pr.863.fiks-io-client.b1202b56
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.6.0-pr.905.fiks-io-client.024e623f
 - pkg:nuget/Altinn.App.Clients.Fiks.Experimental@8.6.0-pr.944.fiks-io-client.691f1df9
