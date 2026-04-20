@@ -52,3 +52,4 @@
 - pkg:nuget/SoftBand.EntityManager@3.6.0
 - pkg:nuget/SoftBand.EntityManager@3.7.0
 - pkg:nuget/SoftBand.EntityManager@4.6.0
+- pkg:nuget/SoftBand.EntityManager@4.7.0
