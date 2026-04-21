@@ -44,6 +44,7 @@
 - pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.17.6
 - pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.17.6-alpha01
 - pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.17.7
+- pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.19.2
 - pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.2.1
 - pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.3.0
 - pkg:nuget/dotnetCampus.GitLabCodeFormatBot@3.4.0
