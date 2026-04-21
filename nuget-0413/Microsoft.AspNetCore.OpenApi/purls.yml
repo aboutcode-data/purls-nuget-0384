@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.AspNetCore.OpenApi@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.OpenApi@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.OpenApi@10.0.2
+- pkg:nuget/Microsoft.AspNetCore.OpenApi@10.0.7
 - pkg:nuget/Microsoft.AspNetCore.OpenApi@7.0.0
 - pkg:nuget/Microsoft.AspNetCore.OpenApi@7.0.0-preview.4.22251.1
 - pkg:nuget/Microsoft.AspNetCore.OpenApi@7.0.0-preview.5.22303.8
