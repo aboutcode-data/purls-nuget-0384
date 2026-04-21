@@ -46,3 +46,4 @@
 - pkg:nuget/GoC.EWS.Core@2.1.4
 - pkg:nuget/GoC.EWS.Core@2.2.0
 - pkg:nuget/GoC.EWS.Core@2.3.0
+- pkg:nuget/GoC.EWS.Core@2.4.1
