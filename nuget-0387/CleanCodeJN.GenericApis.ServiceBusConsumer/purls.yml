@@ -13,3 +13,4 @@
 - pkg:nuget/CleanCodeJN.GenericApis.ServiceBusConsumer@2.1.2
 - pkg:nuget/CleanCodeJN.GenericApis.ServiceBusConsumer@2.1.3
 - pkg:nuget/CleanCodeJN.GenericApis.ServiceBusConsumer@2.1.4
+- pkg:nuget/CleanCodeJN.GenericApis.ServiceBusConsumer@3.1.1
