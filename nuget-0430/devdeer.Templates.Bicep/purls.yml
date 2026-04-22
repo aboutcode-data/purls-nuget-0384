@@ -116,6 +116,7 @@
 - pkg:nuget/devdeer.Templates.Bicep@2.2.0
 - pkg:nuget/devdeer.Templates.Bicep@2.2.1
 - pkg:nuget/devdeer.Templates.Bicep@2.2.2
+- pkg:nuget/devdeer.Templates.Bicep@20.0.0
 - pkg:nuget/devdeer.Templates.Bicep@3.0.0-beta
 - pkg:nuget/devdeer.Templates.Bicep@3.0.1-beta
 - pkg:nuget/devdeer.Templates.Bicep@3.0.10-beta
