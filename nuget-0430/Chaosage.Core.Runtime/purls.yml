@@ -6,3 +6,6 @@
 - pkg:nuget/Chaosage.Core.Runtime@2.0.2
 - pkg:nuget/Chaosage.Core.Runtime@3.0.0
 - pkg:nuget/Chaosage.Core.Runtime@4.0.0
+- pkg:nuget/Chaosage.Core.Runtime@4.0.2
+- pkg:nuget/Chaosage.Core.Runtime@4.0.3
+- pkg:nuget/Chaosage.Core.Runtime@4.0.5
