@@ -6,3 +6,4 @@
 - pkg:nuget/Equinor.SubSurfAppManagementMonitoringNuGet@1.0.6
 - pkg:nuget/Equinor.SubSurfAppManagementMonitoringNuGet@1.0.7
 - pkg:nuget/Equinor.SubSurfAppManagementMonitoringNuGet@1.0.8
+- pkg:nuget/Equinor.SubSurfAppManagementMonitoringNuGet@3.0.3-preview
