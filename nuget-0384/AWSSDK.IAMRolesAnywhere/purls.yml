@@ -617,6 +617,7 @@
 - pkg:nuget/AWSSDK.IAMRolesAnywhere@3.7.503.40
 - pkg:nuget/AWSSDK.IAMRolesAnywhere@3.7.503.41
 - pkg:nuget/AWSSDK.IAMRolesAnywhere@3.7.503.42
+- pkg:nuget/AWSSDK.IAMRolesAnywhere@3.7.503.43
 - pkg:nuget/AWSSDK.IAMRolesAnywhere@3.7.503.8
 - pkg:nuget/AWSSDK.IAMRolesAnywhere@3.7.503.9
 - pkg:nuget/AWSSDK.IAMRolesAnywhere@4.0.0
