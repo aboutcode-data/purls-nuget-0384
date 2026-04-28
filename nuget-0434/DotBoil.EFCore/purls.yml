@@ -1,1 +1,2 @@
 - pkg:nuget/DotBoil.EFCore@1.0.1
+- pkg:nuget/DotBoil.EFCore@1.9.4
