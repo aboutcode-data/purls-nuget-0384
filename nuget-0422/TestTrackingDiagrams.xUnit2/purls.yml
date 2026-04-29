@@ -74,4 +74,5 @@
 - pkg:nuget/TestTrackingDiagrams.xUnit2@2.24.1
 - pkg:nuget/TestTrackingDiagrams.xUnit2@2.25.0
 - pkg:nuget/TestTrackingDiagrams.xUnit2@2.27.13
+- pkg:nuget/TestTrackingDiagrams.xUnit2@2.27.19
 - pkg:nuget/TestTrackingDiagrams.xUnit2@2.4.1
