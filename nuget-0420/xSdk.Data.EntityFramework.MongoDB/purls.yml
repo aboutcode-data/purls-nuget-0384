@@ -12,3 +12,4 @@
 - pkg:nuget/xSdk.Data.EntityFramework.MongoDB@1.0.0-next.7
 - pkg:nuget/xSdk.Data.EntityFramework.MongoDB@1.0.0-next.8
 - pkg:nuget/xSdk.Data.EntityFramework.MongoDB@1.0.0-next.9
+- pkg:nuget/xSdk.Data.EntityFramework.MongoDB@2.0.0-next.10
