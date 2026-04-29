@@ -42,6 +42,7 @@
 - pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.45.0
 - pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.46.0
 - pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.5.0
+- pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.57.0
 - pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.6.0
 - pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.7.0
 - pkg:nuget/Quantoz.Nexus.Sdk.Shared@1.7.1
