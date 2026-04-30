@@ -2,3 +2,4 @@
 - pkg:nuget/Kentico.Xperience.ManagementApi@31.3.2-preview
 - pkg:nuget/Kentico.Xperience.ManagementApi@31.4.0-preview
 - pkg:nuget/Kentico.Xperience.ManagementApi@31.4.1-preview
+- pkg:nuget/Kentico.Xperience.ManagementApi@31.4.3-preview
