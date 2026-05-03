@@ -4,6 +4,7 @@
 - pkg:nuget/EFCore.Migrations.AutoComments@10.0.2
 - pkg:nuget/EFCore.Migrations.AutoComments@10.0.3
 - pkg:nuget/EFCore.Migrations.AutoComments@10.0.5
+- pkg:nuget/EFCore.Migrations.AutoComments@10.1.1-preview.1
 - pkg:nuget/EFCore.Migrations.AutoComments@6.0.0
 - pkg:nuget/EFCore.Migrations.AutoComments@6.0.1
 - pkg:nuget/EFCore.Migrations.AutoComments@6.0.2
