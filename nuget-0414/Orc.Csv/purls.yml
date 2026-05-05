@@ -69,3 +69,4 @@
 - pkg:nuget/Orc.Csv@5.0.0-alpha0303
 - pkg:nuget/Orc.Csv@5.0.0-alpha0334
 - pkg:nuget/Orc.Csv@6.0.0-alpha0090
+- pkg:nuget/Orc.Csv@6.0.0-alpha0113
