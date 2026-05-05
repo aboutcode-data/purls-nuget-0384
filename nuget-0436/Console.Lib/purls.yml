@@ -2,3 +2,4 @@
 - pkg:nuget/Console.Lib@1.7.201%2B936d605efb47d6dca2106ae607c0486df45762ae
 - pkg:nuget/Console.Lib@1.8.211%2Bcbfdbf6760f11b092c958e7cdcbeec3d5afe0c34
 - pkg:nuget/Console.Lib@2.4.381%2B2f770a9bcf3d589708ce3b0cbbd839a79f10a27f
+- pkg:nuget/Console.Lib@2.9.451%2B642a263738dc30c9896e63355b56c629d514554e
