@@ -84,6 +84,7 @@
 - pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.213
 - pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.214-beta
 - pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.215
+- pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.217-beta
 - pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.22-beta
 - pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.23
 - pkg:nuget/BccCode.Contributions.Api.Contracts@1.0.0.24-beta
