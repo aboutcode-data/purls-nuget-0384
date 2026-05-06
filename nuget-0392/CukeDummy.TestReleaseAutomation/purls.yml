@@ -20,6 +20,8 @@
 - pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.33-pre
 - pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.34-pre
 - pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.35-pre
+- pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.58-pre
+- pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.59-pre
 - pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.7-pre
 - pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.8-pre
 - pkg:nuget/CukeDummy.TestReleaseAutomation@0.0.9-pre
