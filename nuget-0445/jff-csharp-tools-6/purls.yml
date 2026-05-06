@@ -25,3 +25,5 @@
 - pkg:nuget/jff-csharp-tools-6@6.2.5
 - pkg:nuget/jff-csharp-tools-6@6.3.3
 - pkg:nuget/jff-csharp-tools-6@6.3.6
+- pkg:nuget/jff-csharp-tools-6@9.2.2
+- pkg:nuget/jff-csharp-tools-6@9.2.3
