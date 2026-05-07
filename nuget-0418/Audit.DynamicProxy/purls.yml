@@ -242,6 +242,7 @@
 - pkg:nuget/Audit.DynamicProxy@30.1.3
 - pkg:nuget/Audit.DynamicProxy@31.0.0
 - pkg:nuget/Audit.DynamicProxy@31.0.1
+- pkg:nuget/Audit.DynamicProxy@32.1.0
 - pkg:nuget/Audit.DynamicProxy@4.10.0
 - pkg:nuget/Audit.DynamicProxy@4.11.0
 - pkg:nuget/Audit.DynamicProxy@4.5.0
