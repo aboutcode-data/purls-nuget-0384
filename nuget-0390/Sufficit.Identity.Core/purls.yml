@@ -48,3 +48,5 @@
 - pkg:nuget/Sufficit.Identity.Core@1.25.925.2021
 - pkg:nuget/Sufficit.Identity.Core@1.26.327.2021
 - pkg:nuget/Sufficit.Identity.Core@1.26.505.1456
+- pkg:nuget/Sufficit.Identity.Core@1.26.508.255
+- pkg:nuget/Sufficit.Identity.Core@1.26.508.305
