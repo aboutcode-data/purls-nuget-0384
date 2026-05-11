@@ -1,5 +1,6 @@
 - pkg:nuget/Nextended.Aspire@10.0.0
 - pkg:nuget/Nextended.Aspire@10.0.0-prev-1
+- pkg:nuget/Nextended.Aspire@10.1.4
 - pkg:nuget/Nextended.Aspire@9.0.10
 - pkg:nuget/Nextended.Aspire@9.0.11
 - pkg:nuget/Nextended.Aspire@9.0.12
