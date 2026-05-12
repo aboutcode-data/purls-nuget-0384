@@ -1,4 +1,5 @@
 - pkg:nuget/ThingsGatewayRuntime.Application@2.0.105
 - pkg:nuget/ThingsGatewayRuntime.Application@2.0.121
+- pkg:nuget/ThingsGatewayRuntime.Application@2.0.122
 - pkg:nuget/ThingsGatewayRuntime.Application@2.0.78
 - pkg:nuget/ThingsGatewayRuntime.Application@2.0.79
