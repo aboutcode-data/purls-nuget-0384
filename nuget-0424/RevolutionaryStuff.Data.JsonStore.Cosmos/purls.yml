@@ -7,6 +7,7 @@
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.146.100
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.149.100
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.153.100
+- pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.158.100
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.2.80
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.25.80
 - pkg:nuget/RevolutionaryStuff.Data.JsonStore.Cosmos@4.26.80
