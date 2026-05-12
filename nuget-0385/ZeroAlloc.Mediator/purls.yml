@@ -5,3 +5,4 @@
 - pkg:nuget/ZeroAlloc.Mediator@1.2.1
 - pkg:nuget/ZeroAlloc.Mediator@1.3.0
 - pkg:nuget/ZeroAlloc.Mediator@2.0.0
+- pkg:nuget/ZeroAlloc.Mediator@4.1.3
