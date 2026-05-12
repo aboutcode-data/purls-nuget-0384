@@ -87,6 +87,7 @@
 - pkg:nuget/DotNet.Basics.Cli@12.11.1
 - pkg:nuget/DotNet.Basics.Cli@12.11.14
 - pkg:nuget/DotNet.Basics.Cli@12.13.3
+- pkg:nuget/DotNet.Basics.Cli@12.15.1
 - pkg:nuget/DotNet.Basics.Cli@2.1.0-beta.1%2B0988151
 - pkg:nuget/DotNet.Basics.Cli@2.1.0-beta.2%2B438b10b
 - pkg:nuget/DotNet.Basics.Cli@2.1.0-beta.3%2B3fd1d56
