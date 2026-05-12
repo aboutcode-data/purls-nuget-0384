@@ -24,8 +24,10 @@
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@10.0.2
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@10.0.6
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@10.0.7
+- pkg:nuget/Microsoft.AspNetCore.DataProtection@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.AspNetCore.DataProtection@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@2.0.0
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@2.0.0-preview1-final
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@2.0.0-preview2-final
@@ -42,6 +44,7 @@
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@2.2.0-preview2-35157
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@2.3.0
+- pkg:nuget/Microsoft.AspNetCore.DataProtection@2.3.10
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@3.0.0-preview7.19365.7
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@3.0.0-preview8.19405.7
@@ -226,6 +229,7 @@
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.0-rc.1.24452.1
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.0-rc.2.24474.3
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.1
+- pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.16
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.DataProtection@9.0.4

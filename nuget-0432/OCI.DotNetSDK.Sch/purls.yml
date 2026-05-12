@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Sch@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Sch@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Sch@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Sch@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Sch@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Sch@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Sch@14.2.0

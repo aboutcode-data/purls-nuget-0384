@@ -1,3 +1,4 @@
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.Software.Updater.Nightly@110.26.5.132-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Software.Updater.Nightly@60.22.1.14-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Software.Updater.Nightly@60.22.1.15-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Software.Updater.Nightly@60.22.1.16-alpha

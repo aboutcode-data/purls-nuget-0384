@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@10.0.1
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@10.0.7
+- pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@2.2.0
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@3.0.0
@@ -202,6 +203,7 @@
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.1
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.10
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.12
+- pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.16
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.2
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.3
 - pkg:nuget/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore@9.0.4

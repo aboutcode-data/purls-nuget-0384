@@ -192,3 +192,4 @@
 - pkg:nuget/IntelliTect.Coalesce.AuditLogging@6.0.1
 - pkg:nuget/IntelliTect.Coalesce.AuditLogging@6.0.3
 - pkg:nuget/IntelliTect.Coalesce.AuditLogging@6.1.1
+- pkg:nuget/IntelliTect.Coalesce.AuditLogging@6.5.1

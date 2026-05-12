@@ -128,3 +128,4 @@
 - pkg:nuget/DotNext@5.8.0
 - pkg:nuget/DotNext@6.0.0
 - pkg:nuget/DotNext@6.1.0
+- pkg:nuget/DotNext@6.2.1
