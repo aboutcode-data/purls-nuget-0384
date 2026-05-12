@@ -51,6 +51,7 @@
 - pkg:nuget/Backdash@0.6.22-preview
 - pkg:nuget/Backdash@0.6.27-preview
 - pkg:nuget/Backdash@0.6.3-preview
+- pkg:nuget/Backdash@0.6.34-preview
 - pkg:nuget/Backdash@0.6.4-preview
 - pkg:nuget/Backdash@0.6.5-preview
 - pkg:nuget/Backdash@0.6.6-preview
