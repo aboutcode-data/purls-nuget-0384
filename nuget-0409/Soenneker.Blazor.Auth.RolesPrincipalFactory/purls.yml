@@ -165,3 +165,5 @@
 - pkg:nuget/Soenneker.Blazor.Auth.RolesPrincipalFactory@4.0.296
 - pkg:nuget/Soenneker.Blazor.Auth.RolesPrincipalFactory@4.0.297
 - pkg:nuget/Soenneker.Blazor.Auth.RolesPrincipalFactory@4.0.311
+- pkg:nuget/Soenneker.Blazor.Auth.RolesPrincipalFactory@4.0.313
+- pkg:nuget/Soenneker.Blazor.Auth.RolesPrincipalFactory@4.0.314
