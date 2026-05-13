@@ -114,5 +114,6 @@
 - pkg:nuget/Swifthub.Infrastructure@1.4.7
 - pkg:nuget/Swifthub.Infrastructure@1.4.8
 - pkg:nuget/Swifthub.Infrastructure@1.4.9
+- pkg:nuget/Swifthub.Infrastructure@1.5.13
 - pkg:nuget/Swifthub.Infrastructure@1.5.6
 - pkg:nuget/Swifthub.Infrastructure@1.5.8
