@@ -1153,6 +1153,7 @@
 - pkg:nuget/AWSSDK.Translate@3.7.501.54
 - pkg:nuget/AWSSDK.Translate@3.7.501.55
 - pkg:nuget/AWSSDK.Translate@3.7.501.56
+- pkg:nuget/AWSSDK.Translate@3.7.501.58
 - pkg:nuget/AWSSDK.Translate@3.7.501.9
 - pkg:nuget/AWSSDK.Translate@3.7.6
 - pkg:nuget/AWSSDK.Translate@3.7.6.1

@@ -877,6 +877,7 @@
 - pkg:nuget/AWSSDK.IdentityStore@3.7.505.30
 - pkg:nuget/AWSSDK.IdentityStore@3.7.505.31
 - pkg:nuget/AWSSDK.IdentityStore@3.7.505.32
+- pkg:nuget/AWSSDK.IdentityStore@3.7.505.34
 - pkg:nuget/AWSSDK.IdentityStore@4.0.0
 - pkg:nuget/AWSSDK.IdentityStore@4.0.0-preview
 - pkg:nuget/AWSSDK.IdentityStore@4.0.0-preview.10

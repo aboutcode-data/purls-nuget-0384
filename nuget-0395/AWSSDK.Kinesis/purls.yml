@@ -1221,6 +1221,7 @@
 - pkg:nuget/AWSSDK.Kinesis@3.7.506.16
 - pkg:nuget/AWSSDK.Kinesis@3.7.506.17
 - pkg:nuget/AWSSDK.Kinesis@3.7.506.18
+- pkg:nuget/AWSSDK.Kinesis@3.7.506.20
 - pkg:nuget/AWSSDK.Kinesis@3.7.506.5
 - pkg:nuget/AWSSDK.Kinesis@3.7.506.6
 - pkg:nuget/AWSSDK.Kinesis@4.0.0
