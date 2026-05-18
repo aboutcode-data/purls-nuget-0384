@@ -10,6 +10,10 @@
 - pkg:nuget/V5iD.PublicSdk@1.1.1-beta.90
 - pkg:nuget/V5iD.PublicSdk@1.1.1-beta.91
 - pkg:nuget/V5iD.PublicSdk@1.1.1-beta.92
+- pkg:nuget/V5iD.PublicSdk@1.1.1-beta.93
+- pkg:nuget/V5iD.PublicSdk@1.1.1-beta.94
+- pkg:nuget/V5iD.PublicSdk@1.1.1-beta.95
 - pkg:nuget/V5iD.PublicSdk@1.2.1.10
 - pkg:nuget/V5iD.PublicSdk@1.2.1.13
 - pkg:nuget/V5iD.PublicSdk@1.2.1.15
+- pkg:nuget/V5iD.PublicSdk@1.2.1.23
