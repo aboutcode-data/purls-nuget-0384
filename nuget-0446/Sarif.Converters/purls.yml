@@ -115,3 +115,4 @@
 - pkg:nuget/Sarif.Converters@4.5.3
 - pkg:nuget/Sarif.Converters@4.5.4
 - pkg:nuget/Sarif.Converters@4.6.3
+- pkg:nuget/Sarif.Converters@4.6.5
