@@ -29,3 +29,5 @@
 - pkg:nuget/EFCore.Migrations.AutoComments@9.0.3
 - pkg:nuget/EFCore.Migrations.AutoComments@9.0.4
 - pkg:nuget/EFCore.Migrations.AutoComments@9.0.5
+- pkg:nuget/EFCore.Migrations.AutoComments@9.1.1-preview.2
+- pkg:nuget/EFCore.Migrations.AutoComments@9.1.1-preview.3
