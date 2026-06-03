@@ -10,6 +10,16 @@
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.133.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.141.1
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.144.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.150.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.151.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.154.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.157.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.159.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.160.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.164.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.165.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.166.0-alpha-213
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.168.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.17.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.24.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Abstractions@1.27.0
