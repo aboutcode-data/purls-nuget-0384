@@ -369,3 +369,4 @@
 - pkg:nuget/SyncSoft.ECP@4.5.1
 - pkg:nuget/SyncSoft.ECP@4.6.0
 - pkg:nuget/SyncSoft.ECP@4.6.0-alpha3
+- pkg:nuget/SyncSoft.ECP@5.0.0-alpha3
