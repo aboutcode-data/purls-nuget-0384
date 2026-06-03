@@ -31,3 +31,4 @@
 - pkg:nuget/KAL.XFS4IoT.SP-Dev.Framework.Server@3.0.0
 - pkg:nuget/KAL.XFS4IoT.SP-Dev.Framework.Server@3.1.0
 - pkg:nuget/KAL.XFS4IoT.SP-Dev.Framework.Server@3.2.0
+- pkg:nuget/KAL.XFS4IoT.SP-Dev.Framework.Server@3.3.5
