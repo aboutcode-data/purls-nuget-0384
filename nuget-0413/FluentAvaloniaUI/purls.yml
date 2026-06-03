@@ -53,3 +53,4 @@
 - pkg:nuget/FluentAvaloniaUI@2.3.0
 - pkg:nuget/FluentAvaloniaUI@2.4.0
 - pkg:nuget/FluentAvaloniaUI@2.4.0-preview1
+- pkg:nuget/FluentAvaloniaUI@3.0.0-preview4
