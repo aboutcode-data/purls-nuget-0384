@@ -7,6 +7,7 @@
 - pkg:nuget/Eryph.ComputeClient@0.12.0
 - pkg:nuget/Eryph.ComputeClient@0.12.0-beta.1
 - pkg:nuget/Eryph.ComputeClient@0.13.0
+- pkg:nuget/Eryph.ComputeClient@0.15.0-beta.20
 - pkg:nuget/Eryph.ComputeClient@0.2.0
 - pkg:nuget/Eryph.ComputeClient@0.2.1-ci.11
 - pkg:nuget/Eryph.ComputeClient@0.2.1-ci.12
