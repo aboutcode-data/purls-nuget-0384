@@ -93,3 +93,4 @@
 - pkg:nuget/CsTools@7.9.0
 - pkg:nuget/CsTools@7.9.1
 - pkg:nuget/CsTools@7.9.2
+- pkg:nuget/CsTools@9.0.3
