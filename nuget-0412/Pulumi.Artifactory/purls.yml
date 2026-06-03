@@ -468,6 +468,9 @@
 - pkg:nuget/Pulumi.Artifactory@8.11.0-alpha.1777960852
 - pkg:nuget/Pulumi.Artifactory@8.11.0-alpha.1778566294
 - pkg:nuget/Pulumi.Artifactory@8.11.0-alpha.1778652977
+- pkg:nuget/Pulumi.Artifactory@8.11.0-alpha.1779345114
+- pkg:nuget/Pulumi.Artifactory@8.11.0-alpha.1779431492
+- pkg:nuget/Pulumi.Artifactory@8.11.1
 - pkg:nuget/Pulumi.Artifactory@8.2.0
 - pkg:nuget/Pulumi.Artifactory@8.2.0-alpha.1727845956
 - pkg:nuget/Pulumi.Artifactory@8.2.0-alpha.1727871354
