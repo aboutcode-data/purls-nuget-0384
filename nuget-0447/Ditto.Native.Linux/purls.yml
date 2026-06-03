@@ -76,6 +76,8 @@
 - pkg:nuget/Ditto.Native.Linux@5.0.0-dev-weekly.20260209.206
 - pkg:nuget/Ditto.Native.Linux@5.0.0-experimental-kmp-publishing.3
 - pkg:nuget/Ditto.Native.Linux@5.0.0-experimental-sdk-publish.1
+- pkg:nuget/Ditto.Native.Linux@5.0.1
+- pkg:nuget/Ditto.Native.Linux@5.0.1-rc.1
 - pkg:nuget/Ditto.Native.Linux@5.1.0-dev-weekly.20260322.242
 - pkg:nuget/Ditto.Native.Linux@5.1.0-dev-weekly.20260329.258
 - pkg:nuget/Ditto.Native.Linux@5.1.0-experimental-gha-workflow.8
