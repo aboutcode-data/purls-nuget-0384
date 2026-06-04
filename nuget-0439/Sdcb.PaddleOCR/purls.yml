@@ -45,3 +45,4 @@
 - pkg:nuget/Sdcb.PaddleOCR@2.7.0.3
 - pkg:nuget/Sdcb.PaddleOCR@3.0.0
 - pkg:nuget/Sdcb.PaddleOCR@3.0.1
+- pkg:nuget/Sdcb.PaddleOCR@3.3.1
