@@ -1,5 +1,7 @@
 - pkg:nuget/Aspire.Hosting.Azure.Functions@13.2.1
 - pkg:nuget/Aspire.Hosting.Azure.Functions@13.3.1
+- pkg:nuget/Aspire.Hosting.Azure.Functions@13.4.0
+- pkg:nuget/Aspire.Hosting.Azure.Functions@13.4.1
 - pkg:nuget/Aspire.Hosting.Azure.Functions@9.0.0-preview.4.24511.1
 - pkg:nuget/Aspire.Hosting.Azure.Functions@9.0.0-preview.5.24551.3
 - pkg:nuget/Aspire.Hosting.Azure.Functions@9.1.0-preview.1.25121.10
