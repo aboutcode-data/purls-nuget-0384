@@ -500,6 +500,7 @@
 - pkg:nuget/BIM.works_SDK@2.0.0-b.405
 - pkg:nuget/BIM.works_SDK@2.0.0-b.406
 - pkg:nuget/BIM.works_SDK@2.0.0-b.407
+- pkg:nuget/BIM.works_SDK@2.0.0-b.413
 - pkg:nuget/BIM.works_SDK@2.0.0-b.59
 - pkg:nuget/BIM.works_SDK@2.0.0-b.65
 - pkg:nuget/BIM.works_SDK@2.0.0-b.77
