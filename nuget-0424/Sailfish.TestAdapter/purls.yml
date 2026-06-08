@@ -236,6 +236,7 @@
 - pkg:nuget/Sailfish.TestAdapter@4.0.178
 - pkg:nuget/Sailfish.TestAdapter@4.0.180
 - pkg:nuget/Sailfish.TestAdapter@4.0.182
+- pkg:nuget/Sailfish.TestAdapter@4.0.192
 - pkg:nuget/Sailfish.TestAdapter@4.0.25
 - pkg:nuget/Sailfish.TestAdapter@4.0.97
 - pkg:nuget/Sailfish.TestAdapter@4.0.99
