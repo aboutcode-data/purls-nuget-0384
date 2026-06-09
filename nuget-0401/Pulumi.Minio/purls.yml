@@ -425,3 +425,4 @@
 - pkg:nuget/Pulumi.Minio@1.0.0-alpha.1779952650
 - pkg:nuget/Pulumi.Minio@1.0.0-alpha.1780471446
 - pkg:nuget/Pulumi.Minio@1.0.0-alpha.1780903326
+- pkg:nuget/Pulumi.Minio@1.0.0-alpha.1780989307
