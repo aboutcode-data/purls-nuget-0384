@@ -60,3 +60,4 @@
 - pkg:nuget/SentenceTransformers.MiniLM@25.9.61007
 - pkg:nuget/SentenceTransformers.MiniLM@25.9.61015
 - pkg:nuget/SentenceTransformers.MiniLM@26.6.1548
+- pkg:nuget/SentenceTransformers.MiniLM@26.6.1688
