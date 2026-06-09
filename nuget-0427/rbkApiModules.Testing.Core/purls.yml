@@ -1,6 +1,7 @@
 - pkg:nuget/rbkApiModules.Testing.Core@10.0.12
 - pkg:nuget/rbkApiModules.Testing.Core@10.0.14
 - pkg:nuget/rbkApiModules.Testing.Core@10.0.15
+- pkg:nuget/rbkApiModules.Testing.Core@10.3.0
 - pkg:nuget/rbkApiModules.Testing.Core@7.0.0
 - pkg:nuget/rbkApiModules.Testing.Core@7.0.0-beta.1
 - pkg:nuget/rbkApiModules.Testing.Core@7.0.0-beta.10
