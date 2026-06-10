@@ -41,6 +41,7 @@
 - pkg:nuget/Intent.Modules.AzureFunctions@5.0.14
 - pkg:nuget/Intent.Modules.AzureFunctions@5.0.15
 - pkg:nuget/Intent.Modules.AzureFunctions@5.0.2
+- pkg:nuget/Intent.Modules.AzureFunctions@5.0.24
 - pkg:nuget/Intent.Modules.AzureFunctions@5.0.3
 - pkg:nuget/Intent.Modules.AzureFunctions@5.0.4
 - pkg:nuget/Intent.Modules.AzureFunctions@5.0.5
