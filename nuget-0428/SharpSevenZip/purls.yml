@@ -14,4 +14,5 @@
 - pkg:nuget/SharpSevenZip@2.0.30
 - pkg:nuget/SharpSevenZip@2.0.32
 - pkg:nuget/SharpSevenZip@2.0.6
+- pkg:nuget/SharpSevenZip@2.0.75
 - pkg:nuget/SharpSevenZip@2.0.9
