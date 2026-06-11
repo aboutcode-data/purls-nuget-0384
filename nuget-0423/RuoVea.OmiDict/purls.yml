@@ -1,3 +1,4 @@
+- pkg:nuget/RuoVea.OmiDict@10.0.0.2
 - pkg:nuget/RuoVea.OmiDict@6.0.0
 - pkg:nuget/RuoVea.OmiDict@6.0.0.1
 - pkg:nuget/RuoVea.OmiDict@6.0.0.2
@@ -35,6 +36,7 @@
 - pkg:nuget/RuoVea.OmiDict@6.0.3.7
 - pkg:nuget/RuoVea.OmiDict@6.0.3.8
 - pkg:nuget/RuoVea.OmiDict@6.0.3.9
+- pkg:nuget/RuoVea.OmiDict@6.0.4.14
 - pkg:nuget/RuoVea.OmiDict@6.0.4.6
 - pkg:nuget/RuoVea.OmiDict@7.0.0
 - pkg:nuget/RuoVea.OmiDict@7.0.0.1
@@ -46,6 +48,7 @@
 - pkg:nuget/RuoVea.OmiDict@7.0.0.7
 - pkg:nuget/RuoVea.OmiDict@7.0.0.8
 - pkg:nuget/RuoVea.OmiDict@7.0.0.9
+- pkg:nuget/RuoVea.OmiDict@7.0.1.14
 - pkg:nuget/RuoVea.OmiDict@7.0.1.6
 - pkg:nuget/RuoVea.OmiDict@7.0.3
 - pkg:nuget/RuoVea.OmiDict@7.0.3.1
@@ -77,4 +80,6 @@
 - pkg:nuget/RuoVea.OmiDict@8.0.3.7
 - pkg:nuget/RuoVea.OmiDict@8.0.3.8
 - pkg:nuget/RuoVea.OmiDict@8.0.3.9
+- pkg:nuget/RuoVea.OmiDict@8.0.4.14
 - pkg:nuget/RuoVea.OmiDict@8.0.4.6
+- pkg:nuget/RuoVea.OmiDict@9.0.0.2
