@@ -1,5 +1,6 @@
 - pkg:nuget/Microsoft.AspNetCore.Testing@0.0.1-alpha
 - pkg:nuget/Microsoft.AspNetCore.Testing@10.6.0
+- pkg:nuget/Microsoft.AspNetCore.Testing@10.7.0
 - pkg:nuget/Microsoft.AspNetCore.Testing@8.0.0
 - pkg:nuget/Microsoft.AspNetCore.Testing@8.0.0-preview.7.23407.5
 - pkg:nuget/Microsoft.AspNetCore.Testing@8.0.0-rc.1.23453.1
