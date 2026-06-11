@@ -878,3 +878,4 @@
 - pkg:nuget/AWSSDK.MWAA@4.0.3.21
 - pkg:nuget/AWSSDK.MWAA@4.0.3.22
 - pkg:nuget/AWSSDK.MWAA@4.0.3.23
+- pkg:nuget/AWSSDK.MWAA@4.0.5.4
