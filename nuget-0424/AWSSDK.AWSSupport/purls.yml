@@ -1254,6 +1254,7 @@
 - pkg:nuget/AWSSDK.AWSSupport@4.0.0.51
 - pkg:nuget/AWSSDK.AWSSupport@4.0.0.52
 - pkg:nuget/AWSSDK.AWSSupport@4.0.0.6
+- pkg:nuget/AWSSDK.AWSSupport@4.0.0.67
 - pkg:nuget/AWSSDK.AWSSupport@4.0.0.7
 - pkg:nuget/AWSSDK.AWSSupport@4.0.0.8
 - pkg:nuget/AWSSDK.AWSSupport@4.0.0.9
