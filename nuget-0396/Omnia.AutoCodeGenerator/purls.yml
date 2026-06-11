@@ -1,4 +1,5 @@
 - pkg:nuget/Omnia.AutoCodeGenerator@1.0.0
 - pkg:nuget/Omnia.AutoCodeGenerator@1.0.1
+- pkg:nuget/Omnia.AutoCodeGenerator@10.0.3
 - pkg:nuget/Omnia.AutoCodeGenerator@9.0.0
 - pkg:nuget/Omnia.AutoCodeGenerator@9.0.6
