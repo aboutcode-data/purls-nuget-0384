@@ -1,4 +1,5 @@
 - pkg:nuget/DotNetExtras.Mail@1.0.0
 - pkg:nuget/DotNetExtras.Mail@1.0.1
+- pkg:nuget/DotNetExtras.Mail@1.0.10
 - pkg:nuget/DotNetExtras.Mail@1.0.2
 - pkg:nuget/DotNetExtras.Mail@1.0.7
