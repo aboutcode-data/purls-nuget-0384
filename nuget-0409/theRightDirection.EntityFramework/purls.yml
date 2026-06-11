@@ -1,3 +1,4 @@
+- pkg:nuget/theRightDirection.EntityFramework@10.1.0
 - pkg:nuget/theRightDirection.EntityFramework@8.0.0
 - pkg:nuget/theRightDirection.EntityFramework@8.0.0.1
 - pkg:nuget/theRightDirection.EntityFramework@8.0.2
