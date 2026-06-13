@@ -141,3 +141,5 @@
 - pkg:nuget/PropertyMaster.Dto@4.0.88
 - pkg:nuget/PropertyMaster.Dto@4.0.89-beta
 - pkg:nuget/PropertyMaster.Dto@4.0.92
+- pkg:nuget/PropertyMaster.Dto@4.0.93
+- pkg:nuget/PropertyMaster.Dto@4.0.93-beta
