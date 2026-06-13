@@ -70,6 +70,7 @@
 - pkg:nuget/StreamJsonRpc@2.22.11
 - pkg:nuget/StreamJsonRpc@2.22.3-alpha
 - pkg:nuget/StreamJsonRpc@2.23.32-alpha
+- pkg:nuget/StreamJsonRpc@2.25.28%2BRR
 - pkg:nuget/StreamJsonRpc@2.3.103
 - pkg:nuget/StreamJsonRpc@2.3.112
 - pkg:nuget/StreamJsonRpc@2.3.22-alpha
