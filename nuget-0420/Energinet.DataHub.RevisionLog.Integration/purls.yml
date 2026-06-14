@@ -34,3 +34,4 @@
 - pkg:nuget/Energinet.DataHub.RevisionLog.Integration@1.2.0-alpha-121
 - pkg:nuget/Energinet.DataHub.RevisionLog.Integration@1.2.0-alpha-122
 - pkg:nuget/Energinet.DataHub.RevisionLog.Integration@1.2.1
+- pkg:nuget/Energinet.DataHub.RevisionLog.Integration@1.3.0-alpha-150
