@@ -27,3 +27,4 @@
 - pkg:nuget/Signals.Core.Background@2.0.2
 - pkg:nuget/Signals.Core.Background@2.0.3
 - pkg:nuget/Signals.Core.Background@3.0.0
+- pkg:nuget/Signals.Core.Background@4.0.0
