@@ -1,3 +1,8 @@
 - pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.4.10-preview.1
 - pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.4.13-preview.1
 - pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.6.4-preview.1
+- pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.8.1-preview.1
+- pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.8.2-preview.1
+- pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.8.3-preview.1
+- pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.8.5-preview.1
+- pkg:nuget/ANcpLua.Agents.Hosting.DevUI@1.8.8-preview.1
