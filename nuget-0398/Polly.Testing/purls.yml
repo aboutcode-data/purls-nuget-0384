@@ -21,3 +21,4 @@
 - pkg:nuget/Polly.Testing@8.6.2
 - pkg:nuget/Polly.Testing@8.6.3
 - pkg:nuget/Polly.Testing@8.6.4
+- pkg:nuget/Polly.Testing@8.7.0
