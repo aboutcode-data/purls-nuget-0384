@@ -1,5 +1,7 @@
 - pkg:nuget/dotnet-inspect@0.1.2
 - pkg:nuget/dotnet-inspect@0.1.9
+- pkg:nuget/dotnet-inspect@0.10.1
+- pkg:nuget/dotnet-inspect@0.10.6
 - pkg:nuget/dotnet-inspect@0.6.3
 - pkg:nuget/dotnet-inspect@0.6.5
 - pkg:nuget/dotnet-inspect@0.6.9
