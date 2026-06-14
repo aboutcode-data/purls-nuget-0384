@@ -1,1 +1,4 @@
 - pkg:nuget/Orleans.Lattice.Replication@3.4.0
+- pkg:nuget/Orleans.Lattice.Replication@6.0.0
+- pkg:nuget/Orleans.Lattice.Replication@6.0.1
+- pkg:nuget/Orleans.Lattice.Replication@6.2.0
