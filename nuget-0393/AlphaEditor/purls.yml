@@ -12,6 +12,10 @@
 - pkg:nuget/AlphaEditor@1.10.0
 - pkg:nuget/AlphaEditor@1.10.1
 - pkg:nuget/AlphaEditor@1.11.10
+- pkg:nuget/AlphaEditor@1.11.14
+- pkg:nuget/AlphaEditor@1.12.0
+- pkg:nuget/AlphaEditor@1.13.0
+- pkg:nuget/AlphaEditor@1.14.0
 - pkg:nuget/AlphaEditor@1.2.0
 - pkg:nuget/AlphaEditor@1.2.1
 - pkg:nuget/AlphaEditor@1.2.2
