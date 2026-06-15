@@ -44,4 +44,5 @@
 - pkg:nuget/Bee.Business@3.4.5
 - pkg:nuget/Bee.Business@3.4.8
 - pkg:nuget/Bee.Business@4.0.1
+- pkg:nuget/Bee.Business@4.10.0
 - pkg:nuget/Bee.Business@4.7.0
