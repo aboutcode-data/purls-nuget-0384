@@ -166,6 +166,7 @@
 - pkg:nuget/Ecng.Security@1.0.30
 - pkg:nuget/Ecng.Security@1.0.303
 - pkg:nuget/Ecng.Security@1.0.31
+- pkg:nuget/Ecng.Security@1.0.311
 - pkg:nuget/Ecng.Security@1.0.32
 - pkg:nuget/Ecng.Security@1.0.33
 - pkg:nuget/Ecng.Security@1.0.34
