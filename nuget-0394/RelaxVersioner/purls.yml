@@ -44,6 +44,7 @@
 - pkg:nuget/RelaxVersioner@3.2.50
 - pkg:nuget/RelaxVersioner@3.2.60
 - pkg:nuget/RelaxVersioner@3.20.0
+- pkg:nuget/RelaxVersioner@3.23.0
 - pkg:nuget/RelaxVersioner@3.3.0
 - pkg:nuget/RelaxVersioner@3.4.0
 - pkg:nuget/RelaxVersioner@3.5.0
