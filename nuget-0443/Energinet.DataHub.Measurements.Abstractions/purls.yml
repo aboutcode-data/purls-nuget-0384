@@ -20,6 +20,7 @@
 - pkg:nuget/Energinet.DataHub.Measurements.Abstractions@11.0.1
 - pkg:nuget/Energinet.DataHub.Measurements.Abstractions@11.1.0
 - pkg:nuget/Energinet.DataHub.Measurements.Abstractions@11.1.1
+- pkg:nuget/Energinet.DataHub.Measurements.Abstractions@11.4.0
 - pkg:nuget/Energinet.DataHub.Measurements.Abstractions@2.0.1
 - pkg:nuget/Energinet.DataHub.Measurements.Abstractions@2.1.0
 - pkg:nuget/Energinet.DataHub.Measurements.Abstractions@2.2.0
