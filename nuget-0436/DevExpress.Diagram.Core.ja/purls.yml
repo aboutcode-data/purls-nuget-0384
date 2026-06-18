@@ -4,3 +4,5 @@
 - pkg:nuget/DevExpress.Diagram.Core.ja@25.2.5
 - pkg:nuget/DevExpress.Diagram.Core.ja@25.2.7
 - pkg:nuget/DevExpress.Diagram.Core.ja@25.2.8
+- pkg:nuget/DevExpress.Diagram.Core.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Diagram.Core.ja@26.1.3
