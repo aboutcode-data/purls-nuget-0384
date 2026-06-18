@@ -2,3 +2,5 @@
 - pkg:nuget/DevExpress.Win.Reporting.es@25.1.12
 - pkg:nuget/DevExpress.Win.Reporting.es@25.1.8
 - pkg:nuget/DevExpress.Win.Reporting.es@25.2.7
+- pkg:nuget/DevExpress.Win.Reporting.es@26.1.2-beta
+- pkg:nuget/DevExpress.Win.Reporting.es@26.1.3
