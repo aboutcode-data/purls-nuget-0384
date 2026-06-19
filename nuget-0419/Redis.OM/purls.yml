@@ -37,3 +37,4 @@
 - pkg:nuget/Redis.OM@0.8.0
 - pkg:nuget/Redis.OM@1.0.0
 - pkg:nuget/Redis.OM@1.0.1
+- pkg:nuget/Redis.OM@1.3.0
