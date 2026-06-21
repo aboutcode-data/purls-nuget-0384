@@ -23,3 +23,5 @@
 - pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@3.2.1-alpha-610
 - pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@3.2.6
 - pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@3.2.6-alpha-15457
+- pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@3.2.7
+- pkg:nuget/Energinet.DataHub.ProcessManager.SendMeasurements.Abstractions@3.2.7-alpha-15608
