@@ -25,7 +25,9 @@
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.10.0-alpha.259
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.10.0-alpha.260
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.10.0-alpha.261
+- pkg:nuget/VirtoCommerce.InventoryModule.Data@3.1000.2
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.1001.0
+- pkg:nuget/VirtoCommerce.InventoryModule.Data@3.1004.0
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.11.0-alpha.262
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.11.0-alpha.265
@@ -216,6 +218,7 @@
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.812.0-alpha.486-vcst-3984-multi-product-search
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.812.0-alpha.487-vcst-3984-multi-product-search
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.813.0-alpha.494-vcst-2585-generic-crud
+- pkg:nuget/VirtoCommerce.InventoryModule.Data@3.815.3
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.9.0
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.9.0-alpha.257
 - pkg:nuget/VirtoCommerce.InventoryModule.Data@3.9.0-alpha.258
