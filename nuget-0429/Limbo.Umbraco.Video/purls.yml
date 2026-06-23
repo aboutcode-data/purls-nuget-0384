@@ -2,6 +2,7 @@
 - pkg:nuget/Limbo.Umbraco.Video@1.0.0-beta001
 - pkg:nuget/Limbo.Umbraco.Video@1.0.0-beta002
 - pkg:nuget/Limbo.Umbraco.Video@13.0.0
+- pkg:nuget/Limbo.Umbraco.Video@17.0.0-alpha001
 - pkg:nuget/Limbo.Umbraco.Video@2.0.0
 - pkg:nuget/Limbo.Umbraco.Video@2.0.1
 - pkg:nuget/Limbo.Umbraco.Video@2.0.2

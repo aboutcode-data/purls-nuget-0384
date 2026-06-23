@@ -7,3 +7,4 @@
 - pkg:nuget/Sstv.DomainExceptions.Extensions.DependencyInjection@2.4.0
 - pkg:nuget/Sstv.DomainExceptions.Extensions.DependencyInjection@3.0.0
 - pkg:nuget/Sstv.DomainExceptions.Extensions.DependencyInjection@3.1.0
+- pkg:nuget/Sstv.DomainExceptions.Extensions.DependencyInjection@4.3.0
