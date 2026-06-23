@@ -1247,3 +1247,4 @@
 - pkg:nuget/AWSSDK.Polly@4.0.6.3
 - pkg:nuget/AWSSDK.Polly@4.0.6.4
 - pkg:nuget/AWSSDK.Polly@4.0.7.3
+- pkg:nuget/AWSSDK.Polly@4.0.7.8
