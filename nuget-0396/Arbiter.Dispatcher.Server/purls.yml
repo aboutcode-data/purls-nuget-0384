@@ -1,1 +1,2 @@
 - pkg:nuget/Arbiter.Dispatcher.Server@5.3.2
+- pkg:nuget/Arbiter.Dispatcher.Server@6.7.0
