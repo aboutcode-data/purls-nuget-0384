@@ -21,3 +21,4 @@
 - pkg:nuget/MtconnectTranspiler.CodeGenerators.ScribanTemplates@2.5.0
 - pkg:nuget/MtconnectTranspiler.CodeGenerators.ScribanTemplates@2.5.0-review
 - pkg:nuget/MtconnectTranspiler.CodeGenerators.ScribanTemplates@2.5.0.1
+- pkg:nuget/MtconnectTranspiler.CodeGenerators.ScribanTemplates@2.7.0
