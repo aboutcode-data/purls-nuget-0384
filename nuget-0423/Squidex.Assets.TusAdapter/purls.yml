@@ -139,3 +139,4 @@
 - pkg:nuget/Squidex.Assets.TusAdapter@7.8.0
 - pkg:nuget/Squidex.Assets.TusAdapter@7.9.0
 - pkg:nuget/Squidex.Assets.TusAdapter@8.0.1
+- pkg:nuget/Squidex.Assets.TusAdapter@8.0.2
