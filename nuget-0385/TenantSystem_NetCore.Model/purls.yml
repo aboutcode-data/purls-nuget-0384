@@ -3,6 +3,7 @@
 - pkg:nuget/TenantSystem_NetCore.Model@1.0.10
 - pkg:nuget/TenantSystem_NetCore.Model@1.0.11
 - pkg:nuget/TenantSystem_NetCore.Model@1.0.117
+- pkg:nuget/TenantSystem_NetCore.Model@1.0.119
 - pkg:nuget/TenantSystem_NetCore.Model@1.0.12
 - pkg:nuget/TenantSystem_NetCore.Model@1.0.13
 - pkg:nuget/TenantSystem_NetCore.Model@1.0.14
