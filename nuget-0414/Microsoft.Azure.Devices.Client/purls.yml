@@ -129,6 +129,7 @@
 - pkg:nuget/Microsoft.Azure.Devices.Client@1.42.1
 - pkg:nuget/Microsoft.Azure.Devices.Client@1.42.2
 - pkg:nuget/Microsoft.Azure.Devices.Client@1.42.3
+- pkg:nuget/Microsoft.Azure.Devices.Client@1.43.2-edgeLts
 - pkg:nuget/Microsoft.Azure.Devices.Client@1.5.0
 - pkg:nuget/Microsoft.Azure.Devices.Client@1.5.1
 - pkg:nuget/Microsoft.Azure.Devices.Client@1.5.2
