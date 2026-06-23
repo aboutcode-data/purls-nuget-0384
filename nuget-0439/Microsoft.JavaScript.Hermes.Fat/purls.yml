@@ -70,6 +70,7 @@
 - pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.0.0-2604.21003-25335298
 - pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.0.0-2605.5001-3fe8c9e0
 - pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.0.0-2606.15001-f9abcf6a
+- pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.0.0-2606.22001-f9abcf6a
 - pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.1.16
 - pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.1.17
 - pkg:nuget/Microsoft.JavaScript.Hermes.Fat@0.1.18
