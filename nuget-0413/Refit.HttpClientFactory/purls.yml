@@ -1,4 +1,5 @@
 - pkg:nuget/Refit.HttpClientFactory@11.1.0
+- pkg:nuget/Refit.HttpClientFactory@12.0.0
 - pkg:nuget/Refit.HttpClientFactory@4.6.107
 - pkg:nuget/Refit.HttpClientFactory@4.6.16
 - pkg:nuget/Refit.HttpClientFactory@4.6.30
