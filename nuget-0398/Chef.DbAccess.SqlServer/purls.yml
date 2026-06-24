@@ -62,3 +62,5 @@
 - pkg:nuget/Chef.DbAccess.SqlServer@3.0.2
 - pkg:nuget/Chef.DbAccess.SqlServer@3.0.3
 - pkg:nuget/Chef.DbAccess.SqlServer@3.0.5
+- pkg:nuget/Chef.DbAccess.SqlServer@3.0.6
+- pkg:nuget/Chef.DbAccess.SqlServer@3.0.7
