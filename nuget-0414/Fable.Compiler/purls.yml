@@ -133,3 +133,4 @@
 - pkg:nuget/Fable.Compiler@5.0.0-alpha.9
 - pkg:nuget/Fable.Compiler@5.0.0-rc.12
 - pkg:nuget/Fable.Compiler@5.2.0
+- pkg:nuget/Fable.Compiler@5.4.0
