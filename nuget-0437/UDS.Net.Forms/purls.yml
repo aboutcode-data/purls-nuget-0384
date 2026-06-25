@@ -78,6 +78,7 @@
 - pkg:nuget/UDS.Net.Forms@17.0.0-preview.8
 - pkg:nuget/UDS.Net.Forms@17.0.0-preview.9
 - pkg:nuget/UDS.Net.Forms@17.0.1
+- pkg:nuget/UDS.Net.Forms@17.0.7-preview.1
 - pkg:nuget/UDS.Net.Forms@3.0.1
 - pkg:nuget/UDS.Net.Forms@3.0.2
 - pkg:nuget/UDS.Net.Forms@3.0.2-preview.3
