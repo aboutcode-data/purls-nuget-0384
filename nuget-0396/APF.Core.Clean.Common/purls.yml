@@ -11,6 +11,7 @@
 - pkg:nuget/APF.Core.Clean.Common@1.0.0-Beta-12
 - pkg:nuget/APF.Core.Clean.Common@1.0.0-Beta-13
 - pkg:nuget/APF.Core.Clean.Common@8.0.0.19-Beta-02
+- pkg:nuget/APF.Core.Clean.Common@8.0.0.20
 - pkg:nuget/APF.Core.Clean.Common@8.0.0.3-Beta-4
 - pkg:nuget/APF.Core.Clean.Common@8.0.0.5
 - pkg:nuget/APF.Core.Clean.Common@8.0.0.5-Beta-2
