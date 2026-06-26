@@ -1,5 +1,7 @@
 - pkg:nuget/WJb@0.10.0-beta1
 - pkg:nuget/WJb@0.100.0
+- pkg:nuget/WJb@0.101.0
+- pkg:nuget/WJb@0.101.1
 - pkg:nuget/WJb@0.22.0-beta
 - pkg:nuget/WJb@0.22.1-beta
 - pkg:nuget/WJb@0.31.0
