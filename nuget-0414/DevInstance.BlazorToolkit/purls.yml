@@ -1,4 +1,6 @@
 - pkg:nuget/DevInstance.BlazorToolkit@10.1.1
+- pkg:nuget/DevInstance.BlazorToolkit@10.3.0
+- pkg:nuget/DevInstance.BlazorToolkit@10.3.1
 - pkg:nuget/DevInstance.BlazorToolkit@8.0.0
 - pkg:nuget/DevInstance.BlazorToolkit@8.0.1
 - pkg:nuget/DevInstance.BlazorToolkit@8.2.0
