@@ -102,3 +102,4 @@
 - pkg:nuget/NBomber.Http@6.1.0-beta.4
 - pkg:nuget/NBomber.Http@6.1.0-beta.5
 - pkg:nuget/NBomber.Http@6.1.0-beta.7
+- pkg:nuget/NBomber.Http@6.2.1
