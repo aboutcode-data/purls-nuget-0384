@@ -35,6 +35,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Wallet@119.4.0.5
 - pkg:nuget/Xamarin.GooglePlayServices.Wallet@119.4.0.6
 - pkg:nuget/Xamarin.GooglePlayServices.Wallet@119.4.0.7
+- pkg:nuget/Xamarin.GooglePlayServices.Wallet@120.0.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Wallet@23.0.0-beta1
 - pkg:nuget/Xamarin.GooglePlayServices.Wallet@23.0.0-beta2
 - pkg:nuget/Xamarin.GooglePlayServices.Wallet@23.0.0-beta3
