@@ -1,5 +1,6 @@
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Guava@1.10.2
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Guava@1.10.2.1
+- pkg:nuget/Xamarin.KotlinX.Coroutines.Guava@1.11.0.1
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Guava@1.5.0
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Guava@1.5.2.1
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Guava@1.5.2.2
