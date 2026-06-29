@@ -69,3 +69,4 @@
 - pkg:nuget/Energinet.DataHub.Core.Logging@5.0.0
 - pkg:nuget/Energinet.DataHub.Core.Logging@5.0.1
 - pkg:nuget/Energinet.DataHub.Core.Logging@5.0.2
+- pkg:nuget/Energinet.DataHub.Core.Logging@6.1.1-alpha-228
