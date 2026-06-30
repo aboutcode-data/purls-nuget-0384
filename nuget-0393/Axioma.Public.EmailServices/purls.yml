@@ -210,3 +210,4 @@
 - pkg:nuget/Axioma.Public.EmailServices@6.1.22
 - pkg:nuget/Axioma.Public.EmailServices@6.1.3
 - pkg:nuget/Axioma.Public.EmailServices@7.0.25
+- pkg:nuget/Axioma.Public.EmailServices@7.0.34
