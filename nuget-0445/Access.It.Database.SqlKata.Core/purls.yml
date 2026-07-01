@@ -1,5 +1,6 @@
 - pkg:nuget/Access.It.Database.SqlKata.Core@10.0.1
 - pkg:nuget/Access.It.Database.SqlKata.Core@10.0.3
+- pkg:nuget/Access.It.Database.SqlKata.Core@10.1.0
 - pkg:nuget/Access.It.Database.SqlKata.Core@8.18.0
 - pkg:nuget/Access.It.Database.SqlKata.Core@8.18.1
 - pkg:nuget/Access.It.Database.SqlKata.Core@9.2.0
