@@ -39,3 +39,4 @@
 - pkg:nuget/Dhanman.Shared.Contracts@1.6.7
 - pkg:nuget/Dhanman.Shared.Contracts@1.9.1
 - pkg:nuget/Dhanman.Shared.Contracts@1.9.8
+- pkg:nuget/Dhanman.Shared.Contracts@2.1.0
