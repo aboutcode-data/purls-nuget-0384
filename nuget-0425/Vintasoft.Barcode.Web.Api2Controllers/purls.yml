@@ -172,6 +172,7 @@
 - pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@15.3.5.1
 - pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@16.0.0.1
 - pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@16.0.1.1
+- pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@16.0.3.1
 - pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@9.2.0.1
 - pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@9.2.0.3
 - pkg:nuget/Vintasoft.Barcode.Web.Api2Controllers@9.2.1.1
