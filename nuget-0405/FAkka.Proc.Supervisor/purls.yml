@@ -16,3 +16,5 @@
 - pkg:nuget/FAkka.Proc.Supervisor@1.562.101.201-dgx.25
 - pkg:nuget/FAkka.Proc.Supervisor@1.562.101.201-dgx.4
 - pkg:nuget/FAkka.Proc.Supervisor@1.562.101.201-dgx.9
+- pkg:nuget/FAkka.Proc.Supervisor@1.569.101.301-win2
+- pkg:nuget/FAkka.Proc.Supervisor@1.569.101.301-win4
