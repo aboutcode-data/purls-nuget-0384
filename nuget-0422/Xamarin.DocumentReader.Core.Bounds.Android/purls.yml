@@ -101,3 +101,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.Bounds.Android@9.5.2658-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Bounds.Android@9.5.2674-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Bounds.Android@9.5.2734
+- pkg:nuget/Xamarin.DocumentReader.Core.Bounds.Android@9.7.2825-rc
