@@ -209,6 +209,7 @@
 - pkg:nuget/Indice.Features.Identity.UI@8.47.0-rc03
 - pkg:nuget/Indice.Features.Identity.UI@8.47.2
 - pkg:nuget/Indice.Features.Identity.UI@8.5.0
+- pkg:nuget/Indice.Features.Identity.UI@8.51.0
 - pkg:nuget/Indice.Features.Identity.UI@8.6.0
 - pkg:nuget/Indice.Features.Identity.UI@8.7.0
 - pkg:nuget/Indice.Features.Identity.UI@8.8.0
