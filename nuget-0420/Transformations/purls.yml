@@ -143,3 +143,4 @@
 - pkg:nuget/Transformations@0.0.99
 - pkg:nuget/Transformations@1.0.0
 - pkg:nuget/Transformations@1.0.1
+- pkg:nuget/Transformations@2.0.4.1
