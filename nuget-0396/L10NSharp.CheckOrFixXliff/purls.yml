@@ -1,4 +1,5 @@
 - pkg:nuget/L10NSharp.CheckOrFixXliff@10.0.0-beta0005
+- pkg:nuget/L10NSharp.CheckOrFixXliff@10.0.0-beta0013
 - pkg:nuget/L10NSharp.CheckOrFixXliff@4.1.0
 - pkg:nuget/L10NSharp.CheckOrFixXliff@4.1.0-beta0026
 - pkg:nuget/L10NSharp.CheckOrFixXliff@4.1.0-beta0027
