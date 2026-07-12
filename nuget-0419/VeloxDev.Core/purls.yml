@@ -99,3 +99,9 @@
 - pkg:nuget/VeloxDev.Core@3.7.27
 - pkg:nuget/VeloxDev.Core@5.0.27
 - pkg:nuget/VeloxDev.Core@5.0.28
+- pkg:nuget/VeloxDev.Core@5.0.35
+- pkg:nuget/VeloxDev.Core@5.1.0
+- pkg:nuget/VeloxDev.Core@5.1.1
+- pkg:nuget/VeloxDev.Core@5.2.0
+- pkg:nuget/VeloxDev.Core@5.7.0
+- pkg:nuget/VeloxDev.Core@5.8.0

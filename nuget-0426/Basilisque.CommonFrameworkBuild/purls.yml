@@ -13,3 +13,4 @@
 - pkg:nuget/Basilisque.CommonFrameworkBuild@1.0.0-RC4
 - pkg:nuget/Basilisque.CommonFrameworkBuild@1.0.0-RC5
 - pkg:nuget/Basilisque.CommonFrameworkBuild@1.0.0-RC7
+- pkg:nuget/Basilisque.CommonFrameworkBuild@2.0.0-Preview00006
