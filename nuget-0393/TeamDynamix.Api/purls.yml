@@ -253,3 +253,4 @@
 - pkg:nuget/TeamDynamix.Api@12.1.29.1
 - pkg:nuget/TeamDynamix.Api@12.1.30.3
 - pkg:nuget/TeamDynamix.Api@12.1.37.1
+- pkg:nuget/TeamDynamix.Api@12.2.11.2
