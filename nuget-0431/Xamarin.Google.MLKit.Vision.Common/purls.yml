@@ -23,6 +23,7 @@
 - pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.14
 - pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.15
 - pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.16
+- pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.19
 - pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.2
 - pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.3
 - pkg:nuget/Xamarin.Google.MLKit.Vision.Common@117.3.0.4
