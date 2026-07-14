@@ -130,6 +130,7 @@
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.109
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.110
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.113
+- pkg:nuget/Microsoft.NET.Build.Containers@9.0.119
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.200
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.200-preview.0.24575.35
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.201
@@ -145,3 +146,4 @@
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.305
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.309
 - pkg:nuget/Microsoft.NET.Build.Containers@9.0.310
+- pkg:nuget/Microsoft.NET.Build.Containers@9.0.316
