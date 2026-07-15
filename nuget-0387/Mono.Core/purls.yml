@@ -18,3 +18,5 @@
 - pkg:nuget/Mono.Core@1.0.7
 - pkg:nuget/Mono.Core@1.0.8
 - pkg:nuget/Mono.Core@1.0.9
+- pkg:nuget/Mono.Core@1.9.1
+- pkg:nuget/Mono.Core@1.9.2
