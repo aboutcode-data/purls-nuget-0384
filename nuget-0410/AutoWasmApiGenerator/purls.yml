@@ -13,3 +13,4 @@
 - pkg:nuget/AutoWasmApiGenerator@0.1.2-pre
 - pkg:nuget/AutoWasmApiGenerator@0.1.3
 - pkg:nuget/AutoWasmApiGenerator@0.1.4
+- pkg:nuget/AutoWasmApiGenerator@2026.5.25.1
