@@ -1,3 +1,4 @@
 - pkg:nuget/AxisNet.Framework@1.4.2
 - pkg:nuget/AxisNet.Framework@1.4.6
 - pkg:nuget/AxisNet.Framework@1.8.1-micro
+- pkg:nuget/AxisNet.Framework@2.1.2
