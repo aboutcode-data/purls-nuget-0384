@@ -8,6 +8,8 @@
 - pkg:nuget/Cadmus.Graph@0.1.0
 - pkg:nuget/Cadmus.Graph@0.1.1
 - pkg:nuget/Cadmus.Graph@1.0.0
+- pkg:nuget/Cadmus.Graph@10.0.7
+- pkg:nuget/Cadmus.Graph@14.0.1
 - pkg:nuget/Cadmus.Graph@2.0.1
 - pkg:nuget/Cadmus.Graph@2.0.11
 - pkg:nuget/Cadmus.Graph@2.0.2
