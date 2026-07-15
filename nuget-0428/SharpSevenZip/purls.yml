@@ -1,3 +1,4 @@
+- pkg:nuget/SharpSevenZip@2.0.100
 - pkg:nuget/SharpSevenZip@2.0.11
 - pkg:nuget/SharpSevenZip@2.0.12
 - pkg:nuget/SharpSevenZip@2.0.14
