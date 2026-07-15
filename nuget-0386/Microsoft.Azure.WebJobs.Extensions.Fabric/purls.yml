@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@0.1.77-rc
 - pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@0.2.5-rc
 - pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@0.2.9-rc
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@1.0.100
 - pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@1.0.15
 - pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@1.0.26
 - pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Fabric@1.0.29
