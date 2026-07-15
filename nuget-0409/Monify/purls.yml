@@ -2,3 +2,5 @@
 - pkg:nuget/Monify@1.0.0
 - pkg:nuget/Monify@1.0.0-rc.1
 - pkg:nuget/Monify@1.0.0-rc.2
+- pkg:nuget/Monify@1.4.2-rc.1
+- pkg:nuget/Monify@1.5.0-rc.4
