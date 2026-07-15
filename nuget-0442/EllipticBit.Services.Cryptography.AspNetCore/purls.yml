@@ -9,3 +9,5 @@
 - pkg:nuget/EllipticBit.Services.Cryptography.AspNetCore@1.0.7
 - pkg:nuget/EllipticBit.Services.Cryptography.AspNetCore@1.0.8
 - pkg:nuget/EllipticBit.Services.Cryptography.AspNetCore@1.1.1
+- pkg:nuget/EllipticBit.Services.Cryptography.AspNetCore@1.1.6
+- pkg:nuget/EllipticBit.Services.Cryptography.AspNetCore@1.1.7
