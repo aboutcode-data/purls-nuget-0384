@@ -7,3 +7,4 @@
 - pkg:nuget/ManiaAPI.XmlRpc@2.0.0-beta5
 - pkg:nuget/ManiaAPI.XmlRpc@2.1.0
 - pkg:nuget/ManiaAPI.XmlRpc@2.3.0
+- pkg:nuget/ManiaAPI.XmlRpc@2.8.7
