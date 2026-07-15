@@ -8,3 +8,4 @@
 - pkg:nuget/dn32.grpc.easy.client@1.0.1-beta08
 - pkg:nuget/dn32.grpc.easy.client@1.0.1-beta09
 - pkg:nuget/dn32.grpc.easy.client@1.0.1-beta10
+- pkg:nuget/dn32.grpc.easy.client@1.0.1-rc1
