@@ -1,1 +1,2 @@
 - pkg:nuget/IoTSharp.CoAP.NET@2.0.8
+- pkg:nuget/IoTSharp.CoAP.NET@3.0.0
