@@ -1,1 +1,3 @@
 - pkg:nuget/Gondwana.Templates@2.3.0
+- pkg:nuget/Gondwana.Templates@2.4.2
+- pkg:nuget/Gondwana.Templates@2.5.0
