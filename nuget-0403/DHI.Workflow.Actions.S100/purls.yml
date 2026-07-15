@@ -1,1 +1,2 @@
 - pkg:nuget/DHI.Workflow.Actions.S100@4.2.1
+- pkg:nuget/DHI.Workflow.Actions.S100@5.0.1
