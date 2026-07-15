@@ -2,3 +2,5 @@
 - pkg:nuget/Pure.RelationalSchema@0.2.0
 - pkg:nuget/Pure.RelationalSchema@1.0.0
 - pkg:nuget/Pure.RelationalSchema@1.1.0
+- pkg:nuget/Pure.RelationalSchema@2.0.2
+- pkg:nuget/Pure.RelationalSchema@2.0.3
