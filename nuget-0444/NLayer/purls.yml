@@ -4,3 +4,4 @@
 - pkg:nuget/NLayer@1.14.0
 - pkg:nuget/NLayer@1.15.0
 - pkg:nuget/NLayer@1.16.0
+- pkg:nuget/NLayer@2.0.0-preview.3
