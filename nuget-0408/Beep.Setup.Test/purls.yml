@@ -1,1 +1,8 @@
 - pkg:nuget/Beep.Setup.Test@0.0.0-build.71
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.1
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.10
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.16
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.2
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.6
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.8
+- pkg:nuget/Beep.Setup.Test@1.0.1-build.9
