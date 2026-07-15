@@ -8,3 +8,5 @@
 - pkg:nuget/AutoGuru.HotChocolate.PolymorphicIds@4.0.0
 - pkg:nuget/AutoGuru.HotChocolate.PolymorphicIds@4.0.0-rc.1
 - pkg:nuget/AutoGuru.HotChocolate.PolymorphicIds@4.1.0
+- pkg:nuget/AutoGuru.HotChocolate.PolymorphicIds@5.1.0
+- pkg:nuget/AutoGuru.HotChocolate.PolymorphicIds@6.1.0
