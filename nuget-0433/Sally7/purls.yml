@@ -14,6 +14,7 @@
 - pkg:nuget/Sally7@0.14.6-beta.1
 - pkg:nuget/Sally7@0.14.7
 - pkg:nuget/Sally7@0.15.0
+- pkg:nuget/Sally7@0.16.0
 - pkg:nuget/Sally7@0.2.0
 - pkg:nuget/Sally7@0.3.0
 - pkg:nuget/Sally7@0.3.1
