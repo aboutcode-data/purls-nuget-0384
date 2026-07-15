@@ -13,6 +13,7 @@
 - pkg:nuget/ManagedCode.Communication@1.0.1
 - pkg:nuget/ManagedCode.Communication@1.0.2
 - pkg:nuget/ManagedCode.Communication@1.0.3
+- pkg:nuget/ManagedCode.Communication@10.0.2
 - pkg:nuget/ManagedCode.Communication@2.0.0
 - pkg:nuget/ManagedCode.Communication@2.0.1
 - pkg:nuget/ManagedCode.Communication@2.0.10
