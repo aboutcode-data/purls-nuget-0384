@@ -23,3 +23,4 @@
 - pkg:nuget/Amazon.ECS.Tools@3.5.5
 - pkg:nuget/Amazon.ECS.Tools@3.5.6
 - pkg:nuget/Amazon.ECS.Tools@4.0.2
+- pkg:nuget/Amazon.ECS.Tools@5.0.0
