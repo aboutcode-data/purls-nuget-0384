@@ -130,3 +130,5 @@
 - pkg:nuget/Soenneker.Utils.CronExpressions@4.0.243
 - pkg:nuget/Soenneker.Utils.CronExpressions@4.0.247
 - pkg:nuget/Soenneker.Utils.CronExpressions@4.0.249
+- pkg:nuget/Soenneker.Utils.CronExpressions@4.0.257
+- pkg:nuget/Soenneker.Utils.CronExpressions@4.0.258
