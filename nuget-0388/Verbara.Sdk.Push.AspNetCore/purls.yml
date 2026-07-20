@@ -1,1 +1,2 @@
 - pkg:nuget/Verbara.Sdk.Push.AspNetCore@2.2.0
+- pkg:nuget/Verbara.Sdk.Push.AspNetCore@2.3.2
