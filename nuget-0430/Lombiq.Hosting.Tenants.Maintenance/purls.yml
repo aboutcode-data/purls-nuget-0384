@@ -1,3 +1,4 @@
+- pkg:nuget/Lombiq.Hosting.Tenants.Maintenance@10.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.Maintenance@4.0.3-alpha.1.nest-391
 - pkg:nuget/Lombiq.Hosting.Tenants.Maintenance@4.0.3-alpha.10.nest-326
 - pkg:nuget/Lombiq.Hosting.Tenants.Maintenance@4.0.3-alpha.11.nest-326
