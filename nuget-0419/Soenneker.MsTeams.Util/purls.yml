@@ -380,6 +380,7 @@
 - pkg:nuget/Soenneker.MsTeams.Util@3.0.98
 - pkg:nuget/Soenneker.MsTeams.Util@3.0.99
 - pkg:nuget/Soenneker.MsTeams.Util@4.0.1021
+- pkg:nuget/Soenneker.MsTeams.Util@4.0.1028
 - pkg:nuget/Soenneker.MsTeams.Util@4.0.405
 - pkg:nuget/Soenneker.MsTeams.Util@4.0.406
 - pkg:nuget/Soenneker.MsTeams.Util@4.0.419
