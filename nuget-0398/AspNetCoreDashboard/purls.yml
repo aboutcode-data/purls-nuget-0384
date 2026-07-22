@@ -12,6 +12,7 @@
 - pkg:nuget/AspNetCoreDashboard@1.0.0-beta-2
 - pkg:nuget/AspNetCoreDashboard@1.0.0-beta-20
 - pkg:nuget/AspNetCoreDashboard@1.0.0-beta-3
+- pkg:nuget/AspNetCoreDashboard@1.0.0-beta-37
 - pkg:nuget/AspNetCoreDashboard@1.0.0-beta-4
 - pkg:nuget/AspNetCoreDashboard@1.0.0-beta-7
 - pkg:nuget/AspNetCoreDashboard@1.0.0-beta-8
