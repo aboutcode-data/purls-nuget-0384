@@ -1,4 +1,6 @@
+- pkg:nuget/Yaapii.Http@0.0.0
 - pkg:nuget/Yaapii.Http@0.0.1
+- pkg:nuget/Yaapii.Http@0.0.1-pre4
 - pkg:nuget/Yaapii.Http@1.0.0
 - pkg:nuget/Yaapii.Http@1.1.0
 - pkg:nuget/Yaapii.Http@2.0.0
