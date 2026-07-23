@@ -69,6 +69,7 @@
 - pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.14.0
 - pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.2.0
 - pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.2.1
+- pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.20.0
 - pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.3.0
 - pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.3.1
 - pkg:nuget/Microsoft.IdentityModel.LoggingExtensions@8.4.0
