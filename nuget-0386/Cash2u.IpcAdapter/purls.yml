@@ -1,3 +1,4 @@
+- pkg:nuget/Cash2u.IpcAdapter@1.0.12
 - pkg:nuget/Cash2u.IpcAdapter@1.0.6
 - pkg:nuget/Cash2u.IpcAdapter@1.0.7
 - pkg:nuget/Cash2u.IpcAdapter@1.0.8
