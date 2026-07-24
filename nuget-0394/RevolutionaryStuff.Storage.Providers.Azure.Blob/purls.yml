@@ -8,6 +8,7 @@
 - pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.153.100
 - pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.158.100
 - pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.162.100
+- pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.165.100
 - pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.92.90
 - pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.93.90
 - pkg:nuget/RevolutionaryStuff.Storage.Providers.Azure.Blob@4.95.90
