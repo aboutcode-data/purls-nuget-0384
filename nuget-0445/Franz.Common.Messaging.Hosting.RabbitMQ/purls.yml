@@ -3,3 +3,8 @@
 - pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@1.7.3
 - pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.0.1
 - pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.0.2
+- pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.2.10
+- pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.2.15
+- pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.2.4
+- pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.2.5
+- pkg:nuget/Franz.Common.Messaging.Hosting.RabbitMQ@2.2.7
