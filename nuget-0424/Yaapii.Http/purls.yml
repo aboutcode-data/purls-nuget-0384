@@ -40,3 +40,4 @@
 - pkg:nuget/Yaapii.Http@8.1.0
 - pkg:nuget/Yaapii.Http@8.2.0
 - pkg:nuget/Yaapii.Http@9.0.0
+- pkg:nuget/Yaapii.Http@9.1.0
