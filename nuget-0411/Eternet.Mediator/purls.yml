@@ -67,3 +67,5 @@
 - pkg:nuget/Eternet.Mediator@3.0.31
 - pkg:nuget/Eternet.Mediator@3.0.32
 - pkg:nuget/Eternet.Mediator@3.0.34
+- pkg:nuget/Eternet.Mediator@3.1.12
+- pkg:nuget/Eternet.Mediator@3.1.14
