@@ -1,4 +1,5 @@
 - pkg:nuget/Codeed.Framework.Specification@0.0.0
+- pkg:nuget/Codeed.Framework.Specification@10.0.0-beta.1
 - pkg:nuget/Codeed.Framework.Specification@6.0.5
 - pkg:nuget/Codeed.Framework.Specification@6.0.5-beta.5
 - pkg:nuget/Codeed.Framework.Specification@6.0.5-beta.6
