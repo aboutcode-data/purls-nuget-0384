@@ -725,3 +725,4 @@
 - pkg:nuget/Soenneker.ApplicationInsights.Correlator.Jwt@4.0.741
 - pkg:nuget/Soenneker.ApplicationInsights.Correlator.Jwt@4.0.743
 - pkg:nuget/Soenneker.ApplicationInsights.Correlator.Jwt@4.0.749
+- pkg:nuget/Soenneker.ApplicationInsights.Correlator.Jwt@4.0.754
