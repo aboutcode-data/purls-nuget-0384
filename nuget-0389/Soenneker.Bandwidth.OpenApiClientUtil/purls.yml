@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.1
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.109
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.113
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.15
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClientUtil@4.0.3
