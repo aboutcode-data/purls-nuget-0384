@@ -139,3 +139,4 @@
 - pkg:nuget/Svix@1.90.0
 - pkg:nuget/Svix@1.95.0
 - pkg:nuget/Svix@1.96.0
+- pkg:nuget/Svix@2.0.0-rc.2
