@@ -101,5 +101,6 @@
 - pkg:nuget/Soenneker.Aws.Route53.DomainsClientUtil@4.0.307
 - pkg:nuget/Soenneker.Aws.Route53.DomainsClientUtil@4.0.317
 - pkg:nuget/Soenneker.Aws.Route53.DomainsClientUtil@4.0.318
+- pkg:nuget/Soenneker.Aws.Route53.DomainsClientUtil@4.0.320
 - pkg:nuget/Soenneker.Aws.Route53.DomainsClientUtil@4.0.94
 - pkg:nuget/Soenneker.Aws.Route53.DomainsClientUtil@4.0.99
