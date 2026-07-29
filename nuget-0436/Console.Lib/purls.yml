@@ -8,5 +8,8 @@
 - pkg:nuget/Console.Lib@2.9.451%2B642a263738dc30c9896e63355b56c629d514554e
 - pkg:nuget/Console.Lib@3.1.981%2B8f11ab8f629bac7b1bf7d0463b75c1db6e38b1c2
 - pkg:nuget/Console.Lib@3.12.1191%2B3f270d2fa25ea49c2230250410f15e6b2e619593
+- pkg:nuget/Console.Lib@3.13.1231%2B5f72a3fa52d4d90e1941d871d73c4c3f1624976b
 - pkg:nuget/Console.Lib@3.5.1101%2Bbc0f9eedafdf22a8517124b71ccf690017b554b3
 - pkg:nuget/Console.Lib@3.7.1131%2B7580e785415eb5da47fbf6f214383104b63bfc40
+- pkg:nuget/Console.Lib@4.0.1301%2Bb23940f1599a6eeef231728569975bb80b838c48
+- pkg:nuget/Console.Lib@4.2.1331%2B89fe7cb2f056eece909bdc644621af3fda594028
