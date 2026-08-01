@@ -95,6 +95,8 @@
 - pkg:nuget/Laerdal.Dfu@1.27.2-xamarin-6.44535
 - pkg:nuget/Laerdal.Dfu@1.27.2-xamarin-7.44558
 - pkg:nuget/Laerdal.Dfu@1.27.2-xamarin-9.44805
+- pkg:nuget/Laerdal.Dfu@1.27.201
+- pkg:nuget/Laerdal.Dfu@1.27.201-force-dud
 - pkg:nuget/Laerdal.Dfu@1.27.41
 - pkg:nuget/Laerdal.Dfu@1.27.43
 - pkg:nuget/Laerdal.Dfu@1.27.44
