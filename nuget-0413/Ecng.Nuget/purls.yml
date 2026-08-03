@@ -101,6 +101,7 @@
 - pkg:nuget/Ecng.Nuget@1.0.292
 - pkg:nuget/Ecng.Nuget@1.0.3
 - pkg:nuget/Ecng.Nuget@1.0.30
+- pkg:nuget/Ecng.Nuget@1.0.302
 - pkg:nuget/Ecng.Nuget@1.0.31
 - pkg:nuget/Ecng.Nuget@1.0.32
 - pkg:nuget/Ecng.Nuget@1.0.33
