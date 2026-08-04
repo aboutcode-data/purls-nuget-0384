@@ -195,3 +195,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomAccess.QR.SCP@5.2.2
 - pkg:nuget/Kayisoft.Abp.DicomAccess.QR.SCP@5.2.8
 - pkg:nuget/Kayisoft.Abp.DicomAccess.QR.SCP@5.2.9
+- pkg:nuget/Kayisoft.Abp.DicomAccess.QR.SCP@5.3.2
