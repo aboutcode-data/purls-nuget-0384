@@ -240,6 +240,7 @@
 - pkg:nuget/Senparc.Weixin.MP@16.23.8
 - pkg:nuget/Senparc.Weixin.MP@16.23.9
 - pkg:nuget/Senparc.Weixin.MP@16.23.9.1
+- pkg:nuget/Senparc.Weixin.MP@16.25.3
 - pkg:nuget/Senparc.Weixin.MP@16.3.0-preivew1
 - pkg:nuget/Senparc.Weixin.MP@16.3.0-preivew2
 - pkg:nuget/Senparc.Weixin.MP@16.3.0-preivew3
