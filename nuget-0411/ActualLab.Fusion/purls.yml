@@ -98,6 +98,7 @@
 - pkg:nuget/ActualLab.Fusion@13.0.126
 - pkg:nuget/ActualLab.Fusion@14.2.41
 - pkg:nuget/ActualLab.Fusion@14.3.10
+- pkg:nuget/ActualLab.Fusion@14.3.11
 - pkg:nuget/ActualLab.Fusion@14.3.4
 - pkg:nuget/ActualLab.Fusion@14.3.8
 - pkg:nuget/ActualLab.Fusion@7.0.10
