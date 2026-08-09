@@ -43,6 +43,7 @@
 - pkg:nuget/UltronMetafield.DataAccess.EFCore@1.0.71
 - pkg:nuget/UltronMetafield.DataAccess.EFCore@1.0.72
 - pkg:nuget/UltronMetafield.DataAccess.EFCore@1.0.73
+- pkg:nuget/UltronMetafield.DataAccess.EFCore@10.0.8
 - pkg:nuget/UltronMetafield.DataAccess.EFCore@8.0.0
 - pkg:nuget/UltronMetafield.DataAccess.EFCore@8.0.1
 - pkg:nuget/UltronMetafield.DataAccess.EFCore@8.0.10
