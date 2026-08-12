@@ -16,3 +16,4 @@
 - pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets@2.2.1
 - pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets@2.3.10
+- pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets@2.3.12
