@@ -35,3 +35,4 @@
 - pkg:nuget/WASU.Plugin.DynamicModule@25.909.8
 - pkg:nuget/WASU.Plugin.DynamicModule@25.910.9
 - pkg:nuget/WASU.Plugin.DynamicModule@26.811.15
+- pkg:nuget/WASU.Plugin.DynamicModule@26.812.9
