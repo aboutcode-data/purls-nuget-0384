@@ -2,3 +2,5 @@
 - pkg:nuget/Shiny.DocumentDb.Extensions.VectorData@13.0.0-g8a04578551
 - pkg:nuget/Shiny.DocumentDb.Extensions.VectorData@13.2.0
 - pkg:nuget/Shiny.DocumentDb.Extensions.VectorData@13.2.0-g3850c16801
+- pkg:nuget/Shiny.DocumentDb.Extensions.VectorData@13.2.1
+- pkg:nuget/Shiny.DocumentDb.Extensions.VectorData@13.2.1-g249f0f79df
