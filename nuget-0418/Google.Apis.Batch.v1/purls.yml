@@ -68,3 +68,4 @@
 - pkg:nuget/Google.Apis.Batch.v1@1.70.0.3854
 - pkg:nuget/Google.Apis.Batch.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.Batch.v1@1.73.0.4096
+- pkg:nuget/Google.Apis.Batch.v1@1.75.0.4221
