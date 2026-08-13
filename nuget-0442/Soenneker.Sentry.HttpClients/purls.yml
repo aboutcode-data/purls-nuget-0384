@@ -1,1 +1,9 @@
 - pkg:nuget/Soenneker.Sentry.HttpClients@4.0.2
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.20
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.27
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.32
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.53
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.59
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.61
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.63
+- pkg:nuget/Soenneker.Sentry.HttpClients@4.0.66
