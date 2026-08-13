@@ -14,7 +14,10 @@
 - pkg:nuget/BinaryLibs.Networking@0.126.0
 - pkg:nuget/BinaryLibs.Networking@0.127.0
 - pkg:nuget/BinaryLibs.Networking@0.13.0
+- pkg:nuget/BinaryLibs.Networking@0.137.0
+- pkg:nuget/BinaryLibs.Networking@0.138.0
 - pkg:nuget/BinaryLibs.Networking@0.14.0
+- pkg:nuget/BinaryLibs.Networking@0.143.0
 - pkg:nuget/BinaryLibs.Networking@0.15.0
 - pkg:nuget/BinaryLibs.Networking@0.16.0
 - pkg:nuget/BinaryLibs.Networking@0.17.0
