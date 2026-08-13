@@ -31,3 +31,5 @@
 - pkg:nuget/Umbraco.Forms.Deploy@16.0.0-rc4
 - pkg:nuget/Umbraco.Forms.Deploy@16.0.0-rc5
 - pkg:nuget/Umbraco.Forms.Deploy@16.0.1
+- pkg:nuget/Umbraco.Forms.Deploy@17.0.1
+- pkg:nuget/Umbraco.Forms.Deploy@18.0.1
