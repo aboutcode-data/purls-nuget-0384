@@ -43,4 +43,5 @@
 - pkg:nuget/FadeBasic.Lang.CommandSourceGenerator@0.0.8.1
 - pkg:nuget/FadeBasic.Lang.CommandSourceGenerator@0.0.9.1
 - pkg:nuget/FadeBasic.Lang.CommandSourceGenerator@0.13.0.1
+- pkg:nuget/FadeBasic.Lang.CommandSourceGenerator@0.2.6.1
 - pkg:nuget/FadeBasic.Lang.CommandSourceGenerator@13.1.0.1
