@@ -11,3 +11,4 @@
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.PostgreSql@7.1.0
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.PostgreSql@7.2.0
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.PostgreSql@8.0.0
+- pkg:nuget/OptimaJet.WorkflowServer.Migrations.PostgreSql@9.2.0
