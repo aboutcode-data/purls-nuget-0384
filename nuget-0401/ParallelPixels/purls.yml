@@ -1,2 +1,6 @@
 - pkg:nuget/ParallelPixels@0.0.1
 - pkg:nuget/ParallelPixels@1.0.0
+- pkg:nuget/ParallelPixels@3.0.0
+- pkg:nuget/ParallelPixels@4.0.0
+- pkg:nuget/ParallelPixels@5.0.0
+- pkg:nuget/ParallelPixels@6.0.0
