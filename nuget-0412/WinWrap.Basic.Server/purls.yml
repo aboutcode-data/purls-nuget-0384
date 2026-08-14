@@ -55,6 +55,7 @@
 - pkg:nuget/WinWrap.Basic.Server@10.60.11.2
 - pkg:nuget/WinWrap.Basic.Server@10.60.11.3
 - pkg:nuget/WinWrap.Basic.Server@10.60.11.4
+- pkg:nuget/WinWrap.Basic.Server@10.60.14.1
 - pkg:nuget/WinWrap.Basic.Server@10.60.4.1
 - pkg:nuget/WinWrap.Basic.Server@10.60.5.1
 - pkg:nuget/WinWrap.Basic.Server@10.60.6.1
