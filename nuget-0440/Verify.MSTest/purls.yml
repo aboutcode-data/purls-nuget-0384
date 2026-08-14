@@ -609,6 +609,7 @@
 - pkg:nuget/Verify.MSTest@31.19.1
 - pkg:nuget/Verify.MSTest@31.22.0
 - pkg:nuget/Verify.MSTest@31.27.0
+- pkg:nuget/Verify.MSTest@32.0.0-beta.2
 - pkg:nuget/Verify.MSTest@4.0.0
 - pkg:nuget/Verify.MSTest@4.0.1
 - pkg:nuget/Verify.MSTest@4.0.2
