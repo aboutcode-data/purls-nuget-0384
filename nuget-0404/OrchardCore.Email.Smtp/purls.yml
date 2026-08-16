@@ -12,3 +12,4 @@
 - pkg:nuget/OrchardCore.Email.Smtp@2.1.8
 - pkg:nuget/OrchardCore.Email.Smtp@2.1.9
 - pkg:nuget/OrchardCore.Email.Smtp@2.2.0
+- pkg:nuget/OrchardCore.Email.Smtp@3.0.0
