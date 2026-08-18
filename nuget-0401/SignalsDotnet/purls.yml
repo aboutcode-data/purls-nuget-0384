@@ -8,3 +8,6 @@
 - pkg:nuget/SignalsDotnet@2.0.2-alpha
 - pkg:nuget/SignalsDotnet@2.0.3
 - pkg:nuget/SignalsDotnet@2.0.4
+- pkg:nuget/SignalsDotnet@3.0.0
+- pkg:nuget/SignalsDotnet@3.1.0
+- pkg:nuget/SignalsDotnet@3.1.2
