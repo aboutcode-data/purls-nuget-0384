@@ -2283,3 +2283,4 @@
 - pkg:nuget/Soenneker.Redis.Client@4.0.2273
 - pkg:nuget/Soenneker.Redis.Client@4.0.2274
 - pkg:nuget/Soenneker.Redis.Client@4.0.2278
+- pkg:nuget/Soenneker.Redis.Client@4.0.2288
