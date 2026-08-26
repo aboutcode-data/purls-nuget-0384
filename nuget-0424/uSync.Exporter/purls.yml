@@ -68,6 +68,7 @@
 - pkg:nuget/uSync.Exporter@16.0.5
 - pkg:nuget/uSync.Exporter@16.0.6
 - pkg:nuget/uSync.Exporter@17.0.0-rc1
+- pkg:nuget/uSync.Exporter@18.1.1
 - pkg:nuget/uSync.Exporter@8.10.0
 - pkg:nuget/uSync.Exporter@8.10.1
 - pkg:nuget/uSync.Exporter@8.10.2
