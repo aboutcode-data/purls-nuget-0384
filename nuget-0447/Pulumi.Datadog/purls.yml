@@ -594,6 +594,7 @@
 - pkg:nuget/Pulumi.Datadog@5.0.0-alpha.1775078782
 - pkg:nuget/Pulumi.Datadog@5.1.0
 - pkg:nuget/Pulumi.Datadog@5.1.0-alpha.1775103295
+- pkg:nuget/Pulumi.Datadog@5.11.0-alpha.1787818224
 - pkg:nuget/Pulumi.Datadog@5.2.0-alpha.1776406477
 - pkg:nuget/Pulumi.Datadog@5.2.0-alpha.1776751932
 - pkg:nuget/Pulumi.Datadog@5.2.0-alpha.1776924900
