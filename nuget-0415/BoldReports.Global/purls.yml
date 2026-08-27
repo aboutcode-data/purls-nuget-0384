@@ -19,6 +19,7 @@
 - pkg:nuget/BoldReports.Global@13.1.37
 - pkg:nuget/BoldReports.Global@13.1.40
 - pkg:nuget/BoldReports.Global@14.1.12
+- pkg:nuget/BoldReports.Global@14.1.18
 - pkg:nuget/BoldReports.Global@2.1.23
 - pkg:nuget/BoldReports.Global@2.2.23
 - pkg:nuget/BoldReports.Global@2.2.28
