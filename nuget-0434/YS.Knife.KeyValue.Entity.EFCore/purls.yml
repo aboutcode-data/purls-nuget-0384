@@ -19,3 +19,4 @@
 - pkg:nuget/YS.Knife.KeyValue.Entity.EFCore@0.0.75
 - pkg:nuget/YS.Knife.KeyValue.Entity.EFCore@0.0.77
 - pkg:nuget/YS.Knife.KeyValue.Entity.EFCore@0.0.85
+- pkg:nuget/YS.Knife.KeyValue.Entity.EFCore@0.0.97
