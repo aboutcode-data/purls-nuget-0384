@@ -739,6 +739,7 @@
 - pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.1-p.1
 - pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.1-p.2
 - pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.1-p.3
+- pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.2
 - pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.2-p.1
 - pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.2-p.4
 - pkg:nuget/HotChocolate.AspNetCore.Authorization.Opa@16.6.2-p.8
