@@ -79,4 +79,5 @@
 - pkg:nuget/eActor@1.2.7-alpha
 - pkg:nuget/eActor@1.2.8-alpha
 - pkg:nuget/eActor@1.2.9-alpha
+- pkg:nuget/eActor@2.0.12
 - pkg:nuget/eActor@2.0.3
