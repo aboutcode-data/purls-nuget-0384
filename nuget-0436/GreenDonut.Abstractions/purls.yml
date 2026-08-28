@@ -284,6 +284,7 @@
 - pkg:nuget/GreenDonut.Abstractions@16.6.1-p.1
 - pkg:nuget/GreenDonut.Abstractions@16.6.1-p.2
 - pkg:nuget/GreenDonut.Abstractions@16.6.1-p.3
+- pkg:nuget/GreenDonut.Abstractions@16.6.2
 - pkg:nuget/GreenDonut.Abstractions@16.6.2-p.1
 - pkg:nuget/GreenDonut.Abstractions@16.6.2-p.4
 - pkg:nuget/GreenDonut.Abstractions@16.6.2-p.8
