@@ -31,4 +31,5 @@
 - pkg:nuget/Xunit.StaFact@2.1.7
 - pkg:nuget/Xunit.StaFact@3.0.13
 - pkg:nuget/Xunit.StaFact@3.0.6-alpha
+- pkg:nuget/Xunit.StaFact@4.0.23
 - pkg:nuget/Xunit.StaFact@4.0.5-beta
