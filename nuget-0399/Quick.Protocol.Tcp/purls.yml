@@ -67,3 +67,4 @@
 - pkg:nuget/Quick.Protocol.Tcp@2.6.2
 - pkg:nuget/Quick.Protocol.Tcp@2.6.3
 - pkg:nuget/Quick.Protocol.Tcp@2.9.3-rc1
+- pkg:nuget/Quick.Protocol.Tcp@2.9.4
