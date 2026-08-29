@@ -31,4 +31,5 @@
 - pkg:nuget/DnsCore@0.1.8
 - pkg:nuget/DnsCore@0.1.9
 - pkg:nuget/DnsCore@0.2.0
+- pkg:nuget/DnsCore@0.2.10
 - pkg:nuget/DnsCore@0.2.2
