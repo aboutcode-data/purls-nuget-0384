@@ -12,6 +12,7 @@
 - pkg:nuget/cloudscribe.SimpleContent.Syndication@1.1.1-rc20170417
 - pkg:nuget/cloudscribe.SimpleContent.Syndication@1.1.1-rc20170509
 - pkg:nuget/cloudscribe.SimpleContent.Syndication@1.1.2
+- pkg:nuget/cloudscribe.SimpleContent.Syndication@10.1.0
 - pkg:nuget/cloudscribe.SimpleContent.Syndication@2.0.0
 - pkg:nuget/cloudscribe.SimpleContent.Syndication@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.SimpleContent.Syndication@2.0.0-preview20170727

@@ -13,6 +13,7 @@
 - pkg:nuget/cloudscribe.FileManager.CoreIntegration@1.0.0-rc20170609
 - pkg:nuget/cloudscribe.FileManager.CoreIntegration@1.0.1
 - pkg:nuget/cloudscribe.FileManager.CoreIntegration@1.0.2
+- pkg:nuget/cloudscribe.FileManager.CoreIntegration@10.1.0
 - pkg:nuget/cloudscribe.FileManager.CoreIntegration@2.0.0
 - pkg:nuget/cloudscribe.FileManager.CoreIntegration@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.FileManager.CoreIntegration@2.0.0-preview20170727
