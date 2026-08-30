@@ -174,3 +174,5 @@
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Gemini@4.0.475
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Gemini@4.0.498
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Gemini@4.0.512
+- pkg:nuget/Soenneker.SemanticKernel.Pool.Gemini@4.0.523
+- pkg:nuget/Soenneker.SemanticKernel.Pool.Gemini@4.0.525
