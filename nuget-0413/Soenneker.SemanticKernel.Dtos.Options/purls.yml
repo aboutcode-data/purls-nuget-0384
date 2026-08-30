@@ -28,6 +28,7 @@
 - pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@3.0.7
 - pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@3.0.8
 - pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@3.0.9
+- pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@4.0.101
 - pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@4.0.35
 - pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@4.0.47
 - pkg:nuget/Soenneker.SemanticKernel.Dtos.Options@4.0.52
