@@ -121,6 +121,8 @@
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.1
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.10
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.11
+- pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.12
+- pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.15
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.2
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.3
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.5
@@ -128,8 +130,17 @@
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.7
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.8
 - pkg:nuget/Mocha.Mediator.Abstractions@16.5.0-p.9
+- pkg:nuget/Mocha.Mediator.Abstractions@16.5.1-p.2
 - pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.11
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.12
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.13
 - pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.14
 - pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.3
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.7
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.8
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.0-p.9
 - pkg:nuget/Mocha.Mediator.Abstractions@16.6.1-p.3
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.2
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.2-p.5
+- pkg:nuget/Mocha.Mediator.Abstractions@16.6.2-p.6
 - pkg:nuget/Mocha.Mediator.Abstractions@16.6.2-p.8
