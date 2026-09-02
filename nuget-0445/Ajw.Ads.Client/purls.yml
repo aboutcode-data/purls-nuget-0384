@@ -400,3 +400,5 @@
 - pkg:nuget/Ajw.Ads.Client@2026.8.24.1324
 - pkg:nuget/Ajw.Ads.Client@2026.8.28.1242-beta
 - pkg:nuget/Ajw.Ads.Client@2026.9.1.1052
+- pkg:nuget/Ajw.Ads.Client@2026.9.2.1055-beta
+- pkg:nuget/Ajw.Ads.Client@2026.9.2.1252
