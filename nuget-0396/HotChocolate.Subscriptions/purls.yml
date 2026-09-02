@@ -1674,6 +1674,7 @@
 - pkg:nuget/HotChocolate.Subscriptions@16.6.1-p.3
 - pkg:nuget/HotChocolate.Subscriptions@16.6.2
 - pkg:nuget/HotChocolate.Subscriptions@16.6.2-p.8
+- pkg:nuget/HotChocolate.Subscriptions@16.6.3
 - pkg:nuget/HotChocolate.Subscriptions@9.0.0
 - pkg:nuget/HotChocolate.Subscriptions@9.0.0-preview.1
 - pkg:nuget/HotChocolate.Subscriptions@9.0.0-preview.10
