@@ -1,3 +1,5 @@
 - pkg:nuget/DaJet.Scripting@1.0.0
 - pkg:nuget/DaJet.Scripting@1.1.0
 - pkg:nuget/DaJet.Scripting@1.1.1
+- pkg:nuget/DaJet.Scripting@2.0.10
+- pkg:nuget/DaJet.Scripting@2.0.16
