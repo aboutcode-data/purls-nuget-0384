@@ -39,3 +39,4 @@
 - pkg:nuget/BACnet@3.0.1-beta9
 - pkg:nuget/BACnet@4.0.0
 - pkg:nuget/BACnet@4.0.0-beta.1
+- pkg:nuget/BACnet@4.1.0-beta.2
