@@ -7,3 +7,4 @@
 - pkg:nuget/SOFTURE.MessageBroker.Rabbit@0.1.3
 - pkg:nuget/SOFTURE.MessageBroker.Rabbit@0.2.1
 - pkg:nuget/SOFTURE.MessageBroker.Rabbit@0.3.1
+- pkg:nuget/SOFTURE.MessageBroker.Rabbit@1.1.0
