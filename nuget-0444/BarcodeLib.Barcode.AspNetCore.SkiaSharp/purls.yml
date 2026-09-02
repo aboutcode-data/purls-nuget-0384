@@ -26,4 +26,5 @@
 - pkg:nuget/BarcodeLib.Barcode.AspNetCore.SkiaSharp@8.1.0.1
 - pkg:nuget/BarcodeLib.Barcode.AspNetCore.SkiaSharp@8.1.0.6
 - pkg:nuget/BarcodeLib.Barcode.AspNetCore.SkiaSharp@8.1.2
+- pkg:nuget/BarcodeLib.Barcode.AspNetCore.SkiaSharp@8.1.2.13
 - pkg:nuget/BarcodeLib.Barcode.AspNetCore.SkiaSharp@8.1.2.6
