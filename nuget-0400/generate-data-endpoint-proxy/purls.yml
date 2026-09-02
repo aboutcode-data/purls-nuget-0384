@@ -17,6 +17,7 @@
 - pkg:nuget/generate-data-endpoint-proxy@1.1.124
 - pkg:nuget/generate-data-endpoint-proxy@1.1.127
 - pkg:nuget/generate-data-endpoint-proxy@1.1.128
+- pkg:nuget/generate-data-endpoint-proxy@10.2.2
 - pkg:nuget/generate-data-endpoint-proxy@2.1.129
 - pkg:nuget/generate-data-endpoint-proxy@2.1.130
 - pkg:nuget/generate-data-endpoint-proxy@2.1.131
