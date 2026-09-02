@@ -9,4 +9,6 @@
 - pkg:nuget/ThingsGateway.Foundation.Common@12.5.12
 - pkg:nuget/ThingsGateway.Foundation.Common@12.5.17
 - pkg:nuget/ThingsGateway.Foundation.Common@12.5.23
+- pkg:nuget/ThingsGateway.Foundation.Common@12.5.30
+- pkg:nuget/ThingsGateway.Foundation.Common@12.5.31
 - pkg:nuget/ThingsGateway.Foundation.Common@12.5.9
