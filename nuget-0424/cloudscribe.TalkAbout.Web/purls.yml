@@ -3,6 +3,7 @@
 - pkg:nuget/cloudscribe.TalkAbout.Web@1.0.0-beta-20190721
 - pkg:nuget/cloudscribe.TalkAbout.Web@1.0.0-beta-20190727
 - pkg:nuget/cloudscribe.TalkAbout.Web@1.0.1
+- pkg:nuget/cloudscribe.TalkAbout.Web@10.1.0
 - pkg:nuget/cloudscribe.TalkAbout.Web@3.0.0
 - pkg:nuget/cloudscribe.TalkAbout.Web@3.0.1
 - pkg:nuget/cloudscribe.TalkAbout.Web@3.1.0
