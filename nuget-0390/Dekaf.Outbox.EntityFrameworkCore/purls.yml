@@ -1,0 +1,4 @@
+- pkg:nuget/Dekaf.Outbox.EntityFrameworkCore@1.10.0
+- pkg:nuget/Dekaf.Outbox.EntityFrameworkCore@1.14.0
+- pkg:nuget/Dekaf.Outbox.EntityFrameworkCore@1.14.1
+- pkg:nuget/Dekaf.Outbox.EntityFrameworkCore@1.9.1
