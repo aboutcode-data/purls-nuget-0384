@@ -3,3 +3,4 @@
 - pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.0.1
 - pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.1.0
 - pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.2.0
+- pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.3.0
