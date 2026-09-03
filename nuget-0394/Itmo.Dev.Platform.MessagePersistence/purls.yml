@@ -59,3 +59,5 @@
 - pkg:nuget/Itmo.Dev.Platform.MessagePersistence@2.2.308
 - pkg:nuget/Itmo.Dev.Platform.MessagePersistence@3.0.433
 - pkg:nuget/Itmo.Dev.Platform.MessagePersistence@3.0.435
+- pkg:nuget/Itmo.Dev.Platform.MessagePersistence@3.0.466
+- pkg:nuget/Itmo.Dev.Platform.MessagePersistence@3.0.468
