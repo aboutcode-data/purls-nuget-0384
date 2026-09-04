@@ -54,3 +54,5 @@
 - pkg:nuget/CDCD.Charging.RateLimit@0.12.98
 - pkg:nuget/CDCD.Charging.RateLimit@0.13.0
 - pkg:nuget/CDCD.Charging.RateLimit@0.13.1
+- pkg:nuget/CDCD.Charging.RateLimit@0.13.17
+- pkg:nuget/CDCD.Charging.RateLimit@0.13.18
