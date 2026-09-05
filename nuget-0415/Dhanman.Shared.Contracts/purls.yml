@@ -43,3 +43,4 @@
 - pkg:nuget/Dhanman.Shared.Contracts@2.2.0
 - pkg:nuget/Dhanman.Shared.Contracts@2.2.3
 - pkg:nuget/Dhanman.Shared.Contracts@2.2.4
+- pkg:nuget/Dhanman.Shared.Contracts@2.3.4
