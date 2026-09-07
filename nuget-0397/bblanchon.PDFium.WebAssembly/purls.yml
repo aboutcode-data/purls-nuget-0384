@@ -130,3 +130,4 @@
 - pkg:nuget/bblanchon.PDFium.WebAssembly@150.0.7869
 - pkg:nuget/bblanchon.PDFium.WebAssembly@151.0.7906
 - pkg:nuget/bblanchon.PDFium.WebAssembly@152.0.7961
+- pkg:nuget/bblanchon.PDFium.WebAssembly@155.0.8044
