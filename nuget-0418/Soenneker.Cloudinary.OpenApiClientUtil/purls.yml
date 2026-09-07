@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.100
 - pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.109
+- pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.112
+- pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.124
 - pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.27
 - pkg:nuget/Soenneker.Cloudinary.OpenApiClientUtil@4.0.29
