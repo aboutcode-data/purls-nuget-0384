@@ -68,3 +68,4 @@
 - pkg:nuget/DuetAPIClient@3.6.3
 - pkg:nuget/DuetAPIClient@3.7.0-beta.1
 - pkg:nuget/DuetAPIClient@3.7.0-beta.2
+- pkg:nuget/DuetAPIClient@3.7.0-rc.1
