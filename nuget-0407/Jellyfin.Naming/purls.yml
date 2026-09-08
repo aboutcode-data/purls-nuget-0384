@@ -74,4 +74,5 @@
 - pkg:nuget/Jellyfin.Naming@10.9.6
 - pkg:nuget/Jellyfin.Naming@10.9.7
 - pkg:nuget/Jellyfin.Naming@10.9.9
+- pkg:nuget/Jellyfin.Naming@12.0.0
 - pkg:nuget/Jellyfin.Naming@12.0.0-rc3
