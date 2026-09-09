@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.OrmLite.PostgreSQL@10.0.0
+- pkg:nuget/ServiceStack.OrmLite.PostgreSQL@10.2.0
 - pkg:nuget/ServiceStack.OrmLite.PostgreSQL@3.4.6
 - pkg:nuget/ServiceStack.OrmLite.PostgreSQL@3.4.7
 - pkg:nuget/ServiceStack.OrmLite.PostgreSQL@3.4.8
