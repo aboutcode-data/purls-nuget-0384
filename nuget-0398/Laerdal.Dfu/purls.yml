@@ -99,6 +99,8 @@
 - pkg:nuget/Laerdal.Dfu@1.27.201-force-dud
 - pkg:nuget/Laerdal.Dfu@1.27.204
 - pkg:nuget/Laerdal.Dfu@1.27.204-force-dud
+- pkg:nuget/Laerdal.Dfu@1.27.206
+- pkg:nuget/Laerdal.Dfu@1.27.206-force-dud
 - pkg:nuget/Laerdal.Dfu@1.27.41
 - pkg:nuget/Laerdal.Dfu@1.27.43
 - pkg:nuget/Laerdal.Dfu@1.27.44
