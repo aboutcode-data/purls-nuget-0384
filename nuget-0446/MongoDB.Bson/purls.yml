@@ -98,6 +98,7 @@
 - pkg:nuget/MongoDB.Bson@3.0.0
 - pkg:nuget/MongoDB.Bson@3.1.0
 - pkg:nuget/MongoDB.Bson@3.11.0
+- pkg:nuget/MongoDB.Bson@3.11.2
 - pkg:nuget/MongoDB.Bson@3.2.0
 - pkg:nuget/MongoDB.Bson@3.2.1
 - pkg:nuget/MongoDB.Bson@3.3.0
