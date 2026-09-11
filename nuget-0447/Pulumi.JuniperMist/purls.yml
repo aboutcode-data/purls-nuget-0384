@@ -107,6 +107,7 @@
 - pkg:nuget/Pulumi.JuniperMist@0.13.0-alpha.1787819192
 - pkg:nuget/Pulumi.JuniperMist@0.13.0-alpha.1788502385
 - pkg:nuget/Pulumi.JuniperMist@0.13.0-alpha.1788847147
+- pkg:nuget/Pulumi.JuniperMist@0.13.0-alpha.1789106911
 - pkg:nuget/Pulumi.JuniperMist@0.2.0
 - pkg:nuget/Pulumi.JuniperMist@0.2.0-alpha.1730179733
 - pkg:nuget/Pulumi.JuniperMist@0.2.0-alpha.1730383908
