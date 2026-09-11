@@ -40,6 +40,7 @@
 - pkg:nuget/Westwind.AspNetCore.Markdown@3.40.0
 - pkg:nuget/Westwind.AspNetCore.Markdown@3.41.0
 - pkg:nuget/Westwind.AspNetCore.Markdown@3.5.0
+- pkg:nuget/Westwind.AspNetCore.Markdown@3.5.1.1
 - pkg:nuget/Westwind.AspNetCore.Markdown@3.6.0
 - pkg:nuget/Westwind.AspNetCore.Markdown@3.7.0
 - pkg:nuget/Westwind.AspNetCore.Markdown@3.8.0
