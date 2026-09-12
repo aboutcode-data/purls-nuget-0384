@@ -13,6 +13,7 @@
 - pkg:nuget/StoicDreams.TestFramework@1.1.14
 - pkg:nuget/StoicDreams.TestFramework@1.1.5
 - pkg:nuget/StoicDreams.TestFramework@1.1.9
+- pkg:nuget/StoicDreams.TestFramework@1.10.3
 - pkg:nuget/StoicDreams.TestFramework@1.2.10
 - pkg:nuget/StoicDreams.TestFramework@1.2.11
 - pkg:nuget/StoicDreams.TestFramework@1.2.12
