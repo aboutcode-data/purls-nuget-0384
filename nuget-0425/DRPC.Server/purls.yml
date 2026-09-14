@@ -1,0 +1,7 @@
+- pkg:nuget/DRPC.Server@2.1.0
+- pkg:nuget/DRPC.Server@2.5.0
+- pkg:nuget/DRPC.Server@2.6.0
+- pkg:nuget/DRPC.Server@2.7.0
+- pkg:nuget/DRPC.Server@2.8.0
+- pkg:nuget/DRPC.Server@2.9.2
+- pkg:nuget/DRPC.Server@3.3.0
