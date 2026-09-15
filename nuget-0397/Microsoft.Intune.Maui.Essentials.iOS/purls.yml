@@ -24,3 +24,4 @@
 - pkg:nuget/Microsoft.Intune.Maui.Essentials.iOS@20.7.0
 - pkg:nuget/Microsoft.Intune.Maui.Essentials.iOS@20.8.0
 - pkg:nuget/Microsoft.Intune.Maui.Essentials.iOS@21.7.1
+- pkg:nuget/Microsoft.Intune.Maui.Essentials.iOS@21.9.0
