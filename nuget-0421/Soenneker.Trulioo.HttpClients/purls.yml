@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Trulioo.HttpClients@4.0.1
 - pkg:nuget/Soenneker.Trulioo.HttpClients@4.0.106
+- pkg:nuget/Soenneker.Trulioo.HttpClients@4.0.119
 - pkg:nuget/Soenneker.Trulioo.HttpClients@4.0.13
 - pkg:nuget/Soenneker.Trulioo.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Trulioo.HttpClients@4.0.22
