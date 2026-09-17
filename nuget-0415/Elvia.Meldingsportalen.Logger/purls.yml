@@ -27,3 +27,5 @@
 - pkg:nuget/Elvia.Meldingsportalen.Logger@1.1.26-beta
 - pkg:nuget/Elvia.Meldingsportalen.Logger@1.1.27-beta
 - pkg:nuget/Elvia.Meldingsportalen.Logger@2.0.2
+- pkg:nuget/Elvia.Meldingsportalen.Logger@2.2.5-prerelease
+- pkg:nuget/Elvia.Meldingsportalen.Logger@2.2.6-prerelease
