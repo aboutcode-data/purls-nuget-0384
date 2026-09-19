@@ -57,3 +57,7 @@
 - pkg:nuget/ghul.analysis.protocol@58.4.37
 - pkg:nuget/ghul.analysis.protocol@58.7.0
 - pkg:nuget/ghul.analysis.protocol@59.0.7
+- pkg:nuget/ghul.analysis.protocol@59.12.2
+- pkg:nuget/ghul.analysis.protocol@59.12.3
+- pkg:nuget/ghul.analysis.protocol@59.12.4
+- pkg:nuget/ghul.analysis.protocol@59.5.0
