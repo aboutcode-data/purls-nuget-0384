@@ -29,3 +29,4 @@
 - pkg:nuget/TopModel.Generator.Javascript@3.6.1
 - pkg:nuget/TopModel.Generator.Javascript@4.0.0-rc.1
 - pkg:nuget/TopModel.Generator.Javascript@4.2.4
+- pkg:nuget/TopModel.Generator.Javascript@4.5.0
