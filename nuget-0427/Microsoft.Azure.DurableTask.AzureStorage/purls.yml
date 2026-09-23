@@ -65,6 +65,7 @@
 - pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.0.0-rc.3
 - pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.0.1
 - pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.1.0
+- pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.10.0
 - pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.2.0
 - pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.3.0
 - pkg:nuget/Microsoft.Azure.DurableTask.AzureStorage@2.4.0
