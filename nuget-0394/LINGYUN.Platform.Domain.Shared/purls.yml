@@ -1,4 +1,5 @@
 - pkg:nuget/LINGYUN.Platform.Domain.Shared@10.4.0
+- pkg:nuget/LINGYUN.Platform.Domain.Shared@10.6.0
 - pkg:nuget/LINGYUN.Platform.Domain.Shared@4.2.1
 - pkg:nuget/LINGYUN.Platform.Domain.Shared@4.3.0
 - pkg:nuget/LINGYUN.Platform.Domain.Shared@4.3.2
