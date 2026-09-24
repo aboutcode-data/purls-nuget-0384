@@ -4592,6 +4592,8 @@
 - pkg:nuget/Uno.Foundation.Runtime.WebAssembly@6.8.0-dev.164
 - pkg:nuget/Uno.Foundation.Runtime.WebAssembly@6.8.0-dev.3
 - pkg:nuget/Uno.Foundation.Runtime.WebAssembly@7.0.0-dev.1166
+- pkg:nuget/Uno.Foundation.Runtime.WebAssembly@7.0.0-dev.1188
+- pkg:nuget/Uno.Foundation.Runtime.WebAssembly@7.0.0-dev.1189
 - pkg:nuget/Uno.Foundation.Runtime.WebAssembly@7.0.0-dev.680
 - pkg:nuget/Uno.Foundation.Runtime.WebAssembly@7.0.0-dev.722
 - pkg:nuget/Uno.Foundation.Runtime.WebAssembly@7.0.0-dev.966
