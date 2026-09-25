@@ -231,6 +231,7 @@
 - pkg:nuget/NanoCore@1.0.97
 - pkg:nuget/NanoCore@1.0.98
 - pkg:nuget/NanoCore@1.0.99
+- pkg:nuget/NanoCore@10.0.15
 - pkg:nuget/NanoCore@3.0.0
 - pkg:nuget/NanoCore@3.0.1
 - pkg:nuget/NanoCore@3.0.10
