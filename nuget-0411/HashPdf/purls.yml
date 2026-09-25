@@ -1,3 +1,5 @@
 - pkg:nuget/HashPdf@1.5.5
 - pkg:nuget/HashPdf@1.6.1
 - pkg:nuget/HashPdf@1.6.2
+- pkg:nuget/HashPdf@1.7.2
+- pkg:nuget/HashPdf@1.7.3
