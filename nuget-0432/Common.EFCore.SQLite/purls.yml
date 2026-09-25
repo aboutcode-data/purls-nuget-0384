@@ -14,3 +14,4 @@
 - pkg:nuget/Common.EFCore.SQLite@1.4.0-beta3
 - pkg:nuget/Common.EFCore.SQLite@1.4.1
 - pkg:nuget/Common.EFCore.SQLite@1.4.2
+- pkg:nuget/Common.EFCore.SQLite@1.6.3
