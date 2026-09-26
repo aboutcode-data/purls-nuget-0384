@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.117
 - pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.118
 - pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.128
+- pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.135
 - pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.24
 - pkg:nuget/Soenneker.Cursor.CloudAgents.HttpClients@4.0.25
