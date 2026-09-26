@@ -10,12 +10,16 @@
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-PullRequest795.82.65997
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-PullRequest823.109.66046
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-PullRequest827.113.66067
+- pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-PullRequest832.115.66074
+- pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-PullRequest846.135.66113
+- pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-PullRequest851.144.66133
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-alpha.67.65932
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-alpha.68.65933
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-alpha.72.65964
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-alpha.73.65965
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-alpha.74.65966
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-beta.110.66066
+- pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-beta.139.66112
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-beta.97.66008
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-beta.98.66010
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.10.0-claude-stack-comment-clarity.1.65998
@@ -26,4 +30,5 @@
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.11.0-PullRequest812.4.66045
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.11.0-PullRequest820.2.66043
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.11.0-PullRequest821.2.66044
+- pkg:nuget/CW.Assistant.Extensions.Docs@26.11.0-PullRequest837.15.66094
 - pkg:nuget/CW.Assistant.Extensions.Docs@26.11.0-alpha.1.66060
