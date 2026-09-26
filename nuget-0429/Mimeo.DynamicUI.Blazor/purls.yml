@@ -2,3 +2,5 @@
 - pkg:nuget/Mimeo.DynamicUI.Blazor@1.0.26-tag-test
 - pkg:nuget/Mimeo.DynamicUI.Blazor@1.0.27
 - pkg:nuget/Mimeo.DynamicUI.Blazor@1.0.27-tags-1-0-26.5
+- pkg:nuget/Mimeo.DynamicUI.Blazor@1.0.35
+- pkg:nuget/Mimeo.DynamicUI.Blazor@1.0.35-advanced-filter-fixes.2
