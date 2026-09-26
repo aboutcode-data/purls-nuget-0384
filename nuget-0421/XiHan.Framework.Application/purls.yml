@@ -5,3 +5,5 @@
 - pkg:nuget/XiHan.Framework.Application@2.3.1-preview.1
 - pkg:nuget/XiHan.Framework.Application@2.3.5
 - pkg:nuget/XiHan.Framework.Application@3.10.0
+- pkg:nuget/XiHan.Framework.Application@3.11.1
+- pkg:nuget/XiHan.Framework.Application@4.0.0
