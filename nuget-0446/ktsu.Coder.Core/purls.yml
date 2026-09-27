@@ -2,3 +2,5 @@
 - pkg:nuget/ktsu.Coder.Core@1.0.2
 - pkg:nuget/ktsu.Coder.Core@1.0.3
 - pkg:nuget/ktsu.Coder.Core@1.0.4-pre.1
+- pkg:nuget/ktsu.Coder.Core@1.4.0
+- pkg:nuget/ktsu.Coder.Core@1.8.1
