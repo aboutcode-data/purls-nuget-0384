@@ -10,3 +10,10 @@
 - pkg:nuget/MeshWeaver.Hosting.Monolith@2.1.0
 - pkg:nuget/MeshWeaver.Hosting.Monolith@2.2.0
 - pkg:nuget/MeshWeaver.Hosting.Monolith@2.3.0
+- pkg:nuget/MeshWeaver.Hosting.Monolith@2.4.0
+- pkg:nuget/MeshWeaver.Hosting.Monolith@2.5.0
+- pkg:nuget/MeshWeaver.Hosting.Monolith@3.0.0-preview1
+- pkg:nuget/MeshWeaver.Hosting.Monolith@3.0.0-rc10
+- pkg:nuget/MeshWeaver.Hosting.Monolith@3.0.0-rc11
+- pkg:nuget/MeshWeaver.Hosting.Monolith@3.0.0-rc12
+- pkg:nuget/MeshWeaver.Hosting.Monolith@3.0.0-rc5
