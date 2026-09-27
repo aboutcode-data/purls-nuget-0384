@@ -6,3 +6,5 @@
 - pkg:nuget/BlazorBlueprint.Components@3.9.1
 - pkg:nuget/BlazorBlueprint.Components@3.9.2
 - pkg:nuget/BlazorBlueprint.Components@3.9.3
+- pkg:nuget/BlazorBlueprint.Components@4.0.0-beta.1
+- pkg:nuget/BlazorBlueprint.Components@4.0.0-beta.2
