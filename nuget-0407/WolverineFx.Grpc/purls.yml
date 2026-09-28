@@ -11,4 +11,5 @@
 - pkg:nuget/WolverineFx.Grpc@6.30.1
 - pkg:nuget/WolverineFx.Grpc@6.32.0
 - pkg:nuget/WolverineFx.Grpc@6.39.0
+- pkg:nuget/WolverineFx.Grpc@6.41.0
 - pkg:nuget/WolverineFx.Grpc@6.7.0
