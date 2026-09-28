@@ -22,6 +22,7 @@
 - pkg:nuget/Verify.EntityFrameworkClassic@15.2.0
 - pkg:nuget/Verify.EntityFrameworkClassic@15.3.0
 - pkg:nuget/Verify.EntityFrameworkClassic@15.3.1
+- pkg:nuget/Verify.EntityFrameworkClassic@16.0.0-beta.4
 - pkg:nuget/Verify.EntityFrameworkClassic@2.0.0
 - pkg:nuget/Verify.EntityFrameworkClassic@2.1.0
 - pkg:nuget/Verify.EntityFrameworkClassic@2.1.1
