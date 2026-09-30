@@ -104,6 +104,7 @@
 - pkg:nuget/Microsoft.CST.DevSkim@0.8.9-alpha
 - pkg:nuget/Microsoft.CST.DevSkim@1.0.1
 - pkg:nuget/Microsoft.CST.DevSkim@1.0.10
+- pkg:nuget/Microsoft.CST.DevSkim@1.0.100
 - pkg:nuget/Microsoft.CST.DevSkim@1.0.11
 - pkg:nuget/Microsoft.CST.DevSkim@1.0.13
 - pkg:nuget/Microsoft.CST.DevSkim@1.0.14
