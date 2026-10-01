@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.Cohere.HttpClients@4.0.121
 - pkg:nuget/Soenneker.Cohere.HttpClients@4.0.14
 - pkg:nuget/Soenneker.Cohere.HttpClients@4.0.140
+- pkg:nuget/Soenneker.Cohere.HttpClients@4.0.141
 - pkg:nuget/Soenneker.Cohere.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Cohere.HttpClients@4.0.20
 - pkg:nuget/Soenneker.Cohere.HttpClients@4.0.21
