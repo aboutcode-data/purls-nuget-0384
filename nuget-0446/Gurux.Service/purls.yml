@@ -77,3 +77,6 @@
 - pkg:nuget/Gurux.Service@3.0.2503.1001
 - pkg:nuget/Gurux.Service@3.0.2604.201
 - pkg:nuget/Gurux.Service@3.0.2604.2101
+- pkg:nuget/Gurux.Service@3.0.2610.201
+- pkg:nuget/Gurux.Service@3.0.2610.202
+- pkg:nuget/Gurux.Service@3.0.2610.203
