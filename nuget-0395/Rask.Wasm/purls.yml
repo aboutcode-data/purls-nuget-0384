@@ -88,6 +88,8 @@
 - pkg:nuget/Rask.Wasm@0.22.1-alpha.0.23
 - pkg:nuget/Rask.Wasm@0.23.0
 - pkg:nuget/Rask.Wasm@0.23.1-alpha.0.10
+- pkg:nuget/Rask.Wasm@0.23.1-alpha.0.123
+- pkg:nuget/Rask.Wasm@0.23.1-alpha.0.132
 - pkg:nuget/Rask.Wasm@0.23.1-alpha.0.18
 - pkg:nuget/Rask.Wasm@0.23.1-alpha.0.20
 - pkg:nuget/Rask.Wasm@0.23.1-alpha.0.23
