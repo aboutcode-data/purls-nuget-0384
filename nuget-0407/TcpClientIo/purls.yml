@@ -47,3 +47,4 @@
 - pkg:nuget/TcpClientIo@1.6.1
 - pkg:nuget/TcpClientIo@1.6.2
 - pkg:nuget/TcpClientIo@2.0.0
+- pkg:nuget/TcpClientIo@3.0.0
