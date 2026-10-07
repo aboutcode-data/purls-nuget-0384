@@ -1277,6 +1277,8 @@
 - pkg:nuget/Izumi.RPC.Runtime.CS@1.4.6-build.699.1.17687251489
 - pkg:nuget/Izumi.RPC.Runtime.CS@1.4.8-build.837.1.21636001790
 - pkg:nuget/Izumi.RPC.Runtime.CS@1.5.10-build.985.1.27647206268
+- pkg:nuget/Izumi.RPC.Runtime.CS@1.5.11
+- pkg:nuget/Izumi.RPC.Runtime.CS@1.5.12-build.999.1.37504936818
 - pkg:nuget/Izumi.RPC.Runtime.CS@1.5.5
 - pkg:nuget/Izumi.RPC.Runtime.CS@1.5.5-build.969.1.26589438953
 - pkg:nuget/Izumi.RPC.Runtime.CS@1.5.5-build.972.1.26764105456
