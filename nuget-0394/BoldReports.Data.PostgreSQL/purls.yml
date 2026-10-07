@@ -21,6 +21,7 @@
 - pkg:nuget/BoldReports.Data.PostgreSQL@14.1.12
 - pkg:nuget/BoldReports.Data.PostgreSQL@14.1.18
 - pkg:nuget/BoldReports.Data.PostgreSQL@14.1.19
+- pkg:nuget/BoldReports.Data.PostgreSQL@14.1.23
 - pkg:nuget/BoldReports.Data.PostgreSQL@2.4.10
 - pkg:nuget/BoldReports.Data.PostgreSQL@2.4.19
 - pkg:nuget/BoldReports.Data.PostgreSQL@2.4.23
