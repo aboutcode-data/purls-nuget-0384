@@ -33,6 +33,7 @@
 - pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@4.6.0
 - pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@5.1.0
 - pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@5.4.0
+- pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@6.10.0
 - pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@6.7.1
 - pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@6.7.3
 - pkg:nuget/CreativeCoders.SysConsole.Cli.Actions@6.8.0
