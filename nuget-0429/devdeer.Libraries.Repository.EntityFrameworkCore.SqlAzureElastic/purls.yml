@@ -50,6 +50,7 @@
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.3.2-beta
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.30.0-beta
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.31.3-beta
+- pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.33.1-beta
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.4.0-beta
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.4.1-beta
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore.SqlAzureElastic@0.4.2-beta
