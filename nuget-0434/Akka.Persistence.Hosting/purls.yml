@@ -69,3 +69,4 @@
 - pkg:nuget/Akka.Persistence.Hosting@1.5.7
 - pkg:nuget/Akka.Persistence.Hosting@1.5.8
 - pkg:nuget/Akka.Persistence.Hosting@1.5.8.1
+- pkg:nuget/Akka.Persistence.Hosting@1.6.0-beta2
