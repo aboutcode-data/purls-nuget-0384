@@ -518,3 +518,4 @@
 - pkg:nuget/HotChocolate.Types.Queries@16.7.0-p.12
 - pkg:nuget/HotChocolate.Types.Queries@16.7.0-p.14
 - pkg:nuget/HotChocolate.Types.Queries@16.7.0-p.18
+- pkg:nuget/HotChocolate.Types.Queries@16.7.0-p.22
