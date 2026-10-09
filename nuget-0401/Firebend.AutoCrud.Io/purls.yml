@@ -64,6 +64,7 @@
 - pkg:nuget/Firebend.AutoCrud.Io@15.0.6
 - pkg:nuget/Firebend.AutoCrud.Io@15.0.7
 - pkg:nuget/Firebend.AutoCrud.Io@17.0.1
+- pkg:nuget/Firebend.AutoCrud.Io@18.0.1
 - pkg:nuget/Firebend.AutoCrud.Io@2.0.0
 - pkg:nuget/Firebend.AutoCrud.Io@2.1.0
 - pkg:nuget/Firebend.AutoCrud.Io@2.2.0
