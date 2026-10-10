@@ -59,5 +59,7 @@
 - pkg:nuget/Heliton.AspNetCore.Common@8.1.0.553
 - pkg:nuget/Heliton.AspNetCore.Common@8.1.0.554
 - pkg:nuget/Heliton.AspNetCore.Common@8.1.0.556
+- pkg:nuget/Heliton.AspNetCore.Common@8.1.0.557
+- pkg:nuget/Heliton.AspNetCore.Common@8.1.0.558
 - pkg:nuget/Heliton.AspNetCore.Common@8.1.0.83
 - pkg:nuget/Heliton.AspNetCore.Common@8.1.0.84
