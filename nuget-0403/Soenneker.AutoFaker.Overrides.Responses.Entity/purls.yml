@@ -127,3 +127,4 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Responses.Entity@4.0.223
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Responses.Entity@4.0.245
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Responses.Entity@4.0.252
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Responses.Entity@4.0.257
