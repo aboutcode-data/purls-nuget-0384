@@ -1,1 +1,2 @@
 - pkg:nuget/ToolUp.Platform.Transport@0.24.1
+- pkg:nuget/ToolUp.Platform.Transport@0.26.0
