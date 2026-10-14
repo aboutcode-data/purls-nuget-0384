@@ -17,3 +17,4 @@
 - pkg:nuget/Microsoft.Spark.Extensions.Delta@2.1.1
 - pkg:nuget/Microsoft.Spark.Extensions.Delta@2.3.0
 - pkg:nuget/Microsoft.Spark.Extensions.Delta@2.3.0-rc1
+- pkg:nuget/Microsoft.Spark.Extensions.Delta@2.4.0
