@@ -39,3 +39,4 @@
 - pkg:nuget/FluentCommand.Caching@15.4.5
 - pkg:nuget/FluentCommand.Caching@15.5.0
 - pkg:nuget/FluentCommand.Caching@16.1.2
+- pkg:nuget/FluentCommand.Caching@16.1.5
