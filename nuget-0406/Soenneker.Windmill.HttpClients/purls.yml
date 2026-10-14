@@ -3,6 +3,8 @@
 - pkg:nuget/Soenneker.Windmill.HttpClients@4.0.134
 - pkg:nuget/Soenneker.Windmill.HttpClients@4.0.135
 - pkg:nuget/Soenneker.Windmill.HttpClients@4.0.144
+- pkg:nuget/Soenneker.Windmill.HttpClients@4.0.152
+- pkg:nuget/Soenneker.Windmill.HttpClients@4.0.154
 - pkg:nuget/Soenneker.Windmill.HttpClients@4.0.19
 - pkg:nuget/Soenneker.Windmill.HttpClients@4.0.22
 - pkg:nuget/Soenneker.Windmill.HttpClients@4.0.23
