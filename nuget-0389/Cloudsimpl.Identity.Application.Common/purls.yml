@@ -16,3 +16,4 @@
 - pkg:nuget/Cloudsimpl.Identity.Application.Common@4.0.24
 - pkg:nuget/Cloudsimpl.Identity.Application.Common@4.0.25
 - pkg:nuget/Cloudsimpl.Identity.Application.Common@4.0.26
+- pkg:nuget/Cloudsimpl.Identity.Application.Common@4.0.28
