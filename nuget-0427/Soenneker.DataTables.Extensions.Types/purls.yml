@@ -16,6 +16,8 @@
 - pkg:nuget/Soenneker.DataTables.Extensions.Types@3.0.7
 - pkg:nuget/Soenneker.DataTables.Extensions.Types@3.0.8
 - pkg:nuget/Soenneker.DataTables.Extensions.Types@3.0.9
+- pkg:nuget/Soenneker.DataTables.Extensions.Types@4.0.102
+- pkg:nuget/Soenneker.DataTables.Extensions.Types@4.0.111
 - pkg:nuget/Soenneker.DataTables.Extensions.Types@4.0.24
 - pkg:nuget/Soenneker.DataTables.Extensions.Types@4.0.27
 - pkg:nuget/Soenneker.DataTables.Extensions.Types@4.0.35
