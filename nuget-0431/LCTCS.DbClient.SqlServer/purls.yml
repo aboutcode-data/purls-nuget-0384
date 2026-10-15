@@ -38,3 +38,4 @@
 - pkg:nuget/LCTCS.DbClient.SqlServer@1.1.205
 - pkg:nuget/LCTCS.DbClient.SqlServer@1.1.206
 - pkg:nuget/LCTCS.DbClient.SqlServer@1.1.207
+- pkg:nuget/LCTCS.DbClient.SqlServer@1.1.208
