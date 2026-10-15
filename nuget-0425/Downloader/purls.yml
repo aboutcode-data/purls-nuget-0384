@@ -82,3 +82,4 @@
 - pkg:nuget/Downloader@4.0.1-beta
 - pkg:nuget/Downloader@4.0.2
 - pkg:nuget/Downloader@4.0.3
+- pkg:nuget/Downloader@5.10.1
