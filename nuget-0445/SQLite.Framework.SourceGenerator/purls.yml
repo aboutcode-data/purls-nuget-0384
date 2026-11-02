@@ -1,1 +1,6 @@
 - pkg:nuget/SQLite.Framework.SourceGenerator@5.0.1
+- pkg:nuget/SQLite.Framework.SourceGenerator@7.0.0-preview.15
+- pkg:nuget/SQLite.Framework.SourceGenerator@7.0.0-preview.7
+- pkg:nuget/SQLite.Framework.SourceGenerator@7.0.0-preview.9
+- pkg:nuget/SQLite.Framework.SourceGenerator@7.0.1
+- pkg:nuget/SQLite.Framework.SourceGenerator@7.1.0
