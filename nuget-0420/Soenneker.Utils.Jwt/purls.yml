@@ -162,6 +162,7 @@
 - pkg:nuget/Soenneker.Utils.Jwt@1.0.97
 - pkg:nuget/Soenneker.Utils.Jwt@1.0.98
 - pkg:nuget/Soenneker.Utils.Jwt@1.0.99
+- pkg:nuget/Soenneker.Utils.Jwt@11.0.1537
 - pkg:nuget/Soenneker.Utils.Jwt@2.0.1
 - pkg:nuget/Soenneker.Utils.Jwt@2.0.165
 - pkg:nuget/Soenneker.Utils.Jwt@2.0.166
