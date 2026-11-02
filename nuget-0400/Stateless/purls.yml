@@ -206,3 +206,5 @@
 - pkg:nuget/Stateless@5.19.0
 - pkg:nuget/Stateless@5.19.0-dev-17157499513
 - pkg:nuget/Stateless@5.20.1
+- pkg:nuget/Stateless@5.20.1-dev-41074904743
+- pkg:nuget/Stateless@5.20.1-dev-41076115987
