@@ -87,6 +87,8 @@
 - pkg:nuget/uSync.Community.Contrib@16.0.3
 - pkg:nuget/uSync.Community.Contrib@16.0.4
 - pkg:nuget/uSync.Community.Contrib@17.0.1
+- pkg:nuget/uSync.Community.Contrib@18.2.0
+- pkg:nuget/uSync.Community.Contrib@19.0.0-beta01
 - pkg:nuget/uSync.Community.Contrib@8.10.0
 - pkg:nuget/uSync.Community.Contrib@8.10.1
 - pkg:nuget/uSync.Community.Contrib@8.10.2
