@@ -145,6 +145,7 @@
 - pkg:nuget/Soenneker.Messages.Base@1.0.97
 - pkg:nuget/Soenneker.Messages.Base@1.0.98
 - pkg:nuget/Soenneker.Messages.Base@1.0.99
+- pkg:nuget/Soenneker.Messages.Base@11.0.1224
 - pkg:nuget/Soenneker.Messages.Base@2.0.1
 - pkg:nuget/Soenneker.Messages.Base@2.0.148
 - pkg:nuget/Soenneker.Messages.Base@2.0.149
