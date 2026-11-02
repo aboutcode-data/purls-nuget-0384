@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Json.Converters.AbbreviatedSmartEnum@11.0.355
+- pkg:nuget/Soenneker.Json.Converters.AbbreviatedSmartEnum@11.0.358
 - pkg:nuget/Soenneker.Json.Converters.AbbreviatedSmartEnum@3.0.1
 - pkg:nuget/Soenneker.Json.Converters.AbbreviatedSmartEnum@3.0.10
 - pkg:nuget/Soenneker.Json.Converters.AbbreviatedSmartEnum@3.0.100
