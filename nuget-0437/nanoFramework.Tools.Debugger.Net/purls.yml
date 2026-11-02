@@ -187,3 +187,5 @@
 - pkg:nuget/nanoFramework.Tools.Debugger.Net@2.5.8
 - pkg:nuget/nanoFramework.Tools.Debugger.Net@3.0.0-preview.1
 - pkg:nuget/nanoFramework.Tools.Debugger.Net@3.0.0-preview.19
+- pkg:nuget/nanoFramework.Tools.Debugger.Net@3.0.0-preview.29
+- pkg:nuget/nanoFramework.Tools.Debugger.Net@3.0.0-preview.30
