@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Python.Utils.File@11.0.800
+- pkg:nuget/Soenneker.Python.Utils.File@11.0.806
 - pkg:nuget/Soenneker.Python.Utils.File@3.0.1
 - pkg:nuget/Soenneker.Python.Utils.File@3.0.10
 - pkg:nuget/Soenneker.Python.Utils.File@3.0.100
