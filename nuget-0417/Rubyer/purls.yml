@@ -172,6 +172,7 @@
 - pkg:nuget/Rubyer@2.18.8
 - pkg:nuget/Rubyer@2.19.15
 - pkg:nuget/Rubyer@2.19.26
+- pkg:nuget/Rubyer@2.19.34
 - pkg:nuget/Rubyer@2.2.0
 - pkg:nuget/Rubyer@2.2.1
 - pkg:nuget/Rubyer@2.2.10
