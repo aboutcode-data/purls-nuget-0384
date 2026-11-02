@@ -32,6 +32,8 @@
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@1.8.1
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@1.8.2
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@1.8.5
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@10.0.0
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@11.4.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@2.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@2.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Shared.Demo@2.2.1
