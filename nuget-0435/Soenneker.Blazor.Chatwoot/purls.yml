@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Blazor.Chatwoot@11.0.1055
+- pkg:nuget/Soenneker.Blazor.Chatwoot@11.0.1057
+- pkg:nuget/Soenneker.Blazor.Chatwoot@11.0.1065
+- pkg:nuget/Soenneker.Blazor.Chatwoot@11.0.1066
 - pkg:nuget/Soenneker.Blazor.Chatwoot@3.0.1
 - pkg:nuget/Soenneker.Blazor.Chatwoot@3.0.10
 - pkg:nuget/Soenneker.Blazor.Chatwoot@3.0.101
@@ -281,6 +285,12 @@
 - pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1003
 - pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1005
 - pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1007
+- pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1021
+- pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1024
+- pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1027
+- pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1042
+- pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1046
+- pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.1047
 - pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.316
 - pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.338
 - pkg:nuget/Soenneker.Blazor.Chatwoot@4.0.339
