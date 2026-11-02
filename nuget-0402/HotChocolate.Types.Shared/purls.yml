@@ -247,6 +247,7 @@
 - pkg:nuget/HotChocolate.Types.Shared@14.3.0
 - pkg:nuget/HotChocolate.Types.Shared@14.3.0-p.1
 - pkg:nuget/HotChocolate.Types.Shared@14.3.0-p.2
+- pkg:nuget/HotChocolate.Types.Shared@14.3.3
 - pkg:nuget/HotChocolate.Types.Shared@14.4.0-p.1
 - pkg:nuget/HotChocolate.Types.Shared@14.4.0-p.10
 - pkg:nuget/HotChocolate.Types.Shared@14.4.0-p.2
