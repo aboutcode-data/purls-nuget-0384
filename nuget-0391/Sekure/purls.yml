@@ -63,3 +63,5 @@
 - pkg:nuget/Sekure@3.1.7
 - pkg:nuget/Sekure@3.2.6
 - pkg:nuget/Sekure@3.3.3
+- pkg:nuget/Sekure@3.3.6
+- pkg:nuget/Sekure@3.3.8
