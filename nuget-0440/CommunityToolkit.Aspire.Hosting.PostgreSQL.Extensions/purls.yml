@@ -6,6 +6,8 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@13.4.0-beta.671
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@13.5.1-beta.763
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@13.5.1-beta.895
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@13.6.1-beta.935
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@9.1.1-beta.168
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@9.1.1-beta.169
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions@9.1.1-beta.173
