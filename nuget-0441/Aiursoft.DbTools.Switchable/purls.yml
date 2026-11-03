@@ -1,5 +1,7 @@
 - pkg:nuget/Aiursoft.DbTools.Switchable@10.0.17
 - pkg:nuget/Aiursoft.DbTools.Switchable@10.0.23
+- pkg:nuget/Aiursoft.DbTools.Switchable@10.0.26
+- pkg:nuget/Aiursoft.DbTools.Switchable@10.0.27
 - pkg:nuget/Aiursoft.DbTools.Switchable@8.0.0
 - pkg:nuget/Aiursoft.DbTools.Switchable@8.0.1
 - pkg:nuget/Aiursoft.DbTools.Switchable@8.0.10
