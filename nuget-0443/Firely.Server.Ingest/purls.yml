@@ -27,6 +27,7 @@
 - pkg:nuget/Firely.Server.Ingest@5.9.1
 - pkg:nuget/Firely.Server.Ingest@6.0.0
 - pkg:nuget/Firely.Server.Ingest@6.1.0
+- pkg:nuget/Firely.Server.Ingest@6.11.0
 - pkg:nuget/Firely.Server.Ingest@6.2.0
 - pkg:nuget/Firely.Server.Ingest@6.3.0
 - pkg:nuget/Firely.Server.Ingest@6.3.1
