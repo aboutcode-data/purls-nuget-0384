@@ -66,6 +66,9 @@
 - pkg:nuget/Corner49.Infra@10.0.136
 - pkg:nuget/Corner49.Infra@10.0.139
 - pkg:nuget/Corner49.Infra@10.0.154
+- pkg:nuget/Corner49.Infra@10.0.159
+- pkg:nuget/Corner49.Infra@10.0.161
+- pkg:nuget/Corner49.Infra@10.0.165
 - pkg:nuget/Corner49.Infra@2.0.4041
 - pkg:nuget/Corner49.Infra@2.0.4043
 - pkg:nuget/Corner49.Infra@9.1.4056
