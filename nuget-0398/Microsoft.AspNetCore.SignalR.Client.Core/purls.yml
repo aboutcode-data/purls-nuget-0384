@@ -208,6 +208,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.23
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.29
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.3
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.33
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.4
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.5
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@8.0.6
@@ -230,6 +231,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.20
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.21
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.22
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.4
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Client.Core@9.0.5
