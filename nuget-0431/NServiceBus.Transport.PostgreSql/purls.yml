@@ -6,3 +6,4 @@
 - pkg:nuget/NServiceBus.Transport.PostgreSql@8.1.7
 - pkg:nuget/NServiceBus.Transport.PostgreSql@8.1.8
 - pkg:nuget/NServiceBus.Transport.PostgreSql@8.1.9
+- pkg:nuget/NServiceBus.Transport.PostgreSql@9.1.1
