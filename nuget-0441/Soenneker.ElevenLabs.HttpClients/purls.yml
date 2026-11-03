@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.ElevenLabs.HttpClients@11.0.160
+- pkg:nuget/Soenneker.ElevenLabs.HttpClients@11.0.166
 - pkg:nuget/Soenneker.ElevenLabs.HttpClients@4.0.108
 - pkg:nuget/Soenneker.ElevenLabs.HttpClients@4.0.113
 - pkg:nuget/Soenneker.ElevenLabs.HttpClients@4.0.115

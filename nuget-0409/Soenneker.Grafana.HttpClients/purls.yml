@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Grafana.HttpClients@11.0.154
+- pkg:nuget/Soenneker.Grafana.HttpClients@11.0.156
+- pkg:nuget/Soenneker.Grafana.HttpClients@11.0.159
 - pkg:nuget/Soenneker.Grafana.HttpClients@4.0.106
 - pkg:nuget/Soenneker.Grafana.HttpClients@4.0.116
 - pkg:nuget/Soenneker.Grafana.HttpClients@4.0.117
