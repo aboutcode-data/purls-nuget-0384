@@ -1,4 +1,7 @@
 - pkg:nuget/Soenneker.Google.IndexingService@11.0.2426
+- pkg:nuget/Soenneker.Google.IndexingService@11.0.2428
+- pkg:nuget/Soenneker.Google.IndexingService@11.0.2429
+- pkg:nuget/Soenneker.Google.IndexingService@11.0.2431
 - pkg:nuget/Soenneker.Google.IndexingService@2.1.1
 - pkg:nuget/Soenneker.Google.IndexingService@2.1.10
 - pkg:nuget/Soenneker.Google.IndexingService@2.1.100
