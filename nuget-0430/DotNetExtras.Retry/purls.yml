@@ -2,3 +2,6 @@
 - pkg:nuget/DotNetExtras.Retry@1.0.1
 - pkg:nuget/DotNetExtras.Retry@1.0.2
 - pkg:nuget/DotNetExtras.Retry@1.0.3
+- pkg:nuget/DotNetExtras.Retry@1.0.7
+- pkg:nuget/DotNetExtras.Retry@1.1.0
+- pkg:nuget/DotNetExtras.Retry@1.1.1
