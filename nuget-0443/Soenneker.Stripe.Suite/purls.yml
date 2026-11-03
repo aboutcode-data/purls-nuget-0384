@@ -5,6 +5,8 @@
 - pkg:nuget/Soenneker.Stripe.Suite@11.0.3231
 - pkg:nuget/Soenneker.Stripe.Suite@11.0.3237
 - pkg:nuget/Soenneker.Stripe.Suite@11.0.3238
+- pkg:nuget/Soenneker.Stripe.Suite@11.0.3259
+- pkg:nuget/Soenneker.Stripe.Suite@11.0.3260
 - pkg:nuget/Soenneker.Stripe.Suite@3.0.1
 - pkg:nuget/Soenneker.Stripe.Suite@3.0.10
 - pkg:nuget/Soenneker.Stripe.Suite@3.0.100
