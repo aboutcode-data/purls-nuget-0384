@@ -17,3 +17,5 @@
 - pkg:nuget/ISul.Data.Core@2025.7.1
 - pkg:nuget/ISul.Data.Core@2025.7.2.1
 - pkg:nuget/ISul.Data.Core@2025.7.22.2
+- pkg:nuget/ISul.Data.Core@2026.6.2.1
+- pkg:nuget/ISul.Data.Core@2026.9.15.1
