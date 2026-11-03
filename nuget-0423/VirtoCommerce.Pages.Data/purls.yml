@@ -1,6 +1,7 @@
 - pkg:nuget/VirtoCommerce.Pages.Data@3.1002.0
 - pkg:nuget/VirtoCommerce.Pages.Data@3.1002.1
 - pkg:nuget/VirtoCommerce.Pages.Data@3.1003.0
+- pkg:nuget/VirtoCommerce.Pages.Data@3.1011.0-alpha.88-vcst-4935
 - pkg:nuget/VirtoCommerce.Pages.Data@3.800.0
 - pkg:nuget/VirtoCommerce.Pages.Data@3.800.0-alpha.10-vcst-2012
 - pkg:nuget/VirtoCommerce.Pages.Data@3.800.0-alpha.13-vcst-2012
