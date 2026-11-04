@@ -384,3 +384,4 @@
 - pkg:nuget/Titanium.Web.Proxy@6.0.2-beta
 - pkg:nuget/Titanium.Web.Proxy@7.0.24
 - pkg:nuget/Titanium.Web.Proxy@7.0.3-beta
+- pkg:nuget/Titanium.Web.Proxy@8.0.0-beta
