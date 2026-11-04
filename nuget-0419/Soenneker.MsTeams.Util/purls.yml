@@ -6,6 +6,8 @@
 - pkg:nuget/Soenneker.MsTeams.Util@11.0.1332
 - pkg:nuget/Soenneker.MsTeams.Util@11.0.1335
 - pkg:nuget/Soenneker.MsTeams.Util@11.0.1336
+- pkg:nuget/Soenneker.MsTeams.Util@11.0.1340
+- pkg:nuget/Soenneker.MsTeams.Util@11.0.1342
 - pkg:nuget/Soenneker.MsTeams.Util@3.0.1
 - pkg:nuget/Soenneker.MsTeams.Util@3.0.10
 - pkg:nuget/Soenneker.MsTeams.Util@3.0.100
