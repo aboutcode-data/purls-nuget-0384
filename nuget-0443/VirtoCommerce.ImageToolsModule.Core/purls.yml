@@ -16,6 +16,7 @@
 - pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.10.0
 - pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.10.0-alpha.196
 - pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.10.0-alpha.198
+- pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.1006.1
 - pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.11.0
 - pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.11.0-alpha.199
 - pkg:nuget/VirtoCommerce.ImageToolsModule.Core@3.11.0-alpha.200
