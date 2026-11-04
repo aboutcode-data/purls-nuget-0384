@@ -9,3 +9,4 @@
 - pkg:nuget/SoloX.CodeQuality.WebHost@2.3.4
 - pkg:nuget/SoloX.CodeQuality.WebHost@2.3.5
 - pkg:nuget/SoloX.CodeQuality.WebHost@2.3.6
+- pkg:nuget/SoloX.CodeQuality.WebHost@3.0.1
