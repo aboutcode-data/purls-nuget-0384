@@ -25,3 +25,5 @@
 - pkg:nuget/RxBim.AutocadTests.TestingUtils.2019@1.2.6-dev003
 - pkg:nuget/RxBim.AutocadTests.TestingUtils.2019@1.2.7-dev003
 - pkg:nuget/RxBim.AutocadTests.TestingUtils.2019@1.2.7-dev005
+- pkg:nuget/RxBim.AutocadTests.TestingUtils.2019@1.2.7-dev007
+- pkg:nuget/RxBim.AutocadTests.TestingUtils.2019@1.2.7-rc001
