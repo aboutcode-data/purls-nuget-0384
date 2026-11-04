@@ -35,3 +35,4 @@
 - pkg:nuget/Monq.Core.ClickHouseBuffer@3.0.1-rev-16168692394
 - pkg:nuget/Monq.Core.ClickHouseBuffer@3.1.1
 - pkg:nuget/Monq.Core.ClickHouseBuffer@3.1.1-rev-20482738273
+- pkg:nuget/Monq.Core.ClickHouseBuffer@3.1.3
