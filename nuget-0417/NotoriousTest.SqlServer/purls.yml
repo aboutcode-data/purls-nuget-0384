@@ -19,3 +19,4 @@
 - pkg:nuget/NotoriousTest.SqlServer@5.0.0-beta.157
 - pkg:nuget/NotoriousTest.SqlServer@5.0.0-beta.169
 - pkg:nuget/NotoriousTest.SqlServer@5.1.0-beta.187
+- pkg:nuget/NotoriousTest.SqlServer@6.1.0
