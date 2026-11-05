@@ -39,3 +39,4 @@
 - pkg:nuget/TagBites.DB.Postgres@1.0.7
 - pkg:nuget/TagBites.DB.Postgres@1.0.8
 - pkg:nuget/TagBites.DB.Postgres@1.0.9
+- pkg:nuget/TagBites.DB.Postgres@1.1.1
