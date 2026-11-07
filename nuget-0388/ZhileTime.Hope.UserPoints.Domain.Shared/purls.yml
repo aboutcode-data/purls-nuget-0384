@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.UserPoints.Domain.Shared@11.3.0
+- pkg:nuget/ZhileTime.Hope.UserPoints.Domain.Shared@11.5.1
 - pkg:nuget/ZhileTime.Hope.UserPoints.Domain.Shared@2.7.0
 - pkg:nuget/ZhileTime.Hope.UserPoints.Domain.Shared@2.7.2
 - pkg:nuget/ZhileTime.Hope.UserPoints.Domain.Shared@3.0.0
