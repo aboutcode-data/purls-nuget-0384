@@ -943,6 +943,7 @@
 - pkg:nuget/Uno.WinUI.Graphics2DSK@6.8.0-dev.3
 - pkg:nuget/Uno.WinUI.Graphics2DSK@6.8.0-dev.339
 - pkg:nuget/Uno.WinUI.Graphics2DSK@6.8.0-dev.364
+- pkg:nuget/Uno.WinUI.Graphics2DSK@6.8.0-dev.393
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.0.0-dev.1254
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.0.0-dev.1447
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.0.0-dev.1455
@@ -995,6 +996,9 @@
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.0.0-dev.713
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.0.0-dev.722
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.0.0-dev.966
+- pkg:nuget/Uno.WinUI.Graphics2DSK@7.1.0-dev.108
+- pkg:nuget/Uno.WinUI.Graphics2DSK@7.1.0-dev.109
+- pkg:nuget/Uno.WinUI.Graphics2DSK@7.1.0-dev.110
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.1.0-dev.19
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.1.0-dev.27
 - pkg:nuget/Uno.WinUI.Graphics2DSK@7.1.0-dev.28
