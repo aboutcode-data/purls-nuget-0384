@@ -10,6 +10,8 @@
 - pkg:nuget/TianWen.Devices.Native@10.0.36791%2B1f87ce18e5d43ce86fb0731e2d1114ec86918f72
 - pkg:nuget/TianWen.Devices.Native@10.0.37031%2Bd41ca3a6863d2ab6c54f047a027c1ec4b491534d
 - pkg:nuget/TianWen.Devices.Native@10.0.38491%2B21453bc3c3a37a28592298757c8e3564bc4aed37
+- pkg:nuget/TianWen.Devices.Native@10.0.39001%2B20a1a2c21b97f85977b79bfdffb9caf30724c194
+- pkg:nuget/TianWen.Devices.Native@10.0.39021%2B5d4ce53014f5b80bc9c82e40db667374021e03e5
 - pkg:nuget/TianWen.Devices.Native@9.0.20141%2Bc845600941fde6b46565b2e0e26c46ec516a4a58
 - pkg:nuget/TianWen.Devices.Native@9.0.20151%2B822dd0c8bef041e5749531e15fac998a58aa5f73
 - pkg:nuget/TianWen.Devices.Native@9.0.20271%2Ba530548b940bc82eb70c4c5a540427b92f66aa08
