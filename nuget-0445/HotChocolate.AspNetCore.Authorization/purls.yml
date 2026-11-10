@@ -1641,6 +1641,7 @@
 - pkg:nuget/HotChocolate.AspNetCore.Authorization@16.7.0-p.36
 - pkg:nuget/HotChocolate.AspNetCore.Authorization@16.7.0-p.38
 - pkg:nuget/HotChocolate.AspNetCore.Authorization@16.7.0-p.39
+- pkg:nuget/HotChocolate.AspNetCore.Authorization@16.7.4
 - pkg:nuget/HotChocolate.AspNetCore.Authorization@16.8.0-p.4
 - pkg:nuget/HotChocolate.AspNetCore.Authorization@16.8.0-p.8
 - pkg:nuget/HotChocolate.AspNetCore.Authorization@16.8.0-p.9
