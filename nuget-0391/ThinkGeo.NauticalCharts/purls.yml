@@ -1120,3 +1120,4 @@
 - pkg:nuget/ThinkGeo.NauticalCharts@15.0.0-beta246
 - pkg:nuget/ThinkGeo.NauticalCharts@15.0.0-beta256
 - pkg:nuget/ThinkGeo.NauticalCharts@15.0.0-beta260
+- pkg:nuget/ThinkGeo.NauticalCharts@15.1.0-beta002
