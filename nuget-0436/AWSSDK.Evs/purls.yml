@@ -87,6 +87,7 @@
 - pkg:nuget/AWSSDK.Evs@4.0.100.8
 - pkg:nuget/AWSSDK.Evs@4.0.102.7
 - pkg:nuget/AWSSDK.Evs@4.0.102.9
+- pkg:nuget/AWSSDK.Evs@4.0.103
 - pkg:nuget/AWSSDK.Evs@4.0.2
 - pkg:nuget/AWSSDK.Evs@4.0.2.1
 - pkg:nuget/AWSSDK.Evs@4.0.3
