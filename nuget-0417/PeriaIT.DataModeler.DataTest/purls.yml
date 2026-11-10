@@ -137,3 +137,5 @@
 - pkg:nuget/PeriaIT.DataModeler.DataTest@1.4.89
 - pkg:nuget/PeriaIT.DataModeler.DataTest@1.5.2
 - pkg:nuget/PeriaIT.DataModeler.DataTest@1.5.5
+- pkg:nuget/PeriaIT.DataModeler.DataTest@1.6.34
+- pkg:nuget/PeriaIT.DataModeler.DataTest@1.6.35
