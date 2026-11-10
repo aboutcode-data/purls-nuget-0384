@@ -1,2 +1,4 @@
 - pkg:nuget/OfficeIMO@0.1.0
 - pkg:nuget/OfficeIMO@0.1.2
+- pkg:nuget/OfficeIMO@3.6.0
+- pkg:nuget/OfficeIMO@3.6.1
