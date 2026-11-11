@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Google.Ads.Client@11.0.716
 - pkg:nuget/Soenneker.Google.Ads.Client@11.0.717
 - pkg:nuget/Soenneker.Google.Ads.Client@11.0.723
+- pkg:nuget/Soenneker.Google.Ads.Client@11.0.725
 - pkg:nuget/Soenneker.Google.Ads.Client@3.0.1
 - pkg:nuget/Soenneker.Google.Ads.Client@3.0.10
 - pkg:nuget/Soenneker.Google.Ads.Client@3.0.100

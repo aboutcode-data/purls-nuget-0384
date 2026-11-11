@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Extensions.String.Html@11.0.980
 - pkg:nuget/Soenneker.Extensions.String.Html@11.0.988
 - pkg:nuget/Soenneker.Extensions.String.Html@11.0.994
+- pkg:nuget/Soenneker.Extensions.String.Html@11.0.999
 - pkg:nuget/Soenneker.Extensions.String.Html@2.1.1
 - pkg:nuget/Soenneker.Extensions.String.Html@2.1.10
 - pkg:nuget/Soenneker.Extensions.String.Html@2.1.100
