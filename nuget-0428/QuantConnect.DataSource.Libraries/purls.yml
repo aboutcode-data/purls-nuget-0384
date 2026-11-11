@@ -152,3 +152,4 @@
 - pkg:nuget/QuantConnect.DataSource.Libraries@2.5.17677
 - pkg:nuget/QuantConnect.DataSource.Libraries@2.5.17757
 - pkg:nuget/QuantConnect.DataSource.Libraries@2.5.17843
+- pkg:nuget/QuantConnect.DataSource.Libraries@2.5.18247
