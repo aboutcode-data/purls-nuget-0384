@@ -71,3 +71,4 @@
 - pkg:nuget/Microsoft.VisualStudio.ImageCatalog@17.7.37355
 - pkg:nuget/Microsoft.VisualStudio.ImageCatalog@17.8.37221
 - pkg:nuget/Microsoft.VisualStudio.ImageCatalog@17.9.37000
+- pkg:nuget/Microsoft.VisualStudio.ImageCatalog@18.12.1603
