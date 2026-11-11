@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.SignalR.Web.Clients@11.0.1549
+- pkg:nuget/Soenneker.SignalR.Web.Clients@11.0.1551
 - pkg:nuget/Soenneker.SignalR.Web.Clients@2.1.1
 - pkg:nuget/Soenneker.SignalR.Web.Clients@2.1.100
 - pkg:nuget/Soenneker.SignalR.Web.Clients@2.1.101
