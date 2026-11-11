@@ -283,6 +283,7 @@
 - pkg:nuget/Soenneker.Queue.Client@11.0.3175
 - pkg:nuget/Soenneker.Queue.Client@11.0.3179
 - pkg:nuget/Soenneker.Queue.Client@11.0.3182
+- pkg:nuget/Soenneker.Queue.Client@11.0.3183
 - pkg:nuget/Soenneker.Queue.Client@2.0.1
 - pkg:nuget/Soenneker.Queue.Client@2.0.2
 - pkg:nuget/Soenneker.Queue.Client@2.0.282
