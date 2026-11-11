@@ -28,4 +28,5 @@
 - pkg:nuget/ktsu.ForceDirectedLayout@3.77.2
 - pkg:nuget/ktsu.ForceDirectedLayout@3.78.0
 - pkg:nuget/ktsu.ForceDirectedLayout@3.79.0
+- pkg:nuget/ktsu.ForceDirectedLayout@3.80.0
 - pkg:nuget/ktsu.ForceDirectedLayout@3.9.0
