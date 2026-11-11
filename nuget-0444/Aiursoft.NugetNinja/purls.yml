@@ -33,6 +33,8 @@
 - pkg:nuget/Aiursoft.NugetNinja@10.0.56
 - pkg:nuget/Aiursoft.NugetNinja@10.0.57
 - pkg:nuget/Aiursoft.NugetNinja@10.0.60
+- pkg:nuget/Aiursoft.NugetNinja@10.0.67
+- pkg:nuget/Aiursoft.NugetNinja@10.0.69
 - pkg:nuget/Aiursoft.NugetNinja@7.0.0
 - pkg:nuget/Aiursoft.NugetNinja@7.0.1
 - pkg:nuget/Aiursoft.NugetNinja@7.0.10
