@@ -28,6 +28,7 @@
 - pkg:nuget/Microsoft.ServiceHub.Analyzers@4.1.3100
 - pkg:nuget/Microsoft.ServiceHub.Analyzers@4.1.3102
 - pkg:nuget/Microsoft.ServiceHub.Analyzers@4.1.6
+- pkg:nuget/Microsoft.ServiceHub.Analyzers@4.11.183
 - pkg:nuget/Microsoft.ServiceHub.Analyzers@4.2.102
 - pkg:nuget/Microsoft.ServiceHub.Analyzers@4.2.74-beta
 - pkg:nuget/Microsoft.ServiceHub.Analyzers@4.2.99-beta
