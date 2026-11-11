@@ -22,3 +22,4 @@
 - pkg:nuget/Leistd.ServiceClient.AspNetCore@2.0.0-beta.167
 - pkg:nuget/Leistd.ServiceClient.AspNetCore@2.0.0-beta.297
 - pkg:nuget/Leistd.ServiceClient.AspNetCore@2.0.0-beta.304
+- pkg:nuget/Leistd.ServiceClient.AspNetCore@2.0.0-beta.320
