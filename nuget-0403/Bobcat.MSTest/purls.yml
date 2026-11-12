@@ -1,0 +1,4 @@
+- pkg:nuget/Bobcat.MSTest@0.39.0
+- pkg:nuget/Bobcat.MSTest@0.41.0
+- pkg:nuget/Bobcat.MSTest@1.0.0
+- pkg:nuget/Bobcat.MSTest@1.0.3
