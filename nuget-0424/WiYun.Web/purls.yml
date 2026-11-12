@@ -116,7 +116,10 @@
 - pkg:nuget/WiYun.Web@7.1.305
 - pkg:nuget/WiYun.Web@7.1.318
 - pkg:nuget/WiYun.Web@7.1.323
+- pkg:nuget/WiYun.Web@7.1.327
 - pkg:nuget/WiYun.Web@7.1.330
+- pkg:nuget/WiYun.Web@7.1.336
+- pkg:nuget/WiYun.Web@7.1.337
 - pkg:nuget/WiYun.Web@7.1.35
 - pkg:nuget/WiYun.Web@7.1.36
 - pkg:nuget/WiYun.Web@7.1.38
