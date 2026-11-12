@@ -15,4 +15,6 @@
 - pkg:nuget/Our.Umbraco.PostgreSql@17.3.0.1
 - pkg:nuget/Our.Umbraco.PostgreSql@17.4.0-rc
 - pkg:nuget/Our.Umbraco.PostgreSql@17.4.0-rc8
+- pkg:nuget/Our.Umbraco.PostgreSql@17.8.0-rc
 - pkg:nuget/Our.Umbraco.PostgreSql@18.1.0
+- pkg:nuget/Our.Umbraco.PostgreSql@18.3.0-rc
