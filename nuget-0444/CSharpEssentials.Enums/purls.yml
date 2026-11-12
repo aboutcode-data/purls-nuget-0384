@@ -14,3 +14,6 @@
 - pkg:nuget/CSharpEssentials.Enums@5.2.0
 - pkg:nuget/CSharpEssentials.Enums@5.2.1
 - pkg:nuget/CSharpEssentials.Enums@6.0.0
+- pkg:nuget/CSharpEssentials.Enums@6.3.0
+- pkg:nuget/CSharpEssentials.Enums@6.5.0
+- pkg:nuget/CSharpEssentials.Enums@7.0.0

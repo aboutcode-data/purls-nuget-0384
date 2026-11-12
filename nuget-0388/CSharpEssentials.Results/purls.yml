@@ -10,3 +10,9 @@
 - pkg:nuget/CSharpEssentials.Results@2.0.9
 - pkg:nuget/CSharpEssentials.Results@3.0.7
 - pkg:nuget/CSharpEssentials.Results@3.1.0
+- pkg:nuget/CSharpEssentials.Results@4.1.0
+- pkg:nuget/CSharpEssentials.Results@5.2.1
+- pkg:nuget/CSharpEssentials.Results@6.0.0
+- pkg:nuget/CSharpEssentials.Results@6.3.0
+- pkg:nuget/CSharpEssentials.Results@6.5.0
+- pkg:nuget/CSharpEssentials.Results@7.0.0
