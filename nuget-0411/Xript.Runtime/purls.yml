@@ -1,1 +1,3 @@
+- pkg:nuget/Xript.Runtime@0.10.0
 - pkg:nuget/Xript.Runtime@0.4.1
+- pkg:nuget/Xript.Runtime@0.5.0
