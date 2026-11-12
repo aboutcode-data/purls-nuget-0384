@@ -55,3 +55,4 @@
 - pkg:nuget/ModernUO.Serialization.Generator@3.0.0
 - pkg:nuget/ModernUO.Serialization.Generator@4.2.0
 - pkg:nuget/ModernUO.Serialization.Generator@4.3.0
+- pkg:nuget/ModernUO.Serialization.Generator@4.4.0
