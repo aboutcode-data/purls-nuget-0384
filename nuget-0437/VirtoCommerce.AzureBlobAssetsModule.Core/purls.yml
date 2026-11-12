@@ -13,6 +13,7 @@
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.1000.2
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.1002.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.1006.1
+- pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.1010.0-alpha.201-vcst-service-principal-connection
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.200.0
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.200.0-alpha.22
 - pkg:nuget/VirtoCommerce.AzureBlobAssetsModule.Core@3.200.1
