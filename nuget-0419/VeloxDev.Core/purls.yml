@@ -63,6 +63,9 @@
 - pkg:nuget/VeloxDev.Core@1.8.500-preview
 - pkg:nuget/VeloxDev.Core@1.8.723-preview
 - pkg:nuget/VeloxDev.Core@1.8.730-preview
+- pkg:nuget/VeloxDev.Core@10.0.1
+- pkg:nuget/VeloxDev.Core@10.1.0
+- pkg:nuget/VeloxDev.Core@11.2.0
 - pkg:nuget/VeloxDev.Core@2.0.0
 - pkg:nuget/VeloxDev.Core@2.0.0-preview
 - pkg:nuget/VeloxDev.Core@2.0.0-rc.2
