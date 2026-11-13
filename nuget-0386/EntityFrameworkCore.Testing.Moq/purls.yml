@@ -22,6 +22,7 @@
 - pkg:nuget/EntityFrameworkCore.Testing.Moq@1.3.4
 - pkg:nuget/EntityFrameworkCore.Testing.Moq@1.3.5
 - pkg:nuget/EntityFrameworkCore.Testing.Moq@10.0.0-rc01
+- pkg:nuget/EntityFrameworkCore.Testing.Moq@11.0.0-rc01
 - pkg:nuget/EntityFrameworkCore.Testing.Moq@2.0.0
 - pkg:nuget/EntityFrameworkCore.Testing.Moq@2.0.1
 - pkg:nuget/EntityFrameworkCore.Testing.Moq@2.0.2
