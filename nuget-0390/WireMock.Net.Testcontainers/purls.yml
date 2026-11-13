@@ -98,3 +98,4 @@
 - pkg:nuget/WireMock.Net.Testcontainers@2.2.0
 - pkg:nuget/WireMock.Net.Testcontainers@2.20.0
 - pkg:nuget/WireMock.Net.Testcontainers@2.21.0
+- pkg:nuget/WireMock.Net.Testcontainers@2.31.0
