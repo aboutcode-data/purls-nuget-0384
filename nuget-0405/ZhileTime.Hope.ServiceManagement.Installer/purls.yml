@@ -1,6 +1,7 @@
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@1.8.5
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@11.1.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@11.4.0
+- pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@12.0.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@2.1.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@2.2.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.Installer@2.2.1
