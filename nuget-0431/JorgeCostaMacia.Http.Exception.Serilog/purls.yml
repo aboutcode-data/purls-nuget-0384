@@ -1,2 +1,3 @@
 - pkg:nuget/JorgeCostaMacia.Http.Exception.Serilog@2.1.0
 - pkg:nuget/JorgeCostaMacia.Http.Exception.Serilog@2.1.2
+- pkg:nuget/JorgeCostaMacia.Http.Exception.Serilog@4.0.0
