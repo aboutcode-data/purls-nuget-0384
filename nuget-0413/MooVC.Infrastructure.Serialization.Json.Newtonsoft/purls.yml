@@ -1,6 +1,7 @@
 - pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@1.0.0
 - pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@1.0.0-beta0001
 - pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@1.0.0-beta0008
+- pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@10.0.3
 - pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@2.0.0
 - pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@2.0.0-beta0002
 - pkg:nuget/MooVC.Infrastructure.Serialization.Json.Newtonsoft@3.0.0
