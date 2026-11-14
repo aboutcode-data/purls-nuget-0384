@@ -111,3 +111,5 @@
 - pkg:nuget/RivetBlazor@2025.7.1
 - pkg:nuget/RivetBlazor@2025.7.2
 - pkg:nuget/RivetBlazor@2025.7.7
+- pkg:nuget/RivetBlazor@2026.11.11
+- pkg:nuget/RivetBlazor@2026.11.11-beta4
