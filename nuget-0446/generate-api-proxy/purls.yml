@@ -1,4 +1,6 @@
 - pkg:nuget/generate-api-proxy@10.2.2
+- pkg:nuget/generate-api-proxy@10.4.0
+- pkg:nuget/generate-api-proxy@10.4.5
 - pkg:nuget/generate-api-proxy@2.0.100
 - pkg:nuget/generate-api-proxy@2.0.102
 - pkg:nuget/generate-api-proxy@2.0.103
