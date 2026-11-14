@@ -1,4 +1,5 @@
 - pkg:nuget/Aiursoft.AiurVersionControl@0.0.1
+- pkg:nuget/Aiursoft.AiurVersionControl@10.0.4
 - pkg:nuget/Aiursoft.AiurVersionControl@7.0.0
 - pkg:nuget/Aiursoft.AiurVersionControl@7.0.1
 - pkg:nuget/Aiursoft.AiurVersionControl@7.0.10

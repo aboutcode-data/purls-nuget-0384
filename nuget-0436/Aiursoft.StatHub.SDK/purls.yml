@@ -32,6 +32,9 @@
 - pkg:nuget/Aiursoft.StatHub.SDK@10.0.33
 - pkg:nuget/Aiursoft.StatHub.SDK@10.0.39
 - pkg:nuget/Aiursoft.StatHub.SDK@10.0.50
+- pkg:nuget/Aiursoft.StatHub.SDK@10.0.52
+- pkg:nuget/Aiursoft.StatHub.SDK@10.0.55
+- pkg:nuget/Aiursoft.StatHub.SDK@10.0.57
 - pkg:nuget/Aiursoft.StatHub.SDK@8.0.0
 - pkg:nuget/Aiursoft.StatHub.SDK@8.0.1
 - pkg:nuget/Aiursoft.StatHub.SDK@8.0.10
