@@ -11,3 +11,4 @@
 - pkg:nuget/MicroPlumberd.Services.Identity@1.0.126.2
 - pkg:nuget/MicroPlumberd.Services.Identity@1.0.126.3
 - pkg:nuget/MicroPlumberd.Services.Identity@1.1.4
+- pkg:nuget/MicroPlumberd.Services.Identity@1.3.6
