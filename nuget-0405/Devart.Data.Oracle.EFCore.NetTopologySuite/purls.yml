@@ -44,6 +44,12 @@
 - pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.0.0.7
 - pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.0.0.8
 - pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.0.0.9
+- pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.3.248
+- pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.3.248.10
+- pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.3.248.11
+- pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.3.248.7
+- pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.3.248.8
+- pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@11.3.248.9
 - pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@9.13.1098
 - pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@9.13.1107
 - pkg:nuget/Devart.Data.Oracle.EFCore.NetTopologySuite@9.13.1127
