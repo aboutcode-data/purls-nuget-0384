@@ -1,4 +1,5 @@
 - pkg:nuget/MonoSmith.Plugin.Sdk@0.12.0
+- pkg:nuget/MonoSmith.Plugin.Sdk@0.13.0
 - pkg:nuget/MonoSmith.Plugin.Sdk@0.7.0
 - pkg:nuget/MonoSmith.Plugin.Sdk@0.8.1
 - pkg:nuget/MonoSmith.Plugin.Sdk@2.0.0-beta.7
