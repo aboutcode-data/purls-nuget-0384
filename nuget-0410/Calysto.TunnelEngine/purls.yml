@@ -60,6 +60,7 @@
 - pkg:nuget/Calysto.TunnelEngine@1.0.229
 - pkg:nuget/Calysto.TunnelEngine@1.0.230
 - pkg:nuget/Calysto.TunnelEngine@1.0.231
+- pkg:nuget/Calysto.TunnelEngine@1.0.269
 - pkg:nuget/Calysto.TunnelEngine@1.0.55
 - pkg:nuget/Calysto.TunnelEngine@1.0.56
 - pkg:nuget/Calysto.TunnelEngine@1.0.57
