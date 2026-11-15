@@ -17,3 +17,5 @@
 - pkg:nuget/MonoGame.Framework.Native@3.8.5-develop.6
 - pkg:nuget/MonoGame.Framework.Native@3.8.5-develop.7
 - pkg:nuget/MonoGame.Framework.Native@3.8.5-develop.8
+- pkg:nuget/MonoGame.Framework.Native@3.8.6-preview.2
+- pkg:nuget/MonoGame.Framework.Native@3.8.6.1
