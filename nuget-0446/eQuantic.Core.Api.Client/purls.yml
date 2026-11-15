@@ -52,3 +52,4 @@
 - pkg:nuget/eQuantic.Core.Api.Client@1.9.1
 - pkg:nuget/eQuantic.Core.Api.Client@1.9.2
 - pkg:nuget/eQuantic.Core.Api.Client@1.9.3
+- pkg:nuget/eQuantic.Core.Api.Client@6.0.0
