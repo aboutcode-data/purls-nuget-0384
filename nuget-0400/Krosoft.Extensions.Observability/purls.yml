@@ -1,4 +1,6 @@
 - pkg:nuget/Krosoft.Extensions.Observability@2026.10.15.11604
+- pkg:nuget/Krosoft.Extensions.Observability@2026.11.16.13527
+- pkg:nuget/Krosoft.Extensions.Observability@2026.11.16.13584
 - pkg:nuget/Krosoft.Extensions.Observability@2026.8.27.9685
 - pkg:nuget/Krosoft.Extensions.Observability@2026.8.28.9790
 - pkg:nuget/Krosoft.Extensions.Observability@2026.9.1.10131
