@@ -198,3 +198,6 @@
 - pkg:nuget/ghul.analysis.protocol@73.1.0
 - pkg:nuget/ghul.analysis.protocol@73.1.10
 - pkg:nuget/ghul.analysis.protocol@73.1.12
+- pkg:nuget/ghul.analysis.protocol@75.0.0
+- pkg:nuget/ghul.analysis.protocol@75.0.6
+- pkg:nuget/ghul.analysis.protocol@75.0.7
