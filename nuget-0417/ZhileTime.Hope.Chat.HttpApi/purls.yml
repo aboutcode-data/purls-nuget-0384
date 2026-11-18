@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.Chat.HttpApi@11.0.0
+- pkg:nuget/ZhileTime.Hope.Chat.HttpApi@12.1.0
 - pkg:nuget/ZhileTime.Hope.Chat.HttpApi@4.0.1
 - pkg:nuget/ZhileTime.Hope.Chat.HttpApi@4.1.0
 - pkg:nuget/ZhileTime.Hope.Chat.HttpApi@4.1.2
