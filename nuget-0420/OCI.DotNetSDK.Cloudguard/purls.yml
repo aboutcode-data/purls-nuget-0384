@@ -57,6 +57,7 @@
 - pkg:nuget/OCI.DotNetSDK.Cloudguard@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudguard@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Cloudguard@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Cloudguard@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudguard@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudguard@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudguard@17.1.0
