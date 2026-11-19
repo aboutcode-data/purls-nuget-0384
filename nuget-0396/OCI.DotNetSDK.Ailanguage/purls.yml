@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Ailanguage@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Ailanguage@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Ailanguage@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Ailanguage@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Ailanguage@18.3.0
 - pkg:nuget/OCI.DotNetSDK.Ailanguage@18.4.0
 - pkg:nuget/OCI.DotNetSDK.Ailanguage@18.5.0
