@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Utils.CronExpressions@11.0.361
 - pkg:nuget/Soenneker.Utils.CronExpressions@11.0.364
 - pkg:nuget/Soenneker.Utils.CronExpressions@11.0.365
+- pkg:nuget/Soenneker.Utils.CronExpressions@11.0.370
 - pkg:nuget/Soenneker.Utils.CronExpressions@3.0.1
 - pkg:nuget/Soenneker.Utils.CronExpressions@3.0.10
 - pkg:nuget/Soenneker.Utils.CronExpressions@3.0.100
