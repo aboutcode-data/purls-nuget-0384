@@ -29,3 +29,5 @@
 - pkg:nuget/MSTest.SourceGeneration@2.0.0-alpha.25465.3
 - pkg:nuget/MSTest.SourceGeneration@2.0.0-alpha.25507.7
 - pkg:nuget/MSTest.SourceGeneration@2.0.0-alpha.26363.8
+- pkg:nuget/MSTest.SourceGeneration@4.5.1
+- pkg:nuget/MSTest.SourceGeneration@4.5.2
