@@ -6,6 +6,8 @@
 - pkg:nuget/Tomix.Cli@0.11.1-preview.0.2
 - pkg:nuget/Tomix.Cli@0.11.1-preview.0.3
 - pkg:nuget/Tomix.Cli@0.12.2-preview.0.6
+- pkg:nuget/Tomix.Cli@0.15.1
+- pkg:nuget/Tomix.Cli@0.15.1-preview.0.6
 - pkg:nuget/Tomix.Cli@0.4.0
 - pkg:nuget/Tomix.Cli@0.5.1-preview.0.4
 - pkg:nuget/Tomix.Cli@0.6.0
