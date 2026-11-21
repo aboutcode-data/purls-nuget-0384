@@ -38,3 +38,5 @@
 - pkg:nuget/SabreTools.RedumpLib@2.0.1
 - pkg:nuget/SabreTools.RedumpLib@3.4.0
 - pkg:nuget/SabreTools.RedumpLib@3.5.2
+- pkg:nuget/SabreTools.RedumpLib@3.6.0
+- pkg:nuget/SabreTools.RedumpLib@3.6.1
