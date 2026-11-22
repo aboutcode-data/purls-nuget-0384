@@ -20,6 +20,7 @@
 - pkg:nuget/ghul.cli@10.6.0
 - pkg:nuget/ghul.cli@10.7.1
 - pkg:nuget/ghul.cli@10.7.2
+- pkg:nuget/ghul.cli@10.8.0
 - pkg:nuget/ghul.cli@3.0.1
 - pkg:nuget/ghul.cli@3.1.0
 - pkg:nuget/ghul.cli@9.1.1
