@@ -1,3 +1,4 @@
+- pkg:nuget/WebSharper.GlMatrix@10.1.0.744
 - pkg:nuget/WebSharper.GlMatrix@2.4.49.110
 - pkg:nuget/WebSharper.GlMatrix@2.5.1.148-integration
 - pkg:nuget/WebSharper.GlMatrix@2.5.2.149
