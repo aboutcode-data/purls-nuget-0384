@@ -68,3 +68,4 @@
 - pkg:nuget/Codexcite.Blazor.Server@1.2.9
 - pkg:nuget/Codexcite.Blazor.Server@6.0.11
 - pkg:nuget/Codexcite.Blazor.Server@6.0.14
+- pkg:nuget/Codexcite.Blazor.Server@7.1.0
