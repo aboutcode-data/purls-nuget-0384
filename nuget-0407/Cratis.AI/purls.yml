@@ -36,6 +36,8 @@
 - pkg:nuget/Cratis.AI@7.170.5
 - pkg:nuget/Cratis.AI@7.177.0
 - pkg:nuget/Cratis.AI@7.180.0
+- pkg:nuget/Cratis.AI@7.185.1
+- pkg:nuget/Cratis.AI@7.186.0
 - pkg:nuget/Cratis.AI@7.2.0
 - pkg:nuget/Cratis.AI@7.2.2
 - pkg:nuget/Cratis.AI@7.3.1
