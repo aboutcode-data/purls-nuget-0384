@@ -21,3 +21,4 @@
 - pkg:nuget/Webority.Seo.AspNetCore@0.26.3
 - pkg:nuget/Webority.Seo.AspNetCore@0.29.0
 - pkg:nuget/Webority.Seo.AspNetCore@0.29.1
+- pkg:nuget/Webority.Seo.AspNetCore@0.30.0
