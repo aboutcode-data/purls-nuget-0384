@@ -69,3 +69,4 @@
 - pkg:nuget/HeroesDataParser@4.9.0
 - pkg:nuget/HeroesDataParser@4.9.1
 - pkg:nuget/HeroesDataParser@4.9.2
+- pkg:nuget/HeroesDataParser@5.2.1
