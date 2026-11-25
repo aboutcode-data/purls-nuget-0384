@@ -23,3 +23,5 @@
 - pkg:nuget/Webority.Delivery@0.66.0
 - pkg:nuget/Webority.Delivery@0.70.0
 - pkg:nuget/Webority.Delivery@0.70.1
+- pkg:nuget/Webority.Delivery@0.70.3
+- pkg:nuget/Webority.Delivery@0.71.0
