@@ -85,3 +85,4 @@
 - pkg:nuget/IL.Licensing.Validation@17.8.4.13
 - pkg:nuget/IL.Licensing.Validation@17.8.4.7
 - pkg:nuget/IL.Licensing.Validation@17.8.4.8
+- pkg:nuget/IL.Licensing.Validation@18.0.0.2
