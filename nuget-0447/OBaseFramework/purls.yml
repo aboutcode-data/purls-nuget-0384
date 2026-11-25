@@ -154,6 +154,7 @@
 - pkg:nuget/OBaseFramework@26.10.31
 - pkg:nuget/OBaseFramework@26.10.35
 - pkg:nuget/OBaseFramework@26.11.16
+- pkg:nuget/OBaseFramework@26.11.19
 - pkg:nuget/OBaseFramework@26.3.26
 - pkg:nuget/OBaseFramework@26.3.27
 - pkg:nuget/OBaseFramework@26.3.28
