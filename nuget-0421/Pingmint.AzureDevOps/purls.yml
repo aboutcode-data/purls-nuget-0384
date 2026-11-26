@@ -40,3 +40,8 @@
 - pkg:nuget/Pingmint.AzureDevOps@0.5.43
 - pkg:nuget/Pingmint.AzureDevOps@0.5.44
 - pkg:nuget/Pingmint.AzureDevOps@0.5.45
+- pkg:nuget/Pingmint.AzureDevOps@0.7.12
+- pkg:nuget/Pingmint.AzureDevOps@0.8.15
+- pkg:nuget/Pingmint.AzureDevOps@0.8.17
+- pkg:nuget/Pingmint.AzureDevOps@0.8.23
+- pkg:nuget/Pingmint.AzureDevOps@0.8.24
