@@ -5,6 +5,9 @@
 - pkg:nuget/Soenneker.Wise.OpenApiClientUtil@11.0.296
 - pkg:nuget/Soenneker.Wise.OpenApiClientUtil@11.0.298
 - pkg:nuget/Soenneker.Wise.OpenApiClientUtil@11.0.299
+- pkg:nuget/Soenneker.Wise.OpenApiClientUtil@11.0.302
+- pkg:nuget/Soenneker.Wise.OpenApiClientUtil@11.0.306
+- pkg:nuget/Soenneker.Wise.OpenApiClientUtil@11.0.310
 - pkg:nuget/Soenneker.Wise.OpenApiClientUtil@4.0.117
 - pkg:nuget/Soenneker.Wise.OpenApiClientUtil@4.0.118
 - pkg:nuget/Soenneker.Wise.OpenApiClientUtil@4.0.122

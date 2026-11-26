@@ -1,0 +1,5 @@
+- pkg:nuget/SI.Rosetta.Persistence.RavenDB@1.29.0
+- pkg:nuget/SI.Rosetta.Persistence.RavenDB@1.33.0
+- pkg:nuget/SI.Rosetta.Persistence.RavenDB@1.36.0
+- pkg:nuget/SI.Rosetta.Persistence.RavenDB@1.38.0
+- pkg:nuget/SI.Rosetta.Persistence.RavenDB@1.40.0
