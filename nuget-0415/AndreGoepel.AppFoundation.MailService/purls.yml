@@ -1,2 +1,4 @@
 - pkg:nuget/AndreGoepel.AppFoundation.MailService@1.0.0
 - pkg:nuget/AndreGoepel.AppFoundation.MailService@1.2.0
+- pkg:nuget/AndreGoepel.AppFoundation.MailService@1.6.0
+- pkg:nuget/AndreGoepel.AppFoundation.MailService@2.1.1
