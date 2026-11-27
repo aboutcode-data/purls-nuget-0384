@@ -9,3 +9,4 @@
 - pkg:nuget/Ecng.Data.PostgreSql@1.0.37
 - pkg:nuget/Ecng.Data.PostgreSql@1.0.45
 - pkg:nuget/Ecng.Data.PostgreSql@1.0.50
+- pkg:nuget/Ecng.Data.PostgreSql@1.0.68
