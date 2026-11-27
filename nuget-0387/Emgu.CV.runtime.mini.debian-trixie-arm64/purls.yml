@@ -1,1 +1,2 @@
 - pkg:nuget/Emgu.CV.runtime.mini.debian-trixie-arm64@4.13.0.5924
+- pkg:nuget/Emgu.CV.runtime.mini.debian-trixie-arm64@5.0.0.6584
