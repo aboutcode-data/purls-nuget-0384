@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Redis.Dump@11.0.170
+- pkg:nuget/Soenneker.Redis.Dump@11.0.187
+- pkg:nuget/Soenneker.Redis.Dump@11.0.189
+- pkg:nuget/Soenneker.Redis.Dump@11.0.205
 - pkg:nuget/Soenneker.Redis.Dump@4.0.105
 - pkg:nuget/Soenneker.Redis.Dump@4.0.121
 - pkg:nuget/Soenneker.Redis.Dump@4.0.126
