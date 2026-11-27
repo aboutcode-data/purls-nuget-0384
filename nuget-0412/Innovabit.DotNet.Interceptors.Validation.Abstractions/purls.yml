@@ -1,3 +1,6 @@
+- pkg:nuget/Innovabit.DotNet.Interceptors.Validation.Abstractions@1.0.0.102
 - pkg:nuget/Innovabit.DotNet.Interceptors.Validation.Abstractions@1.0.0.78
 - pkg:nuget/Innovabit.DotNet.Interceptors.Validation.Abstractions@1.0.0.81
 - pkg:nuget/Innovabit.DotNet.Interceptors.Validation.Abstractions@1.0.0.86
+- pkg:nuget/Innovabit.DotNet.Interceptors.Validation.Abstractions@2.0.106
+- pkg:nuget/Innovabit.DotNet.Interceptors.Validation.Abstractions@3.0.122
