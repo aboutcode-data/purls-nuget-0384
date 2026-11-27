@@ -1,5 +1,13 @@
 - pkg:nuget/Aiursoft.NiBot.Dedup@10.0.11
 - pkg:nuget/Aiursoft.NiBot.Dedup@10.0.2
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.20
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.22
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.23
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.24
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.25
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.26
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.30
+- pkg:nuget/Aiursoft.NiBot.Dedup@10.0.33
 - pkg:nuget/Aiursoft.NiBot.Dedup@8.0.1
 - pkg:nuget/Aiursoft.NiBot.Dedup@8.0.2
 - pkg:nuget/Aiursoft.NiBot.Dedup@8.0.3
