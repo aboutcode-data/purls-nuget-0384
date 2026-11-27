@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Pipedrive.HttpClients@11.0.177
+- pkg:nuget/Soenneker.Pipedrive.HttpClients@11.0.182
+- pkg:nuget/Soenneker.Pipedrive.HttpClients@11.0.190
+- pkg:nuget/Soenneker.Pipedrive.HttpClients@11.0.201
 - pkg:nuget/Soenneker.Pipedrive.HttpClients@4.0.105
 - pkg:nuget/Soenneker.Pipedrive.HttpClients@4.0.110
 - pkg:nuget/Soenneker.Pipedrive.HttpClients@4.0.114

@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.Bunny.HttpClients@11.0.136
+- pkg:nuget/Soenneker.Bunny.HttpClients@11.0.138
+- pkg:nuget/Soenneker.Bunny.HttpClients@11.0.151
+- pkg:nuget/Soenneker.Bunny.HttpClients@11.0.152
+- pkg:nuget/Soenneker.Bunny.HttpClients@11.0.154
+- pkg:nuget/Soenneker.Bunny.HttpClients@11.0.156
 - pkg:nuget/Soenneker.Bunny.HttpClients@4.0.100
 - pkg:nuget/Soenneker.Bunny.HttpClients@4.0.103
 - pkg:nuget/Soenneker.Bunny.HttpClients@4.0.107
