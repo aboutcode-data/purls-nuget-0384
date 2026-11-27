@@ -33,5 +33,6 @@
 - pkg:nuget/FAkka.Proc.Supervisor@1.571.101.400-win40
 - pkg:nuget/FAkka.Proc.Supervisor@1.572.0
 - pkg:nuget/FAkka.Proc.Supervisor@1.572.10-fodex002
+- pkg:nuget/FAkka.Proc.Supervisor@1.572.20
 - pkg:nuget/FAkka.Proc.Supervisor@1.572.7-fodex001
 - pkg:nuget/FAkka.Proc.Supervisor@1.572.8
