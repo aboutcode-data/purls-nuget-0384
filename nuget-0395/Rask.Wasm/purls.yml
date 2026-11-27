@@ -145,6 +145,9 @@
 - pkg:nuget/Rask.Wasm@0.24.1-alpha.0.752
 - pkg:nuget/Rask.Wasm@0.24.1-alpha.0.760
 - pkg:nuget/Rask.Wasm@0.24.1-alpha.0.766
+- pkg:nuget/Rask.Wasm@0.24.1-alpha.0.770
+- pkg:nuget/Rask.Wasm@0.24.1-alpha.0.774
+- pkg:nuget/Rask.Wasm@0.24.1-alpha.0.775
 - pkg:nuget/Rask.Wasm@0.24.1-alpha.0.91
 - pkg:nuget/Rask.Wasm@0.24.1-alpha.0.93
 - pkg:nuget/Rask.Wasm@0.7.1-alpha.0.29
