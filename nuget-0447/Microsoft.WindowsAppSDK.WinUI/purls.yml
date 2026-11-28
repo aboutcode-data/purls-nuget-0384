@@ -11,3 +11,4 @@
 - pkg:nuget/Microsoft.WindowsAppSDK.WinUI@2.2.1
 - pkg:nuget/Microsoft.WindowsAppSDK.WinUI@2.2.2-experimental
 - pkg:nuget/Microsoft.WindowsAppSDK.WinUI@2.3.10-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@2.7.0
