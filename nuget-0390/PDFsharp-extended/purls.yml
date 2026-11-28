@@ -7,4 +7,5 @@
 - pkg:nuget/PDFsharp-extended@1.2.0-preview-1
 - pkg:nuget/PDFsharp-extended@1.2.0-preview-2
 - pkg:nuget/PDFsharp-extended@1.3.0
+- pkg:nuget/PDFsharp-extended@1.4.0
 - pkg:nuget/PDFsharp-extended@6.0.0-preview-40100
