@@ -1,0 +1,5 @@
+- pkg:nuget/ExcelReader.Arrow@3.0.0
+- pkg:nuget/ExcelReader.Arrow@5.2.0
+- pkg:nuget/ExcelReader.Arrow@7.0.0-rc.1
+- pkg:nuget/ExcelReader.Arrow@7.0.0-rc.4
+- pkg:nuget/ExcelReader.Arrow@7.4.1
