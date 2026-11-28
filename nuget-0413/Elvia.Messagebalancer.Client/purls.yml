@@ -1,4 +1,5 @@
 - pkg:nuget/Elvia.Messagebalancer.Client@1.0.0
+- pkg:nuget/Elvia.Messagebalancer.Client@11.0.0
 - pkg:nuget/Elvia.Messagebalancer.Client@6.0.0
 - pkg:nuget/Elvia.Messagebalancer.Client@6.0.1
 - pkg:nuget/Elvia.Messagebalancer.Client@6.0.2
