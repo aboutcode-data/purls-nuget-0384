@@ -1,0 +1,5 @@
+- pkg:nuget/Pacem.Data.EntityFrameworkCore@0.10.19-galilei
+- pkg:nuget/Pacem.Data.EntityFrameworkCore@1.0.0-maiorana
+- pkg:nuget/Pacem.Data.EntityFrameworkCore@1.0.2
+- pkg:nuget/Pacem.Data.EntityFrameworkCore@1.1.0
+- pkg:nuget/Pacem.Data.EntityFrameworkCore@2.0.0-alpoge
